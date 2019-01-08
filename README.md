@@ -105,3 +105,13 @@ https://javarevisited.blogspot.com/2018/01/5-free-git-courses-for-programmers-to
 https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
 
 http://www.quickcode.co/course/1161/Git-&-GitHub-Crash-Course:-Create-a-Repository-From-Scratch!
+
+
+https://github.com/github/opensource.guide
+
+https://opensource.zalando.com/docs/releasing/index/
+
+https://opensource.com/article/18/5/git-branching
+https://opensource.guide/how-to-contribute/
+https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
+
