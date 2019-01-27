@@ -115,3 +115,12 @@ https://opensource.com/article/18/5/git-branching
 https://opensource.guide/how-to-contribute/
 https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
 
+
+
+#### Git Flow
+Sources:
+- https://nvie.com/posts/a-successful-git-branching-model/ - "A successful Git branching model" by Vincent Driessen
+- http://scottchacon.com/2011/08/31/github-flow.html - "GitHub Flow" by Scrott Chacon
+- https://www.creativebloq.com/…/choose-right-git-branching-s… - "Choose the right Git branching strategy" by Lorna Mitchell
+
+
