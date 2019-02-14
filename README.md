@@ -5,9 +5,11 @@ https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64 i'll exami
 https://devcenter.heroku.com/articles/node-best-practices
 
 ---
+---
 
+#### You cannot know basics of git without:
 
-- [ ] convert our flow to good git-flow.
+- [ ] convert flow to good git-flow.
 - [ ] broke few forks(0)
 - [ ] make 30 commits (0)
 - [ ] make 9 pull requests (0)
@@ -15,13 +17,13 @@ https://devcenter.heroku.com/articles/node-best-practices
 - [ ] make 5-10 future branches, related in a different ways(few times checkout from develop, few times from each other feature branch)(0)
 - [ ] 6 branch merges(0)
 
-**use command line only**
+Note: **you should use command line only**
 
-https://github.com/blog/831-issues-2-0-the-next-generation
-https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
-https://guides.github.com/features/issues/
+- https://github.com/blog/831-issues-2-0-the-next-generation
+- https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
+- https://guides.github.com/features/issues/
 
-https://stackoverflow.com/questions/4528869/how-do-you-attach-a-new-pull-request-to-an-existing-issue-on-github
+- https://stackoverflow.com/questions/4528869/how-do-you-attach-a-new-pull-request-to-an-existing-issue-on-github
 
 ---
 
@@ -55,7 +57,7 @@ Forking, Pull requests
 - https://www.youtube.com/watch?v=yr6IzOGoMsQ
 
 
-#### let's go with practice part. 
+#### Practice part(aka exam). 
 - [ ] please delete everything from master branch. only readme file should be.
 - [ ] create a featured branch from master and call it `develop`.
 - [ ] put all your current code on this branch and commit it by using CLI(before you just drag-n-drop your code in browser)
