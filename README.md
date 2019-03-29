@@ -127,3 +127,6 @@ Sources:
 - https://nvie.com/posts/a-successful-git-branching-model/ - "A successful Git branching model" by Vincent Driessen
 - http://scottchacon.com/2011/08/31/github-flow.html - "GitHub Flow" by Scrott Chacon
 - https://www.creativebloq.com/…/choose-right-git-branching-s… - "Choose the right Git branching strategy" by Lorna Mitchell
+
+
+- https://github.com/agis/git-style-guide
