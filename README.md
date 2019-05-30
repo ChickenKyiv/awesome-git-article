@@ -113,6 +113,7 @@ I can recommend to complete a “How to Use Git and GitHub” on Udacity.
 - http://www.quickcode.co/course/1161/Git-&-GitHub-Crash-Course:-Create-a-Repository-From-Scratch!
 - https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
 - https://dev.to/neshaz/git-commands-ultimate-tutorial-part-2-7ko
+- https://blog.algolia.com/master-git-rebase/
 
 #### open source
 - https://github.com/github/opensource.guide
