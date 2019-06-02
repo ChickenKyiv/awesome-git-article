@@ -47,7 +47,7 @@ Mastering Issues + good old blog post
 - https://guides.github.com/features/issues/
 - https://blog.github.com/2011-04-09-issues-2-0-the-next-generation/
 
-Keeping a fork up to date
+#### Keeping a fork up to date
 - https://gist.github.com/CristinaSolana/1885435
 
 Pro Git book
