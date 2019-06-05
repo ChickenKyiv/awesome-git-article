@@ -47,6 +47,9 @@ Mastering Issues + good old blog post
 - https://guides.github.com/features/issues/
 - https://blog.github.com/2011-04-09-issues-2-0-the-next-generation/
 
+- https://help.github.com/en/articles/about-pull-request-merges
+- https://stackoverflow.com/questions/16955980/git-merge-master-into-feature-branch
+
 #### Keeping a fork up to date
 - https://gist.github.com/CristinaSolana/1885435
 
