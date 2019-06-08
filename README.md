@@ -65,6 +65,10 @@ GitHub Bootcamp
 - https://www.youtube.com/watch?v=G1I3HF4YWEw
 - https://www.youtube.com/watch?v=yr6IzOGoMsQ
 
+#### Adding your changes to other contirubutor pull request
+- https://help.github.com/en/articles/checking-out-pull-requests-locally
+- https://www.burntfen.com/2015-10-30/how-to-amend-a-commit-on-a-github-pull-request
+
 
 #### Practice part(aka exam). 
 - [ ] please delete everything from master branch. only readme file should be.
@@ -77,7 +81,7 @@ GitHub Bootcamp
 
 later
 - [ ] let's create some merge conflicts(i'll try to help you) - buzz me when you'll get to this stage.
-
+- creating 2 independent branches from master - make changes at branch01, open a pull request. checkout from master another branch - branch001. checkout pullrequest from branch01 and try to add your code changes from branch001
 
 #### Questions
 - Tell me please what is `HEAD` thing about?
