@@ -81,7 +81,7 @@ GitHub Bootcamp
 
 later
 - [ ] let's create some merge conflicts(i'll try to help you) - buzz me when you'll get to this stage.
-- creating 2 independent branches from master - make changes at branch01, open a pull request. checkout from master another branch - branch001. checkout pullrequest from branch01 and try to add your code changes from branch001
+- [ ] creating 2 independent branches from master - make changes at branch01, open a pull request. checkout from master another branch - branch001. checkout pullrequest from branch01 and try to add your code changes from branch001
 
 #### Questions
 - Tell me please what is `HEAD` thing about?
