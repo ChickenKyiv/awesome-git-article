@@ -12,3 +12,8 @@ Junk links
 - Github Repository link
 - Article to publish, based on a content that stored here...
 
+https://try.github.io/
+
+
+Book: https://git-scm.com/book/en/v2
+https://www.learnenough.com/git-tutorial/getting_started
