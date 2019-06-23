@@ -1,0 +1,10 @@
+https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
+https://egghead.io/courses/practical-git-for-everyday-professional-use
+https://rogerdudler.github.io/git-guide/
+
+
+https://gitexercises.fracz.com/exercise/master
+
+https://learngitbranching.js.org/
+
+https://github.com/praqma-training/git-katas
