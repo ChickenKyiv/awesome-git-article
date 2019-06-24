@@ -1,6 +1,10 @@
 # Awesome articles about Git, GitHub, Git Flow  
 
 
+https://github.com/ChickenKyiv/awesome-flexbox-tutorials/blob/master/README.md
+https://github.com/ChickenKyiv/flexbox-course/blob/master/Videos-ALL.md
+https://github.com/Multishifties/No-Nonsense-Github-Project
+
 <p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
 
 
