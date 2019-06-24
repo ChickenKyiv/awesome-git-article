@@ -1,31 +1,9 @@
-# awesome-git-articles
+# Awesome articles about Git, GitHub, Git Flow  
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-git-article) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-git-article)
-![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true =100x)
 
-
-#### TOC
-
-
-- You cannot know git basics without doing this
-- Additional information
-- Git + GitHub
-- Keeping a fork up to date
-- Pro Git book
-- GitHub Bootcamp
-- Forking, Pull requests
-- Adding your changes to other contirubutor pull request
-- Practice part(aka exam).
-- Exam questions
-- How to Use Git and GitHub Udacity course
-- Pool of articles for mastering git
-- Github and Open Source
-- Git Flow
-- Github Cheatsheet
-- Git Style Guide https://github.com/agis/git-style-guide
-
-
-# Flexbox Course Resource Materials!
 
 This repository contains additional resources for the Skillshare flexbox course.
 
@@ -33,6 +11,37 @@ This repository contains additional resources for the Skillshare flexbox course.
 ### Table of Contents
 
 Each folder includes a readme that outlines the topics covered in each video, along with any links that were maintained. Some folders also include the code used in that lesson.
+
+
+
+
+
+
+#### TOC
+
+
+
+- [You cannot know git basics without doing this](./video-01)
+- [Additional information](./video-02)
+- [Git + GitHub](./video-03)
+- [Keeping a fork up to date](./video-04)
+
+
+- [Forking, Pull requests](./video-07)
+- [Adding your changes to other contirubutor pull request](./video-08)
+- [Practice part(aka exam)](./video-09)
+- [Exam questions](./video-10)
+- ["How to Use Git and GitHub" Udacity course](./video-11)
+- [Pool of articles for mastering git](./video-12)
+- [Github and Open Source](./video-13)
+- [Git Flow](./video-14)
+
+- [Github Cheatsheet](./video-15)
+- [Git Style Guide](https://github.com/agis/git-style-guide)
+- [Pro Git book](https://git-scm.com/book/en/v2)
+- [GitHub Bootcamp](https://help.github.com/categories/bootcamp/)
+
+
 
 - [Video 1: Intro](./video-01)
 - [Video 2: Tooling](./video-02)
@@ -54,35 +63,15 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 
 
-## Git
-
-
-
----
-
-
-#### additional information
-- https://github.com/blog/831-issues-2-0-the-next-generation
-- https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
-- https://guides.github.com/features/issues/
-
-
----
-
 #### Git + GitHub
-Trunk-based Development vs. Git Flow
-- https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64
 
 
+#### Mastering Issues + good old blog post
+- https://guides.github.com/features/issues/
+- https://blog.github.com/2011-04-09-issues-2-0-the-next-generation/
 
 Link to the issue number on GitHub within a commit message
 - https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
-
-
-
-Mastering Issues + good old blog post
-- https://guides.github.com/features/issues/
-- https://blog.github.com/2011-04-09-issues-2-0-the-next-generation/
 
 
 
@@ -90,11 +79,6 @@ Mastering Issues + good old blog post
 #### Keeping a fork up to date
 - https://gist.github.com/CristinaSolana/1885435
 
-Pro Git book
-- https://git-scm.com/book/en/v2
-
-GitHub Bootcamp
-- https://help.github.com/categories/bootcamp/
 
 
 
@@ -117,17 +101,22 @@ GitHub Bootcamp
 
 - https://medium.com/@Code2040/part-2-git-and-github-whats-the-big-deal-7cd97d91b3c9
 
+
 - https://medium.com/mindorks/fundamentals-of-git-and-github-6d0ca62b0b1f
 
 
 
 - https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48
 
+
 - https://codeburst.io/git-good-part-a-e0d826286a2a
+
 
 - https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f
 
+
 - https://blog.usejournal.com/getting-started-with-version-control-part-ii-169d400c7440
+
 
 - https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba
 
@@ -156,6 +145,7 @@ GitHub Bootcamp
 
 
 - https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
+
 
 
 - https://dev.to/neshaz/git-commands-ultimate-tutorial-part-2-7ko
