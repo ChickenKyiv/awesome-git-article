@@ -3,11 +3,34 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-git-article) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-git-article)
 ![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
+
+#### TOC
+
+- Git Flow
+- You cannot know git basics without doing this
+- #### additional information
+- #### Git + GitHub
+- #### Keeping a fork up to date
+- Pro Git book
+- GitHub Bootcamp
+- Forking, Pull requests
+- Adding your changes to other contirubutor pull request
+- Practice part(aka exam).
+- Exam questions
+- How to Use Git and GitHub Udacity course
+- Pool of articles for mastering git
+- Github and Open Source
+- Git Flow
+- Github Cheatsheet
+- Git Style Guide https://github.com/agis/git-style-guide
+
+
+
 ## Git
 
 #### Git Flow
-https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64 
-Please read this article if you want to pass exam to me. I'll examine you. 
+https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64
+Please read this article if you want to pass an examp quiestions related to git basics. I'll examine you.
 You need to understand the logic of future branching.
 
 https://devcenter.heroku.com/articles/node-best-practices
@@ -73,13 +96,13 @@ GitHub Bootcamp
 - https://www.burntfen.com/2015-10-30/how-to-amend-a-commit-on-a-github-pull-request
 
 
-#### Practice part(aka exam). 
+#### Practice part(aka exam).
 - [ ] please delete everything from master branch. only readme file should be.
 - [ ] create a featured branch from master and call it `develop`.
 - [ ] put all your current code on this branch and commit it by using CLI(before you just drag-n-drop your code in browser)
 - [ ] push changes into the repository so i can see your actual progress
 - [ ] create a featured branch from `develop` and name it understandable. at this branch, you'll install packages flow-bin and jest
-- [ ] create featured brach from `develop` and name it too. at this branch, you'll work on next code chapter, so name should show this. 
+- [ ] create featured brach from `develop` and name it too. at this branch, you'll work on next code chapter, so name should show this.
 - [ ] push this updates to code repo and buzz me.
 
 later
