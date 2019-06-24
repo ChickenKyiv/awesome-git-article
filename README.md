@@ -1,6 +1,9 @@
 # Awesome articles about Git, GitHub, Git Flow  
 
-<img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" style="text-align:center;"/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
+
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-git-article) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-git-article)
 
