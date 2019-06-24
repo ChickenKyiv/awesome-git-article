@@ -9,7 +9,7 @@
 
 
 
-This repository contains additional resources for the Skillshare flexbox course.
+This repository contains important resources for mastering Git.
 
 
 ### Table of Contents
@@ -165,3 +165,18 @@ Link to the issue number on GitHub within a commit message
 
 
 - https://github.com/agis/git-style-guide
+
+
+----
+
+https://github.com/cjpatoilo/gitfit
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+
+
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+https://github.com/joseluisq/gitnow
+
+https://github.com/reenhanced/gitreflow
+
+https://github.com/Multishifties/No-Nonsense-Github-Project

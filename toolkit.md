@@ -1,7 +1,5 @@
 
----
-
-TOOLKIT
+## TOOLKIT
 - For practice I use [CodePen](https://codepen.io/)
 - [Github](https://github.com/) - if you ok to share your code with other -  My current pick
 - [Bitbucket](https://bitbucket.org/)  - if you want to have a free storage
@@ -12,5 +10,5 @@ TOOLKIT
 ---
 
 Code editors
-- [Sublime Text](https://www.sublimetext.com/3) I use it around 6 years. Small size and has everything important.
-- [Atom](https://atom.io/) because it's baked by GitHub team and it's also have a GitHub sync.
+- [Sublime Text](https://www.sublimetext.com/3) I use it for around 6 years. Small size and has everything important.
+- [Atom](https://atom.io/) because it's baked by GitHub team and it also has a GitHub sync.

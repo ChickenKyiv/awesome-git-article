@@ -1,11 +1,11 @@
 #### Questions
 
-#### "complex" practice excercises, that should be done at home
+#### "complex" practice exercises, that should be done at home
 
 #### List of used materials
 
 #### Sub-list with links from different Units
 
-#### List of software, that i'm personally using at my work
+#### List of software, that I'm personally using at my work
 
 ####
