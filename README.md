@@ -33,9 +33,9 @@ https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64
 Please read this article if you want to pass an examp quiestions related to git basics. I'll examine you.
 You need to understand the logic of future branching.
 
-https://devcenter.heroku.com/articles/node-best-practices
 
----
+
+
 ---
 
 #### You cannot know basics of git without:
