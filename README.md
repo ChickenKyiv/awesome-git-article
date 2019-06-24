@@ -6,11 +6,11 @@
 
 #### TOC
 
-- Git Flow
+
 - You cannot know git basics without doing this
-- #### additional information
-- #### Git + GitHub
-- #### Keeping a fork up to date
+- Additional information
+- Git + GitHub
+- Keeping a fork up to date
 - Pro Git book
 - GitHub Bootcamp
 - Forking, Pull requests
@@ -25,30 +25,41 @@
 - Git Style Guide https://github.com/agis/git-style-guide
 
 
+# Flexbox Course Resource Materials!
+
+This repository contains additional resources for the Skillshare flexbox course.
+
+
+### Table of Contents
+
+Each folder includes a readme that outlines the topics covered in each video, along with any links that were maintained. Some folders also include the code used in that lesson.
+
+- [Video 1: Intro](./video-01)
+- [Video 2: Tooling](./video-02)
+- [Video 3: HTML5 Basics & Semantic Elements](./video-03)
+- [Video 4: `reset.css` and Linking CSS & HTML](./video-04)
+- [Video 5: Flexbox -- A New Context](./video-05)
+- [Video 6: Main Axis, Cross Axis](./video-06)
+- [Video 7: `flex-direction` and `flex-wrap`](./video-07)
+- [Video 8: `align-items` and `justify-content`](./video-08)
+- [Video 9: `grow`, `basis`, `order`](./video-09)
+- [Video 10: Flexbox Froggy!](./video-10)
+- [Video 11: The Holy Grail Layout](./video-11)
+- [Video 12: Why Responsive Design?](./video-12)
+- [Video 13: Media Queries in Action](./video-13)
+- [Video 14: Layout & Design 101](./video-14)
+- [Video 15: A Full Build](./video-15)
+- [Video 16: Conclusion](./video-16)
+
+
+
 
 ## Git
-
-#### Git Flow
-https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64
-Please read this article if you want to pass an examp quiestions related to git basics. I'll examine you.
-You need to understand the logic of future branching.
-
 
 
 
 ---
 
-#### You cannot know basics of git without:
-
-- [ ] convert flow to good git-flow.
-- [ ] broke few forks(0)
-- [ ] make 30 commits (0)
-- [ ] make 9 pull requests (0)
-- [ ] make 6 merge conflicts and fix them (0)
-- [ ] make 5-10 future branches, related in a different ways(few times checkout from develop, few times from each other feature branch)(0)
-- [ ] 6 branch merges(0)
-
-Note: **you should use command line only, no GUI**
 
 #### additional information
 - https://github.com/blog/831-issues-2-0-the-next-generation
@@ -61,6 +72,8 @@ Note: **you should use command line only, no GUI**
 #### Git + GitHub
 Trunk-based Development vs. Git Flow
 - https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64
+
+
 
 Link to the issue number on GitHub within a commit message
 - https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
@@ -88,10 +101,11 @@ GitHub Bootcamp
 
 
 ---
-
+#### Course
 
 [I can recommend to complete a “How to Use Git and GitHub” on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-
+- https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
+- https://javarevisited.blogspot.com/2018/01/5-free-git-courses-for-programmers-to-learn-online.html
 ---
 
 #### Pool of articles for mastering git
@@ -105,7 +119,7 @@ GitHub Bootcamp
 
 - https://medium.com/mindorks/fundamentals-of-git-and-github-6d0ca62b0b1f
 
-- https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
+
 
 - https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48
 
@@ -117,21 +131,36 @@ GitHub Bootcamp
 
 - https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba
 
+
+
+
 - https://medium.com/@themehunt/learn-git-today-useful-online-resources-to-master-git-github-53cdbff223a1
+
+
+
 
 - https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742
 
-- https://javarevisited.blogspot.com/2018/01/5-free-git-courses-for-programmers-to-learn-online.html
+
+
+
+
 
 - https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
 
+
+
 - http://www.quickcode.co/course/1161/Git-&-GitHub-Crash-Course:-Create-a-Repository-From-Scratch!
+
+
+
 
 - https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
 
+
 - https://dev.to/neshaz/git-commands-ultimate-tutorial-part-2-7ko
 
-- https://blog.algolia.com/master-git-rebase/
+
 
 #### open source
 - https://github.com/github/opensource.guide
@@ -139,13 +168,6 @@ GitHub Bootcamp
 - https://opensource.com/article/18/5/git-branching
 - https://opensource.guide/how-to-contribute/
 
-
-
-#### Git Flow
-Sources:
-- []() https://nvie.com/posts/a-successful-git-branching-model/ - "A successful Git branching model" by Vincent Driessen
-- []() http://scottchacon.com/2011/08/31/github-flow.html - "GitHub Flow" by Scrott Chacon
-- []() https://www.creativebloq.com/…/choose-right-git-branching-s… - "Choose the right Git branching strategy" by Lorna Mitchell
 
 
 - https://github.com/agis/git-style-guide
