@@ -4,7 +4,10 @@ If you want to start using Git, you need to know where to host your repositories
 
 Here the three most popular Git hosting services:
 
-GitHub: Owned recently by Microsoft — Launched in 2008 (31 million users in October 2018).
-GitLab: Owned by GitLab Inc. — Launched in 2011.
-BitBucket: Owned by Atlassian — Launched in June 2008.
-Note: Hosting platforms are available in two ways, on the cloud (hosted online) or self-installed on your server (private hosting).
+- *GitHub*: Owned recently by Microsoft — Launched in 2008 (37 million users in May 2019 and 100 million open repositories).
+
+- *GitLab*: Owned by GitLab Inc. — Launched in 2011.
+
+- *BitBucket*: Owned by Atlassian — Launched in June 2008.
+
+> Note: Hosting platforms are available in two ways, on the cloud (hosted online) or self-installed on your server (private hosting).
