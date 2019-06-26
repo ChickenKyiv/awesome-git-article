@@ -1,10 +1,10 @@
 # Awesome articles about Git, GitHub, Git Flow  
 
-
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 https://github.com/ChickenKyiv/awesome-flexbox-tutorials/blob/master/README.md
 https://github.com/ChickenKyiv/flexbox-course/blob/master/Videos-ALL.md
 https://github.com/Multishifties/No-Nonsense-Github-Project
-
+https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/
 <p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
 
 
