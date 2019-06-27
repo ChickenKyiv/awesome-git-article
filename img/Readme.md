@@ -12,9 +12,9 @@
 
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/1_RAPOc6m359TcoUL92dLLjA.png)
 
-[!xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/1_aSG9Zd8VJz1SAsb2NhQdlA.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/1_aSG9Zd8VJz1SAsb2NhQdlA.png)
 
-[!xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/1_m6eXJSapIW68YdsHPBGBjA.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/1_m6eXJSapIW68YdsHPBGBjA.png)
 
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/1_zvwgIycD5ePCTv1fUNdeJg.png)
 
