@@ -22,15 +22,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-01-git-example.png)
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-02-github-signin.png)
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-03-new-repo-drowpdown.png)
