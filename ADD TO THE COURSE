@@ -1,0 +1,34 @@
+Into explanation of how git works something in the middle or after working first things like commit, status, etc.
+
+#### HEAD
+**HEAD** is a reference to the last commit in the currently check-out branch. You can think of the **HEAD** as the "current branch". When you switch branches with git checkout, the **HEAD** revision changes to point to the tip of the new branch.
+
+#### Close Git issue from commit
+
+The following keywords, followed by an issue number, will close the issue:
+
+`close`
+`closes`
+`closed`
+`fix`
+`fixes`
+`fixed`
+`resolve`
+`resolves`
+`resolved`
+For example, to close an issue numbered 123,
+you could use the phrase "Closes #123" or "Closes: #123" in your pull request description or commit message. Once the branch is merged into the default branch, the issue will close.
+
+#### origin
+
+#### branch -a
+
+#### fetch
+
+#### pull
+
+#### merge
+
+#### stash
+
+#### cherry pick
