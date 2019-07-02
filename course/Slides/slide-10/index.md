@@ -19,18 +19,29 @@ When you want to save your work, four steps are required. These steps are called
 To do this, you can type the following command to make a list of changes appear:
 `$ git status`
 
+
 “git status” output in our project
+
+
 “add”: With the help of the change list, you can add all files you want to upload with the following command:
 `$ git add [FILENAME] [FILENAME]` [...]
+
 In our case, we are going to add “README.md” because we want to save this file.
 
 `$ git add README.md`
-Note: If you type again “git status”, the “README.md” will appear now in green. This means that we have added the file correctly.
+
+> Note: If you type again “git status”, the “README.md” will appear now in green. This means that we have added the file correctly.
+
+
+
+
 
 “commit”: Now that we have added the files of our choice, we need to write a message to explain what we have done. This message may be useful later if we want to check the change history. Here is an example of what we can put in our case.
+
 `$ git commit -m "Added README.md with good description in it."`
 
 “push”: You’re there, you can now put your work online! If you type the following command, all your work will be put online and visible directly on the repository page.
+
 `$ git push origin master`
 
 You did it! If you come back on your repository page on GitHub, you are going to your “README.md” file with a beautiful preview of it.

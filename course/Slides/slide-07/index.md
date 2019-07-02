@@ -16,6 +16,8 @@ Finally, verify that Git is installed correctly:
 
 `$ git --version`
 
+---
+
 #### For MacOSX:
 First, download the latest Git for Mac installer.
 
@@ -25,13 +27,15 @@ Finally, open a terminal and verify that Git is installed correctly:
 
 `$ git --version`
 
+---
+
 #### For Windows:
 First, download the latest Git for Windows installer.
 
 Next, follow instructions on your screen (you can leave the default options).
 
 
-Finally, open a terminal (example: `powershell` or g`it bash`) and verify that Git is installed correctly:
+Finally, open a terminal (example: `powershell` or `git bash`) and verify that Git is installed correctly:
 
 `$ git --version`
 
