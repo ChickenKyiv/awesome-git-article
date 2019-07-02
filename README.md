@@ -56,7 +56,7 @@ Hope you will enjoy it and in a few years you became a coding rock-star. Good lu
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [GitHub Bootcamp](https://help.github.com/categories/bootcamp/)
 
-
+---------
 
 - [Video 1: Intro](./video-01)
 - [Video 2: Tooling](./video-02)
@@ -75,10 +75,6 @@ Hope you will enjoy it and in a few years you became a coding rock-star. Good lu
 - [Video 15: A Full Build](./video-15)
 - [Video 16: Conclusion](./video-16)
 
-
-
-
-#### Git + GitHub
 
 
 #### Mastering Issues + good old blog post
@@ -179,18 +175,19 @@ Link to the issue number on GitHub within a commit message
 
 
 ----
+#### Uncategorized
 
-https://github.com/cjpatoilo/gitfit
-https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+- https://github.com/cjpatoilo/gitfit
+- https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 
 
-https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
-https://github.com/joseluisq/gitnow
+- https://github.com/joseluisq/gitnow
 
-https://github.com/reenhanced/gitreflow
+- https://github.com/reenhanced/gitreflow
 
-https://github.com/Multishifties/No-Nonsense-Github-Project
+- https://github.com/Multishifties/No-Nonsense-Github-Project
 
 
 

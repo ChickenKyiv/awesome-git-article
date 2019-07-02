@@ -94,3 +94,18 @@ unit 4
 
 надо показать разные методы работы git-flow чтобы можно было touch a different aspects of coding workflow.
 + showing forking will be an awesome  
+
+
+---
+
+```
+master
+ -- develop
+   -- feature/changesA
+     -- fix/improvementA1
+     -- fix/improvementA2
+   -- feature/changesB
+     -- hotfix/improvementB1
+     -- bug/issue-B003
+     -- bug/issue-B004     
+```
