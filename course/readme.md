@@ -2,10 +2,6 @@
 - https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/
 
 
-
-
-
-
 #### Learning Git on practice
 
 - Course Image / Thumbnail -> use Canva or similar to my template
