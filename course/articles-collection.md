@@ -1,5 +1,12 @@
-
 #### Pool of articles for mastering git
+
+Additional links
+
+
+List of links, to read and advance your skills in future.
+
+
+
 
 - https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2
 

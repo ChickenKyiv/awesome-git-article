@@ -12,6 +12,4 @@
 
 - https://github.com/Multishifties/No-Nonsense-Github-Project
 
-
-
 -----

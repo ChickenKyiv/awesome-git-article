@@ -1,4 +1,4 @@
-#### Course
+#### Courses
 
 [I can recommend to complete a “How to Use Git and GitHub” on Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0

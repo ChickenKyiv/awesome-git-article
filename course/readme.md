@@ -1,5 +1,5 @@
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/
 
 
 
@@ -23,7 +23,3 @@ Junk links
 ---
 
 https://try.github.io/
-
-
-Book: https://git-scm.com/book/en/v2
-https://www.learnenough.com/git-tutorial/getting_started

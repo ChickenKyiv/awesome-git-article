@@ -36,22 +36,22 @@ Hope you will enjoy it and in a few years you became a coding rock-star. Good lu
 
 
 
-- [You cannot know git basics without doing this](./video-01)
-- [Additional information](./video-02)
-- [Git + GitHub](./video-03)
-- [Keeping a fork up to date](./video-04)
+- [You cannot know git basics without doing this](./xxx)
+- [Additional information](./xxx)
+- [Git + GitHub](./xxx)
+- [Keeping a fork up to date](./xxx)
 
 
-- [Forking, Pull requests](./video-07)
-- [Adding your changes to other contirubutor pull request](./video-08)
-- [Practice part(aka exam)](./video-09)
-- [Exam questions](./video-10)
-- ["How to Use Git and GitHub" Udacity course](./video-11)
-- [Pool of articles for mastering git](./video-12)
-- [Github and Open Source](./video-13)
-- [Git Flow](./video-14)
+- [Forking, Pull requests](./xxx)
+- [Adding your changes to other contirubutor pull request](./xxx)
+- [Practice part(aka exam)](./xxx)
+- [Exam questions](./xxx)
+- ["How to Use Git and GitHub" Udacity course](./xxx)
+- [Pool of articles for mastering git](./xxx)
+- [Github and Open Source](./xxx)
+- [Git Flow](./xxx)
 
-- [Github Cheatsheet](./video-15)
+- [Github Cheatsheet](./xxx)
 - [Git Style Guide](https://github.com/agis/git-style-guide)
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [GitHub Bootcamp](https://help.github.com/categories/bootcamp/)
