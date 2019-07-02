@@ -1,4 +1,6 @@
-#### If you are a developer and you want to get started with Git and GitHub, then this article is made for you.
+#### Slide 1: What is Git
+
+If you are a developer and you want to get started with Git and GitHub, then this course is made for you.
 
 After a short introduction on what is Git and how to use it, you will be able to create and work on a GitHub project.
 
