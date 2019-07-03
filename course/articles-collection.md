@@ -10,13 +10,13 @@ List of links, to read and advance your skills in future.
 
 - https://medium.com/@porteneuve/video-collaboration-best-practices-with-git-and-github-2b5de9424af2
 
+
 - https://hackernoon.com/just-starting-out-with-git-and-github-it-gets-easier-honest-c4fabc93c11
 
 
 - https://medium.com/@Code2040/part-2-git-and-github-whats-the-big-deal-7cd97d91b3c9
 
 
-- https://medium.com/mindorks/fundamentals-of-git-and-github-6d0ca62b0b1f
 
 
 

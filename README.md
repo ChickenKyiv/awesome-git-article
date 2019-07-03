@@ -24,13 +24,6 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 
 
-#### Course Description
-This course is for beginners software engineers. It will teach you basics about coding workflow, that millions of developers using worldwide. Each day. It can be a good foundation that can help you to create a good software in future.
-
-You will learn about history of code version system, how to use it, how to collaborate with other developers and how to prevent errors or intersections. and at the same time, developing code projects.
-
-
-Hope you will enjoy it and in a few years you became a coding rock-star. Good luck!
 
 #### TOC
 
@@ -58,24 +51,6 @@ Hope you will enjoy it and in a few years you became a coding rock-star. Good lu
 
 ---------
 
-- [Video 1: Intro](./video-01)
-- [Video 2: Tooling](./video-02)
-- [Video 3: HTML5 Basics & Semantic Elements](./video-03)
-- [Video 4: `reset.css` and Linking CSS & HTML](./video-04)
-- [Video 5: Flexbox -- A New Context](./video-05)
-- [Video 6: Main Axis, Cross Axis](./video-06)
-- [Video 7: `flex-direction` and `flex-wrap`](./video-07)
-- [Video 8: `align-items` and `justify-content`](./video-08)
-- [Video 9: `grow`, `basis`, `order`](./video-09)
-- [Video 10: Flexbox Froggy!](./video-10)
-- [Video 11: The Holy Grail Layout](./video-11)
-- [Video 12: Why Responsive Design?](./video-12)
-- [Video 13: Media Queries in Action](./video-13)
-- [Video 14: Layout & Design 101](./video-14)
-- [Video 15: A Full Build](./video-15)
-- [Video 16: Conclusion](./video-16)
-
-
 
 #### Mastering Issues + good old blog post
 - https://guides.github.com/features/issues/
@@ -90,11 +65,6 @@ Link to the issue number on GitHub within a commit message
 #### Keeping a fork up to date
 - https://gist.github.com/CristinaSolana/1885435
 
-
-
-
-
-
 ---
 
 
@@ -105,8 +75,8 @@ Link to the issue number on GitHub within a commit message
 - https://opensource.guide/how-to-contribute/
 
 
-
 - https://github.com/agis/git-style-guide
-
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+https://try.github.io/
 
 ----

@@ -4,6 +4,8 @@
 
 - [Git patterns and anti-patterns for successful developers : Build 2018](https://www.youtube.com/watch?v=ykZbBD-CmP8)
 
+- [Git basics Video Tutorials](https://medium.com/mindorks/fundamentals-of-git-and-github-6d0ca62b0b1f)
+
 #### Forking, Pull requests
 - [1.3: Forks and Pull Requests - Git and GitHub for Poets](https://www.youtube.com/watch?v=_NrSWLQsDL4)
 - [How To Fork A GitHub Repo and Submit A Pull Request](https://www.youtube.com/watch?v=G1I3HF4YWEw)
