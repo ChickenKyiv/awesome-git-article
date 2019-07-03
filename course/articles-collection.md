@@ -53,13 +53,6 @@ List of links, to read and advance your skills in future.
 
 
 
-- http://www.quickcode.co/course/1161/Git-&-GitHub-Crash-Course:-Create-a-Repository-From-Scratch!
-
-
-
-
-- https://vickylai.com/verbose/git-commit-practices-your-future-self-will-thank-you-for/
-
 
 
 - https://dev.to/neshaz/git-commands-ultimate-tutorial-part-2-7ko

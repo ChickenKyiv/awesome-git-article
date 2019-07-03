@@ -1,3 +1,6 @@
+## include to intro a you-cannot-know-basics-of-git-without-practice.md
+
+
 Class project introduction
 
 Your project is to create a page with recipe cards. Nothing complex, but you need to use flexboxes. Don't use CSS grids or Bootstrap.
