@@ -14,12 +14,12 @@
 
 ---
 
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=D4h8Dbrjt4M
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=fcXas3KinyU
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=H6azLRf-iCE
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=oCM2se_ZTFk
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=gYqRhL2qNRw
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=k-umB9rTm-E
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=WZ0mETE1J94
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=V_1f1CpyreE
-https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=0fQuew5y_nA
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=D4h8Dbrjt4M
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=fcXas3KinyU
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=H6azLRf-iCE
+ - https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=oCM2se_ZTFk
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=gYqRhL2qNRw
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=k-umB9rTm-E
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=WZ0mETE1J94
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=V_1f1CpyreE
+- https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=0fQuew5y_nA
