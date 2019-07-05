@@ -1,14 +1,22 @@
-####
+﻿####
 #2 step — Your first GitHub project!
 Now that you’re ready, you can return to the main GitHub page and click on the “+” icon in the menu bar.
 
 
 
 
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/02-github-new-repository-dropdown.png)
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-04-new-repository-dropdown.png)
 GitHub menu bar with “+” icon
 
 Once you click on this button, a new menu appears with a “New repository” entry. Click on it!
 
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/02-github-new-repository-dropdown.png)
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-03-new-repo-drowpdown.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-04-new-repository-dropdown.png)
 
 Submenu with “New repository” entry
 The repository creation page will appear. Choose a cool name for your first repository and put a small description before clicking on the “Create repository” button.
@@ -16,6 +24,10 @@ The repository creation page will appear. Choose a cool name for your first repo
 > Note: In the context of this article, please don’t tick “Initialize this repository with a README”. We will create a “README” file later!
 
 
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/06-create-new-repository-form.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-04-new-repository-dropdown.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-05-new-repo-form.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-06-profile-dropdown.png)
 
 Repository creation menu
 

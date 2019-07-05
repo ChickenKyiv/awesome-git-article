@@ -1,4 +1,7 @@
-#### Slide 1: What is Git
+﻿#### Slide 1: What is Git
+
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/03-git-github-logos.jpeg)
 
 If you are a developer and you want to get started with Git and GitHub, then this course is made for you.
 
