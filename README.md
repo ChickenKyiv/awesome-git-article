@@ -1,5 +1,9 @@
 # Awesome articles about Git, GitHub, Git Flow  
 
+  https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a#useful-git-commands
+  https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+  https://github.com/github/training-kit
+
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 - https://github.com/ChickenKyiv/awesome-flexbox-tutorials/blob/master/README.md
 - https://github.com/ChickenKyiv/flexbox-course/blob/master/Videos-ALL.md
