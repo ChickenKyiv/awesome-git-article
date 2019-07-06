@@ -1,3 +1,5 @@
+#### Slide 12: Edit information at your local repository
+
 ﻿## Useful commands for Git
 You are still missing some essential commands as a beginner with Git. Here is a list that will be useful to you during your project.
 

@@ -1,4 +1,5 @@
-####
+#### Slide 8: Git install locally for different OS
+
 b. Git installation
 
 Now you need to install Git tools on your computer. There are different Git software, but it’s better to install the basic one to start. We will use the command line to communicate with GitHub.

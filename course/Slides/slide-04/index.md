@@ -1,4 +1,5 @@
-####
+#### Slide 5: Why to use Git
+
 Why use Git as a developer
 This tool is inescapable for worldwide developers. Here is a list of advantages of this tool:
 

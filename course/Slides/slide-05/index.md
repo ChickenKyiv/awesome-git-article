@@ -1,4 +1,5 @@
-####
+#### Slide 6: Create GitHub account
+
 Now, let’s practice with Git and GitHub
 Now that you know what Git and Github are, it’s time to practice with concrete exercises.
 

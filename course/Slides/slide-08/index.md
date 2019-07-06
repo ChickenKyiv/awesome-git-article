@@ -1,4 +1,5 @@
-﻿####
+﻿#### Slide 9: Configure your Git credentials. aka your digital sign for code
+
 #2 step — Your first GitHub project!
 Now that you’re ready, you can return to the main GitHub page and click on the “+” icon in the menu bar.
 

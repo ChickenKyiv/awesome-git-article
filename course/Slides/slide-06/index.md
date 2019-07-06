@@ -1,5 +1,6 @@
-####
-#1 step — Time to start!
+#### Slide 7: Create clean code repository on Github
+
+##1 step — Time to start!
 Looking forward to getting started? Let’s do it!
 
 This first exercise is not very complicated; it’s divided into two steps. The Git installation and GitHub account creation.

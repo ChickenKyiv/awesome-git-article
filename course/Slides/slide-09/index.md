@@ -1,4 +1,5 @@
-﻿####
+﻿#### Slide 10: This info will help to understand who exactly made that changes in Git history.
+
 #3 step — A good cover
 It’s time to make your first modification to your repository. What do you think about creating a cover for it, a kind of welcome text?
 

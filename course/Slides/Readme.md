@@ -1,6 +1,6 @@
 #### Slides that we'll use in our course
 
-
+я
 ### Table of Contents
 
 Each folder includes a readme that outlines the topics covered in each slide, along with any links that were maintained. Some folders also include the code used in that lesson.
@@ -28,4 +28,4 @@ Each folder includes a readme that outlines the topics covered in each slide, al
 
 - [Slide 15: Useful commands for Git](./Slide-15)
 - [Slide 16: Summary](./Slide-16)
-- [Slide 17: Advanced things to read after finishing this course.](./Slide-17)
+- [Slide 17: Advanced things to read after finishing this course](./Slide-17)
