@@ -29,15 +29,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/b-01-git-init.png)
 
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/b-02-create-file.png)
@@ -63,22 +54,42 @@
 
 
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon1.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon2.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon3.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon4.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon5.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon6.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon7.png)
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon8.png)
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon9.png)
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon10.png)
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon11.png)
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon12.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon13.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon14.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/c-carbon15.png)
+
+-------
+
+
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/d-git-checkout-dot.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/d-git-checkout-filename.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/d-git-clean.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/d-git-commit.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/d-git-diff.png)
+![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/d-git-log.png)
