@@ -19,18 +19,20 @@ When you want to save your work, four steps are required. These steps are called
 
 
 > Note: All the following steps must be performed within your project.
-“status”: The first thing you need to do once your work is to check the files you have modified.
+
+
+**“status”**: The first thing you need to do once your work is to check the files you have modified.
 
 To do this, you can type the following command to make a list of changes appear:
 `$ git status`
 
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-09-git-status.png)
 
-“git status” output in our project
+<!-- “git status” output in our project -->
 
 ---
 
-“add”: With the help of the change list, you can add all files you want to upload with the following command:
+**“add”**: With the help of the change list, you can add all files you want to upload with the following command:
 `$ git add [FILENAME] [FILENAME]` [...]
 
 In our case, we are going to add “README.md” because we want to save this file.
@@ -42,13 +44,13 @@ In our case, we are going to add “README.md” because we want to save this fi
 ---
 
 
+NEXT SLIDEEEE
 
-
-“commit”: Now that we have added the files of our choice, we need to write a message to explain what we have done. This message may be useful later if we want to check the change history. Here is an example of what we can put in our case.
+**“commit”**: Now that we have added the files of our choice, we need to write a message to explain what we have done. This message may be useful later if we want to check the change history. Here is an example of what we can put in our case.
 
 `$ git commit -m "Added README.md with good description in it."`
 
-“push”: You’re there, you can now put your work online! If you type the following command, all your work will be put online and visible directly on the repository page.
+**“push”**: You’re there, you can now put your work online! If you type the following command, all your work will be put online and visible directly on the repository page.
 
 `$ git push origin master`
 

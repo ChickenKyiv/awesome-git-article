@@ -42,8 +42,10 @@ Finally, open a terminal (example: `powershell` or `git bash`) and verify that G
 
 
 
-For all users:
-One last step is needed to complete the installation correctly! You need to run in your terminal the following commands with your information to set a default username and email when you are going to save your work:
+#### For all users:
+> One last step is needed to complete the installation correctly! You need to run in your terminal the following commands with your information to set a default username and email when you are going to save your work:
 
-`$ git config --global user.name "Arthur Tkachenko"
-$ git config --global user.email "example@mail.com"`
+```
+$ git config --global user.name "Arthur Tkachenko"
+$ git config --global user.email "example@mail.com"
+```

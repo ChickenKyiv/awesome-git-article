@@ -18,4 +18,4 @@ You will learn
 - Merge old feature branch
 - Resolve conflict on new branch
 
-Master merge to feature branch
+- Master merge to feature branch Or it's a separated entity?
