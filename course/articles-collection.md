@@ -23,16 +23,21 @@ List of links, to read and advance your skills in future.
 - https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48
 
 
+
 - https://codeburst.io/git-good-part-a-e0d826286a2a
+
 
 
 - https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f
 
 
+
 - https://blog.usejournal.com/getting-started-with-version-control-part-ii-169d400c7440
 
 
+
 - https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba
+
 
 
 
@@ -42,7 +47,10 @@ List of links, to read and advance your skills in future.
 
 
 
+
 - https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742
+
+
 
 
 
