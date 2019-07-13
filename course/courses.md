@@ -7,3 +7,8 @@
 
 https://coursesity.com/course/1161/Git-&-GitHub-Crash-Course:-Create-a-Repository-From-Scratch
 http://www.quickcode.co/course/1161/Git-&-GitHub-Crash-Course:-Create-a-Repository-From-Scratch!
+
+
+https://frontendmasters.com/courses/git-in-depth/
+
+https://github.com/iamshaunjp/git-playlist
