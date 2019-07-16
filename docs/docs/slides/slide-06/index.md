@@ -17,6 +17,9 @@ This first exercise is not very complicated; it’s divided into  steps.
 
 To create your account, you need to connect on the main GitHub page and to fill in the registration form.
 
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/b-02-github-signin.png)
+
 Nothing more! You are officially a new member of GitHub!
 
 
@@ -31,7 +34,9 @@ Nothing more! You are officially a new member of GitHub!
 ---
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/b-02-github-signin.png)
+
+
+
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/003/001-plus-icon.png)
 
@@ -46,6 +51,12 @@ Nothing more! You are officially a new member of GitHub!
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/003/006-commit-locally.png)
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/003/007-profile-username.png)
+
+
+
+
+
+
 
 
 <!--
