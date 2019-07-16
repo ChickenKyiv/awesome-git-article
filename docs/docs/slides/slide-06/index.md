@@ -1,7 +1,7 @@
 ---
 id: slide6
 title: Slide61
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide61 - What is Git
 ---
 
 #### Slide 7: Create clean code repository on Github

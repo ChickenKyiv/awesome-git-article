@@ -1,7 +1,7 @@
 ---
 id: slide8
 title: Slide8
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide8 - What is Git
 ---
 
 ﻿#### Slide 9: Configure your Git credentials. aka your digital sign for code

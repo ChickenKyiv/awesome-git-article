@@ -1,7 +1,7 @@
 ---
 id: slide4
 title: Slide4
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide4 - What is Git
 ---
 
 #### Slide 5: Why to use Git

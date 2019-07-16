@@ -4,10 +4,10 @@ title: Slide1
 sidebar_label: Slide1 - What is Git
 ---
 
-#### Slide 1: What is Git
+#### Slide 1: Intro
 
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/03-git-github-logos.jpeg)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/03-git-github-logos.jpeg)
 
 If you are a developer and you want to get started with Git and GitHub, then this course is made for you.
 

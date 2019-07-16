@@ -1,7 +1,7 @@
 ---
 id: slide9
 title: Slide9
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide9 - What is Git
 ---
 
 ﻿#### Slide 10: This info will help to understand who exactly made that changes in Git history.

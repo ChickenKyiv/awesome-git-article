@@ -1,7 +1,7 @@
 ---
 id: slide7
 title: Slide7
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide7 - What is Git
 ---
 
 #### Slide 8: Git install locally for different OS

@@ -6,5 +6,30 @@
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
+  },
+  "slides": {
+    "Slides": [
+      "slides/slide1",
+      "slides/slide2",
+      "slides/slide3",
+      "slides/slide4",
+      "slides/slide5",
+      "slides/slide6",
+      "slides/slide7",
+      "slides/slide8",
+      "slides/slide9",
+      "slides/slide10",
+      "slides/slide11",
+      "slides/slide12",
+      "slides/slide13",
+      "slides/slide14",
+      "slides/slide15",
+      "slides/slide16",
+      "slides/slide17"
+    ]
   }
+
+
+
+
 }

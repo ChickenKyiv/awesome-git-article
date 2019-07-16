@@ -1,7 +1,7 @@
 ---
 id: slide3
 title: Slide3
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide31 - What is Git
 ---
 
 #### Slide 4: Online Git websites with git functionality and code hosting

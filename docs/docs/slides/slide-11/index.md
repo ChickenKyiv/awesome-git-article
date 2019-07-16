@@ -1,7 +1,7 @@
 ---
 id: slide11
 title: Slide11
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide11 - What is Git
 ---
 
 #### Slide 12: Edit information at your local repository

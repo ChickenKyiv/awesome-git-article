@@ -1,7 +1,7 @@
 ---
 id: slide10
 title: Slide10
-sidebar_label: Slide1 - What is Git
+sidebar_label: Slide10 - What is Git
 ---
 
 ﻿#### Slide 11: Clone(download) your GitHub repository to local PC
