@@ -1,12 +1,12 @@
 ---
 id: slide8
 title: Slide8
-sidebar_label: Slide8 - What is Git
+sidebar_label: Create Your first GitHub project!
 ---
 
-﻿#### Slide 9: Configure your Git credentials. aka your digital sign for code
+﻿<!-- #### Slide 9: Configure your Git credentials. aka your digital sign for code -->
 
-#2 step — Your first GitHub project!
+## Next step — Create Your first GitHub project!
 Now that you’re ready, you can return to the main GitHub page and click on the “+” icon in the menu bar.
 
 

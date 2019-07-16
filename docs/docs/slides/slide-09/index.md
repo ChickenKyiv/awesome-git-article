@@ -6,7 +6,7 @@ sidebar_label: Slide9 - What is Git
 
 ﻿#### Slide 10: This info will help to understand who exactly made that changes in Git history.
 
-#3 step — A good cover
+## 3 step3  — Create a good coverage for your repository
 It’s time to make your first modification to your repository. What do you think about creating a cover for it, a kind of welcome text?
 
 ## a. A local version of your project

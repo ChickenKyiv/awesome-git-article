@@ -7,10 +7,10 @@
 
 - https://github.com/ChickenKyiv/flexbox-course/blob/master/Videos-ALL.md
 - https://github.com/Multishifties/No-Nonsense-Github-Project
-https://wethefoss.github.io/Git-Commands/?ref=producthunt
-https://github.com/nnja/advanced-git/tree/master/exercises
+- https://wethefoss.github.io/Git-Commands/?ref=producthunt
+- https://github.com/nnja/advanced-git/tree/master/exercises
 
-https://www.atlassian.com/git/tutorials/comparing-workflows
+- https://www.atlassian.com/git/tutorials/comparing-workflows
 
 
 
@@ -85,7 +85,7 @@ Link to the issue number on GitHub within a commit message
 
 
 - https://github.com/agis/git-style-guide
-https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
-https://try.github.io/
+- https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+- https://try.github.io/
 
 ----

@@ -1,12 +1,12 @@
 ---
 id: slide4
 title: Slide4
-sidebar_label: Slide4 - What is Git
+sidebar_label: Why use Git as a developer
 ---
 
-#### Slide 5: Why to use Git
+#### Why use Git as a developer
 
-Why use Git as a developer
+
 This tool is inescapable for worldwide developers. Here is a list of advantages of this tool:
 
 No more copies, when you finish your work on a significant update for your application or a bug fix, you just need to “push” your project online to save it.
