@@ -4,7 +4,7 @@ title: Online Git services with code hosting
 sidebar_label: Online Git services with code hosting
 ---
 
-**Online Git services with code hosting**
+
 
 Where to find Git repositories
 If you want to start using Git, you need to know where to host your repositories. There are many hosting platforms where you can put your code free of charge. Some options aren’t free, but mostly you don’t need them except in specific cases.
