@@ -26,3 +26,11 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 15: Useful commands for Git](./video-15)
 - [Video 16: Summary](./video-16)
 - [Video 17: Advanced things to read after finishing this course.](./video-17)
+
+
+0 https://www.loom.com/share/8a8f7d10c9b54c19afa80e45f32711a6
+1 https://www.loom.com/share/c718cfadab334f1fadaf9de4d58792b6
+2 https://www.loom.com/share/9a83242834a24f1aa43b384bc952dace
+3 https://www.loom.com/share/98ad867b9f344862bd522fe425994c40
+4 https://www.loom.com/share/c96a13a15eed4efaa42a9b0d808bc2a3
+
