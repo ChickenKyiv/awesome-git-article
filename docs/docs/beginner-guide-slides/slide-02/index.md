@@ -1,3 +1,9 @@
+---
+id: slide2
+title: Slide2
+sidebar_label: Slide1 - What is Git
+---
+
 #### Slide 2: History of Git
 
 Version control, right?

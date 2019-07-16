@@ -1,6 +1,12 @@
+---
+id: slide11
+title: Slide11
+sidebar_label: Slide1 - What is Git
+---
+
 #### Slide 12: Edit information at your local repository
 
-﻿## Useful commands for Git
+### Useful commands for Git
 You are still missing some essential commands as a beginner with Git. Here is a list that will be useful to you during your project.
 
 Display the history of commits (all modifications made on the project).

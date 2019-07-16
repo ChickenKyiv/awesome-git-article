@@ -1,3 +1,9 @@
+---
+id: slide5
+title: Slide6
+sidebar_label: Slide1 - What is Git
+---
+
 #### Slide 6: Create GitHub account
 
 Now, let’s practice with Git and GitHub

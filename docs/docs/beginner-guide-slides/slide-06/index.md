@@ -1,3 +1,9 @@
+---
+id: slide6
+title: Slide61
+sidebar_label: Slide1 - What is Git
+---
+
 #### Slide 7: Create clean code repository on Github
 
 ##1 step — Time to start!

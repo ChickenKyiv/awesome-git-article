@@ -1,4 +1,10 @@
-﻿#### Slide 1: What is Git
+---
+id: slide1
+title: Slide1
+sidebar_label: Slide1 - What is Git
+---
+
+#### Slide 1: What is Git
 
 
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/03-git-github-logos.jpeg)
