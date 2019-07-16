@@ -1,5 +1,13 @@
 {
   "docs": {
+    "Docusaurus": ["doc1"],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  },
+  "slides": {
     "Slides": [
       "slides/slide1",
       "slides/slide2",
@@ -19,15 +27,5 @@
       "slides/slide16",
       "slides/slide17"
     ]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
-  },
-  "slides": {
-
   }
-
-
-
-
 }

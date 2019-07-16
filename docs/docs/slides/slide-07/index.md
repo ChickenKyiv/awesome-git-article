@@ -1,10 +1,10 @@
 ---
 id: slide7
-title: Slide7
+title: Git installation locally for different OS
 sidebar_label: Git install locally for different OS
 ---
 
-####  Git install locally for different OS
+
 
 b. Git installation
 

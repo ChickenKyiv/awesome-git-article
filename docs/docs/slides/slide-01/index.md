@@ -1,10 +1,10 @@
 ---
 id: slide1
-title: Slide1
+title: Course Intro
 sidebar_label: What is Git
 ---
 
-**Course Intro**
+
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/03-git-github-logos.jpeg)
 

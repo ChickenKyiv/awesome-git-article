@@ -1,10 +1,10 @@
 ---
 id: slide4
-title: Slide4
+title: Why use Git as a developer
 sidebar_label: Why use Git as a developer
 ---
 
-#### Why use Git as a developer
+
 
 
 This tool is inescapable for worldwide developers. Here is a list of advantages of this tool:

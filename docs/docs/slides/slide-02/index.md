@@ -1,10 +1,10 @@
 ---
 id: slide2
-title: Slide2
+title: What is Version control system
 sidebar_label: What is Version control system
 ---
 
-#### What is Version control system
+
 
 ![](https://www.linode.com/docs/development/version-control/introduction-to-version-control/1204-image_versioning_intro_1.jpg)
 
