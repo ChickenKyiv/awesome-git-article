@@ -6,8 +6,8 @@ sidebar_label: Slide1 - What is Git
 
 #### Slide 1: Intro
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/03-git-github-logos.jpeg)
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/03-git-github-logos.jpeg)
 
 If you are a developer and you want to get started with Git and GitHub, then this course is made for you.
 
@@ -20,4 +20,4 @@ Many control systems exist, like CVS, SVN, Mercurial and others, but today Git i
 
 > As of 2018, almost 90% of the 74,000 developers surveyed by Stack Overflow prefer to use Git for version control. Git dominates all other version control systems and adoption is up almost 20% from 2017 according to the survey. However, Git has not always been this ubiquitous. Let’s take a look at its ascent into mass popularity.
 
-Quote from : The Architecture and History of Git: A Distributed Version Control System(https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
+Quote from: The Architecture and History of Git: A Distributed Version Control System(https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)

@@ -17,18 +17,25 @@ To create your account, you need to connect on the main GitHub page and to fill 
 
 Nothing more! You are officially a new member of GitHub!
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/01-created-repository-help.png)
-
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/02-github-new-repository-dropdown.png)
-
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/04-github-empty-repository.png)
-
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/06-create-new-repository-form.png)
 
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-02-github-signin.png)
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-03-new-repo-drowpdown.png)
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-04-new-repository-dropdown.png)
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-05-new-repo-form.png)
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-06-profile-dropdown.png)
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-07-empty-repository.png)
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/01-created-repository-help.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/02-github-new-repository-dropdown.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/04-github-empty-repository.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/06-create-new-repository-form.png)
+
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-02-github-signin.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-03-new-repo-drowpdown.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-04-new-repository-dropdown.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-05-new-repo-form.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-06-profile-dropdown.png)
+
+![xxx](https://https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-07-empty-repository.png)

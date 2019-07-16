@@ -12,7 +12,11 @@ Now you can create a file named “README.md” in your folder (through the term
 
 If you want to do something cool, copy and paste this template in your “README.md” file. You can replace information between the hooks to personalize the output.
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-10-github-changes-readme-added.png)
+
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-10-github-changes-readme-added.png)
 
 
 c. Let’s share our work!
@@ -32,7 +36,10 @@ When you want to save your work, four steps are required. These steps are called
 To do this, you can type the following command to make a list of changes appear:
 `$ git status`
 
-![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/b-09-git-status.png)
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/blob/master/img/b-09-git-status.png)
 
 <!-- “git status” output in our project -->
 
