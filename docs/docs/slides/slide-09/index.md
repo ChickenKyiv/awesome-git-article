@@ -1,12 +1,14 @@
 ---
 id: slide9
-title: Slide9
-sidebar_label: Slide9 - What is Git
+title: Create a good coverage for your repository
+sidebar_label: Create a good coverage for your repository
 ---
 
-﻿#### Slide 10: This info will help to understand who exactly made that changes in Git history.
 
-## 3 step3  — Create a good coverage for your repository
+
+Information from this slide will help you to understand who exactly made that changes in Git history.
+
+#### step3  — Create a good coverage for your repository
 It’s time to make your first modification to your repository. What do you think about creating a cover for it, a kind of welcome text?
 
 ## a. A local version of your project
@@ -14,7 +16,7 @@ It’s time to make your first modification to your repository. What do you thin
 Your first mission is to get a copy of the repository on your computer. To do that, you need to “clone” the repository. On the repository page, you need to get the “HTTPS” address.
 
 
-
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/003/005-HTTPS-address.png)
 
 
 
