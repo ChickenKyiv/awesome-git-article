@@ -1,12 +1,12 @@
 ---
 id: slide10
-title: Slide10
-sidebar_label: Slide10 - What is Git
+title: b. Repository edition
+sidebar_label: b. Repository edition
 ---
+<!--
+﻿#### Slide 11: Clone(download) your GitHub repository to local PC -->
 
-﻿#### Slide 11: Clone(download) your GitHub repository to local PC
-
-b. Repository edition
+<!-- b. Repository edition -->
 
 Now you can create a file named “README.md” in your folder (through the terminal or user interface on your computer). I’m not giving you any more details about this step, nothing in particular. Open your folder and add a file as if it were a standard folder.
 
