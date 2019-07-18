@@ -9,6 +9,8 @@ You will learn about history of code version system, how to use it, how to colla
 
 
 Hope you will enjoy it and in a few years you became a coding rock-star. Good luck!
+
+
 ----------
 
 Class project introduction
