@@ -21,6 +21,6 @@ To add a file to a commit, you first need to add it to the staging environment.
 To do this, you can use the
 `git add <filename>` command 
 
-Once you've used the git add command to add all the files you want to the staging environment, you can then tell git to package them into a commit using the git commit command.
+Once you've used the `git add` command to add all the files you want to the staging environment, you can then tell git to package them into a commit using the git commit command.
 
 > Note: The staging environment, also called **'staging'**, is the new preferred term for this, but you can also see it referred to as the **'index'**.
