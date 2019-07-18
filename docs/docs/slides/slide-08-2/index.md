@@ -24,5 +24,5 @@ Documentation at GitHub are fantastic and I advice you to use it frequently. Par
 
 When you open your folder with repository(we don't have it yet, but in future), you will see a **.git** folder. It's like a history database, that store all changes, that was made at this repository.
 
-There a few, very similar Git CheetShets, I'll provide a links to them later, you may use one, that is more suitable for you.
+There a few, very similar Git CheetSheets, I'll provide a links to them later, you may use one, that is more suitable for you.
 You can also print some data and keep it on your table, so it will be more easy to remember commands that we'll learn here
