@@ -57,7 +57,7 @@ Remove all unexpected files in your project (not committed).
 Add all files and make a commit at the same time.
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/d-git-commit.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon.png)
 
 <!--
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/b-06-git-commit.png) -->
