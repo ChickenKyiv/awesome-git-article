@@ -6,7 +6,7 @@ Sources:
 - ["Choose the right Git branching strategy" by Lorna Mitchell](https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)
 - ["Trunk-based Development vs. Git Flow"](https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64)
 
-
+https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3
 
 ---------
 

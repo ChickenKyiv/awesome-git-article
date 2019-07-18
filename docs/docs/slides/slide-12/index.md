@@ -38,10 +38,16 @@ When it's done, you can **merge** your changes(that you commited to the git hist
 
 When you create a new branch, git tracks of which commit your branch was "branched". So all history of changes that was made before will be saved for each branch at repository separately.
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/cicd-basic-workflow.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/git-feature-flow.png)
+
+
+
 In order to create a new branch from your master branch you need to run
 
-`git checkout -b <branchName>`
-`git checkout -b feature1`
+<!-- `git checkout -b <branchName>`
+`git checkout -b feature1` -->
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/b-11-git-checkout-b.png)
 
