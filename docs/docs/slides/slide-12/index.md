@@ -51,8 +51,8 @@ In order to create a new branch from your master branch you need to run
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/b-11-git-checkout-b.png)
 
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/b-11-git-checkout-b.png)
+<!-- 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/b-11-git-checkout-b.png) -->
 
 
 this command combine 2 commands
