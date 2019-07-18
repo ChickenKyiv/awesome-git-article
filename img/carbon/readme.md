@@ -2,7 +2,7 @@
 
 ## storing images related to article
 
-
+x
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/a-000-local-folder.png)
 
 ![xxx](https://github.com/ChickenKyiv/awesome-git-article/blob/master/img/carbon/a-001-git-config.png)
