@@ -41,5 +41,4 @@ Below you can see an output from **git status** if you run it after committing y
 
 You did it! If you come back on your repository page on GitHub, you are going to your “README.md” file with a beautiful preview of it.
 
-
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/b-10-a.png)
