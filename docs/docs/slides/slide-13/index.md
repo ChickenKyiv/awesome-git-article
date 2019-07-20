@@ -1,6 +1,6 @@
 ---
-id: slide13
-title: Slide13
+id: slide13a
+title: Slide13a
 sidebar_label: Slide13 - What is Git
 ---
 
@@ -54,3 +54,11 @@ In the most frequent use cases, `git merge` is used to combine two branches.
 **The following examples in these slides will focus on this branch merging pattern.**
 
 In these scenarios, `git merge` takes two commit pointers, usually the branch tips, and will find a common base commit between them.
+
+
+
+- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+- https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging
+- https://help.github.com/en/articles/about-merge-methods-on-github
+- https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
+- https://help.github.com/en/articles/about-merge-conflicts
