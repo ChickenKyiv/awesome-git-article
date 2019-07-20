@@ -34,7 +34,7 @@ paste
 same file for generating an issue
 first version to solve this
 
-rename a file at one of your brances - make a commit and issue will gone
+rename a file at one of your branches - make a commit and issue will gone
 
 or copy your code, and place it after your changes from other branch
 

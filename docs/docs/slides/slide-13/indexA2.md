@@ -1,3 +1,32 @@
+
+Before we go to some examples of git merge i want touch a surface of git-flow workflow.
+It's another big and important topic, for mastering git.
+I'll advice you to research it on your own later
+
+
+Below is an example of how may look a simple git-flow branches tree.
+
+all of this - branches names, (yes you can put / into your branch name. it's like a directory on your computer. easy to understand and navigate).
+It'll require some practice, in order to incorporate git-flow into your coding process, but it will really help you with processes like git merge, git rebase and other.
+
+```
+master
+ -- develop
+   -- feature/changesA
+     -- fix/improvementA1
+     -- fix/improvementA2
+   -- feature/changesB
+     -- hotfix/improvementB1
+     -- bug/issue-B003
+     -- bug/issue-B004     
+```
+
+
+
+----------
+
+----------
+
 Let’s say you’re creating a feature branch off a master for a new feature you are about to implement. You finish up your work on the feature branch while one of your colleagues is making some changes on the master branch. Before creating a pull request, you might want to make sure you have the most updated master on your feature branch. There are a couple of ways to do this: Git merging and Git rebasing.
 
 Git Merging
