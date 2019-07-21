@@ -1,57 +1,114 @@
-#### update & merge
-to update your local repository to the newest commit, execute
-`git pull`
-in your working directory to fetch and merge remote changes.
-to merge another branch into your active branch (e.g. master), use
-`git merge <branch>``
-in both cases git tries to auto-merge changes. Unfortunately, this is not always possible and results in conflicts. You are responsible to merge those conflicts manually by editing the files shown by git. After changing, you need to mark them as merged with
-`git add <filename>`
-before merging changes, you can also preview them by using
-`git diff <source_branch> <target_branch>`
-
-----
+---
+id: slide13aaaa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
-generate a merge conflict
-1 branch
+----------
 
-paste
-```
-1
-- 11
-- 12
-- 13
- - 131
- - 132
-- 14
+Let’s say you’re creating a feature branch off a master for a new feature you are about to implement.
 
-2
-- 21
-- 22
-- 23
-- 24
-- 25
-```
+You finish up your work on the feature branch while one of your colleagues is making some changes on the master branch.
 
-paste
-```
-100
--101
--102
-- 103
-- 104
-- 105
-- 106
-```
+Before creating a pull request, you might want to make sure you have the most updated master on your feature branch.
 
-same file for generating an issue
-first version to solve this
+There are a couple of ways to do this: Git merging and Git rebasing.
 
-rename a file at one of your branches - make a commit and issue will gone
 
-or copy your code, and place it after your changes from other branch
+#### What it is
+I think of a merge as saying, “Git, please cram all of my new stuff into the existing stuff. If you cannot figure out how to cram it all together, ask me to resolve the conflicts.”
 
-it's maybe not the best way to solve coding conflicts, but it will give you an idea about how git tracking changes inside files
+#### How it works
+Say that Lydia creates an empty repo with a text file. She adds, “Hello World.” to the file and commits the change as C1. Lydia then realizes that she should have added more to this file, so she adds, “This is a sentence.” as the second commit (C2).
 
+HelloWorld.text now looks like this:
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+And the commit tree looks like this:
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+Then, Lydia decides she wants to add even more sentences to HelloWorld.txt, so she creates a branch. Let’s call the branch feature/more-sentences. She adds the sentence, “Another sentence.” to the HelloWorld.text file and commits that change as C3.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+As this is happening, another developer decides that “This is a sentence” should become “This is a sentence.”  She commits this change to master as C4.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+On master, HelloWorld.txt looks like this:
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+On feature/more-sentences, HelloWorld.txt looks like this:
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+To get the updates on master into her feature branch, Lydia could merge master into feature/more-sentences. The last commit on master (C4) is not an ancestor of the last commits on the branch feature/more-sentences (C3), meaning that there have been additional commits on master since the feature branch was created.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+To resolve the new commits on master with the feature branch, Git does a three-way merge between the tips of the two branches (C4 for master and C3 for feature/more-sentences) and the last common ancestor of those two branches (C2). The three-way merge creates a new commit with C3 and C4 as its parents.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+HelloWorld.txt now looks like this:
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+#### Tradeoffs
+
+Merging does not re-write Git history. If you want to keep an accurate representation of your repository without losing any history, merging might be the way to go.
+
+However, a historic Git history might mean compromising a clean Git history.  Using merging as the primary means of integration might mean more work-in-progresss commits and merge commits.
 
 ---
+
+## Git Rebasing
+
+#### What it is
+Rebasing is similar to asking Git, “Can you just add my new stuff on top of the stuff that has already been done?”
+
+#### How it works
+Let’s go back to the previous scenario: Lydia created the branch feature/more-sentences off the master. In the meantime, another developer had been adding commits to master. It looked like this:
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+If Lydia wanted to get the updates from master into her current branch without doing a merge commit, she could rebase her current branch on master (Git rebase master).  Rebasing off of master would replay all feature branch commits onto the tip of master.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+Because the commits on the feature/more-sentences branch are stored in a temporary file and replayed onto master, Lydia will essentially re-write her Git history with new commits. If there were any conflicts when replaying the commits on to the tip of master, Lydia would get to decide how to resolve them for the new commit being created.
+
+#### Tradeoffs
+
+Rebasing on a public branch can cause confusion. This method changes history by creating entirely new commits. If you rebase and push the changes to the remote, the remote might have a different history than someone else’s local copy of the same branch (if they have not yet fetched). The deviated history could lead to chaos if a developer pushes commits from their local branch to the rebased remote branch. So if you ever rebase a public branch, it is important to communicate that to the rest of the team.
+
+If rebasing is used carefully, it can give you a lot of flexibility. You can do things like create a Feature Branch A off of Feature Branch B, and then move the commits on Branch B (but not Branch A) over to master. For more on rebasing branches off of other branches, you can check out my colleague’s article on Git gardening.
+
+Rebasing also allows you to clean up unnecessary or poorly worded commits. When rebasing one branch onto another, you can rename commits, combine commits, or entirely delete commits. This helps you maintain a cleaner Git history and makes it easier to find a commit when performing something like a Git bisect.
+
+My personal favorite is that you no longer have merge commits in your Git history. When I am looking through Git history to find a specific change, I am concerned with figuring out distinct steps to create the feature, not with understanding the ins and outs of the implementation history. Though merge commits might show how the features were implemented and merged in, they don’t concisely sum up a chunk of work.
