@@ -17,15 +17,3 @@ It'll require some practice, in order to incorporate git-flow into your coding p
 
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
-
-<!-- ```
-master
- -- develop
-   -- feature/changesA
-     -- fix/improvementA1
-     -- fix/improvementA2
-   -- feature/changesB
-     -- hotfix/improvementB1
-     -- bug/issue-B003
-     -- bug/issue-B004     
-``` -->
