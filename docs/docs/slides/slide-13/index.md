@@ -13,6 +13,10 @@ Git Merge joins two or more development histories together.
 
 
 
+
+
+
+
 #### What is Doing?
 
 Incorporates changes from the named commits
