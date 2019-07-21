@@ -4,9 +4,24 @@ title: Git merge Part1
 sidebar_label: Git merge Part1
 ---
 
+**Git Merge table of contents**
+- git merge intro
+- details
+- how it works
+- preparing to merge
+- simple example
+- confirm the receiving branch
+- fetch latest remote commits
+- merging
+- advanced example
+- fast-forward merge
+- 3 way merge
+- resolving conflicts
+
 
 Git merge is a very huge topic inside of Git.
 We wouldn't touch everything on this course.
+
 For more details or advanced cases - I will share 3-4 important links in the end of this section.
 
 Git Merge joins two or more development histories together.
