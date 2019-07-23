@@ -24,6 +24,11 @@ both modified: hello.txt
 
 When Git encounters a conflict during a merge, It will edit the content of the affected files with visual indicators that mark both sides of the conflicting content. These visual markers are: <<<<<<<, =======, and >>>>>>>. It is helpful to search for a project for these indicators during a merge to find where conflicts need to be resolved.
 
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-conflict.png)
+
 ```
 here is some content not affected by the conflict
 <<<<<<< master
