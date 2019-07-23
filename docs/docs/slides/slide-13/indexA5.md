@@ -1,7 +1,7 @@
 ---
 id: slide13aaaxxxx
-title: Git flow simple example
-sidebar_label: Git flow simple example
+title: a
+sidebar_label: b
 ---
 
 

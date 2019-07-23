@@ -1,7 +1,7 @@
 ---
 id: slide13cc
-title: Slide13cc
-sidebar_label: Slide13 - What is Git
+title: Fast forward and 3-way merge example
+sidebar_label: Fast forward and 3-way merge example
 ---
 
 Our first example demonstrates a fast-forward merge. The code below creates a new branch, adds two commits to it, then integrates it into the mainline with a fast-forward merge.
@@ -9,25 +9,6 @@ Our first example demonstrates a fast-forward merge. The code below creates a ne
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
-```
-
-# Start a new feature
-git checkout -b new-feature master
-
-# Edit some files
-git add <file>
-git commit -m "Start a feature"
-
-# Edit some files
-git add <file>
-git commit -m "Finish a feature"
-
-# Merge in the new-feature branch
-git checkout master
-git merge new-feature
-git branch -d new-feature
-
-```
 
 This is a common workflow for short-lived topic branches that are used more as an isolated development than an organizational tool for longer-running features.
 
@@ -35,7 +16,6 @@ Also note that Git should not complain about the `git branch -d`, since new-feat
 
 If you require a merge commit during a fast forward merge for record-keeping purposes you can execute git merge with the --no-ff option.
 
-`git merge --no-ff <branch>`
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-no-fast-forward.png)
 
@@ -49,30 +29,6 @@ Start a new feature
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/3-way-merge-workflow.png)
 
-```
-
-git checkout -b new-feature master
-
-# Edit some files
-git add <file>
-git commit -m "Start a feature"
-
-# Edit some files
-git add <file>
-git commit -m "Finish a feature"
-
-# Develop the master branch
-git checkout master
-
-# Edit some files
-git add <file>
-git commit -m "Make some super-stable changes to master"
-
-# Merge in the new-feature branch
-git merge new-feature
-git branch -d new-feature
-
-```
 
 Note that it’s impossible for Git to perform a fast-forward merge, as there is no way to move master up to new-feature without backtracking.
 

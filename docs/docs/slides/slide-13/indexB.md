@@ -1,7 +1,7 @@
 ---
 id: slide13b
-title: Slide13b
-sidebar_label: Slide13 - What is Git
+title: Git Merge advanced example
+sidebar_label: Git Merge advanced example
 ---
 
 <!-- https://www.atlassian.com/git/tutorials/using-branches/git-merge -->
