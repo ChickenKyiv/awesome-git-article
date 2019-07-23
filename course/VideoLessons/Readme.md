@@ -50,3 +50,5 @@ Each folder includes a readme that outlines the topics covered in each video, al
 17 https://www.loom.com/share/f4ebb06451d447318a8e8de9c6333cfa
 
 18 https://www.loom.com/share/2acdf21b9d2d46cf83c0e02e818d7e0c
+19 https://www.loom.com/share/c229c43db0204d1f824f4b78e2eb3c10
+20 https://www.loom.com/share/5a4f02edae7847628e79b506e590f9fd
