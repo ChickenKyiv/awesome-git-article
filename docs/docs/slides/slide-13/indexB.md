@@ -4,7 +4,7 @@ title: Slide13b
 sidebar_label: Slide13 - What is Git
 ---
 
-https://www.atlassian.com/git/tutorials/using-branches/git-merge
+<!-- https://www.atlassian.com/git/tutorials/using-branches/git-merge -->
 
 You’ve decided that you’re going to work on issue **#53** in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the **git checkout** command with the **-b** switch:
 
