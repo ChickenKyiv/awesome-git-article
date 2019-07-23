@@ -23,6 +23,30 @@ in both cases git tries to auto-merge changes.
 before merging changes, you can also preview them by using
 `git diff <source_branch> <target_branch>`
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary.
+It was a basic overview of git merge command. Merging is an essential process when working with Git. We discussed the internal mechanics behind a merge and the differences between a fast forward merge and a three way, true merge. Some key take-aways are:
+
+
+- Git merging combines sequences of commits into one unified history of commits.
+- There are two main ways Git will merge: Fast Forward and Three way
+- Git can automatically merge commits unless there are changes that conflict in both commit sequences.
+
+
+
 ----
 
 
