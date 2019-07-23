@@ -5,7 +5,6 @@ sidebar_label: Git merge Part2
 ---
 
 
-----------
 
 Let’s say you’re creating a feature branch off a master for a new feature you are about to implement.
 
@@ -25,32 +24,33 @@ Say that Lydia creates an empty repo with a text file. She adds, “Hello World.
 HelloWorld.text now looks like this:
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/A-00-hello.png)
 
 
 And the commit tree looks like this:
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/0-c1-c2-master-branch.png)
 
 
 Then, Lydia decides she wants to add even more sentences to HelloWorld.txt, so she creates a branch. Let’s call the branch feature/more-sentences. She adds the sentence, “Another sentence.” to the HelloWorld.text file and commits that change as C3.
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
-
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/1-c1-c2-c3-feature.png)
 
 As this is happening, another developer decides that “This is a sentence” should become “This is a sentence.”  She commits this change to master as C4.
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/2-c1-c2-c3-c4-master.png)
 
 
 On master, HelloWorld.txt looks like this:
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/carbon/c-carbon7.png)
-
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/3-c1-c2-c3-c4-merge-commit.png)
 
 On feature/more-sentences, HelloWorld.txt looks like this:
 
