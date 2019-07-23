@@ -16,13 +16,18 @@ This is shorthand for:
 $ git branch iss53
 $ git checkout iss53
 ```
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
 You work on your website and do some commits. Doing so moves the iss53 branch forward because you have it checked out (that is, your HEAD is pointing to it):
 
 ```
-$ vim index.html
+# editing file index.html
 $ git commit -a -m 'added a new footer [issue 53]'
 ```
 
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
 
 
@@ -49,6 +54,8 @@ $ git checkout master
 Switched to branch 'master'
 ```
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
 At this point, your project working directory is exactly the way it was before you started working on issue #53, and you can concentrate on your hotfix.
 
 This is an important point to remember: when you switch branches, Git resets your working directory to look like it did the last time you committed on that branch.
@@ -59,12 +66,17 @@ Next, you have a hotfix to make. Let’s create a hotfix branch on which to work
 
 ```
 $ git checkout -b hotfix
-Switched to a new branch 'hotfix'
-$ vim index.html
+# Switched to a new branch 'hotfix'
+
+# editing file index.html
 $ git commit -a -m 'fixed the broken email address'
 [hotfix 1fb7853] fixed the broken email address
  1 file changed, 2 insertions(+)
 ```
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
 
  You can run your tests, make sure the hotfix is what you want, and finally merge the hotfix branch back into your master branch to deploy to production.
 
@@ -79,37 +91,53 @@ Fast-forward
  1 file changed, 2 insertions(+)
  ```
 
-You’ll notice the phrase “fast-forward” in that merge.
+
+ ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
+
+You’ll notice the phrase **“fast-forward”** in that merge.
  Because the commit C4 pointed to by the branch hotfix you merged in was directly ahead of the commit C2 you’re on, Git simply moves the pointer forward.
 
- To phrase that another way, when you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge  — this is called a “fast-forward.”
+ To phrase that another way, when you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge  — this is called a **“fast-forward.”**
 
 Your change is now in the snapshot of the commit pointed to by the master branch, and you can deploy the fix.
 
 After your super-important fix is deployed, you’re ready to switch back to the work you were doing before you were interrupted.
 
-However, first, you’ll delete the hotfix branch, because you no longer need it — the master branch points at the same place. You can delete it with the -d option to git branch:
+However, first, you’ll delete the hotfix branch, because you no longer need it — the master branch points at the same place. You can delete it with the **-d** option to **git branch**:
 
 ```
 $ git branch -d hotfix
 Deleted branch hotfix (3a0874c).
 ```
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
 Now you can switch back to your work-in-progress branch on issue **#53** and continue working on it.
 
 ```
 $ git checkout iss53
-Switched to branch "iss53"
-$ vim index.html
+# Switched to branch "iss53"
+
+# editing file index.html
 $ git commit -a -m 'finished the new footer [issue 53]'
 [iss53 ad82d7a] finished the new footer [issue 53]
 1 file changed, 1 insertion(+)
 ```
 
-It’s worth noting here that the work you did in your **hotfix branch** is not contained in the files in your **iss53 branch**. If you need to pull it in, you can merge your master branch into your iss53 branch by running git merge master, or you can wait to integrate those changes until you decide to pull the iss53 branch back into master later.
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
+It’s worth noting here that the work you did in your **hotfix branch** is not contained in the files in your **iss53 branch**.
+
+If you need to pull it in, you can merge your master branch into your **iss53 branch** by running `git merge master`, or you can wait to integrate those changes until you decide to pull the **iss53 branch** back into master later.
 
 #### Basic Merging
-Suppose you’ve decided that your issue **#53** work is complete and ready to be merged into your **master branch**. To do that, you’ll merge your **iss53 branch** into **master**, much like you merged your **hotfix branch** earlier. All you have to do is check out the branch you wish to merge into and then run the `git merge` command:
+
+Suppose you’ve decided that your issue **#53** work is complete and ready to be merged into your **master branch**.
+
+To do that, you’ll merge your **iss53 branch** into **master**, much like you merged your **hotfix branch** earlier.
+
+All you have to do is check out the branch you wish to merge into and then run the `git merge` command:
 
 ```
 $ git checkout master
@@ -118,7 +146,10 @@ $ git merge iss53
 Merge made by the 'recursive' strategy.
 index.html |    1 +
 1 file changed, 1 insertion(+)
+
 ```
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
 This looks a bit different than the hotfix merge you did earlier. In this case, your development history has diverged from some older point. Because the commit on the branch you’re on isn’t a direct ancestor of the branch you’re merging in, Git has to do some work. In this case, Git does a simple three-way merge, using the two snapshots pointed to by the branch tips and the common ancestor of the two.
 
@@ -131,6 +162,8 @@ Now that your work is merged in, you have no further need for the iss53 branch. 
 ```
 $ git branch -d iss53
 ```
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 

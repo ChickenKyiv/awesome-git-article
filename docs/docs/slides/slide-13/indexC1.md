@@ -37,6 +37,8 @@ If you require a merge commit during a fast forward merge for record-keeping pur
 
 `git merge --no-ff <branch>`
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-no-fast-forward.png)
+
 This command merges the specified branch into the current branch, but always generates a merge commit (even if it was a fast-forward merge). This is useful for documenting all merges that occur in your repository.
 
 #### 3-way merge
