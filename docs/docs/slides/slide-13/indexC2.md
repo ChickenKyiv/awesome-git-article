@@ -7,9 +7,15 @@ sidebar_label: Resolving conflict
 
 #### Resolving conflict
 
-If the two branches you're trying to merge both changed the same part of the same file, Git won't be able to figure out which version to use. When such a situation occurs, it stops right before the merge commit so that you can resolve the conflicts manually.
+If the two branches you're trying to merge both changed the same part of the same file, Git won't be able to figure out which version to use.
 
-The great part of Git's merging process is that it uses the familiar edit/stage/commit workflow to resolve merge conflicts. When you encounter a merge conflict, running the git status command shows you which files need to be resolved. For example, if both branches modified the same section of hello.txt, you would see something like the following:
+When such a situation occurs, it stops right before the merge commit so that you can resolve the conflicts manually.
+
+The great part of Git's merging process is that it uses the familiar edit/stage/commit workflow to resolve merge conflicts.
+
+When you encounter a merge conflict, running the `git status` command shows you which files need to be resolved.
+
+For example, if both branches modified the same section of **hello.txt**, you would see something like the following:
 
 
 ```
