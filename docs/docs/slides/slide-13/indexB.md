@@ -5,10 +5,6 @@ sidebar_label: Git Merge advanced example
 ---
 
 <!-- https://www.atlassian.com/git/tutorials/using-branches/git-merge -->
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/one.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/two.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/three.png)
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/four.png)
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/five.png)
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/six.png)
@@ -17,41 +13,26 @@ sidebar_label: Git Merge advanced example
 
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-00-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-01-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-02-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-03-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-04-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-05-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-06-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-07-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-08-merge-example.png)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-09-merge-example.png)
+
 
 
 
 You’ve decided that you’re going to work on issue **#53** in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the **git checkout** command with the **-b** switch:
 
-```
-$ git checkout -b feature/iss53
-Switched to a new branch "feature/iss53"
-This is shorthand for:
 
-$ git branch feature/iss53
-$ git checkout feature/iss53
-```
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-00-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-01-merge-example.png)
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/one.png)
 
 You work on your website and do some commits. Doing so moves the iss53 branch forward because you have it checked out (that is, your HEAD is pointing to it):
 
-```
-# editing file index.html
-$ git commit -a -m 'added a new footer [issue 53]'
-```
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-02-merge-example.png)
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/two.png)
 
 
 
@@ -59,6 +40,8 @@ $ git commit -a -m 'added a new footer [issue 53]'
 Now you get the call that there is an issue with the website, and you need to fix it immediately. With Git, you don’t have to deploy your fix along with the **iss53** changes you’ve made, and you don’t have to put a lot of effort into reverting those changes before you can work on applying your fix to what is in production.
 
 
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/three.png)
 
 
 
@@ -73,10 +56,8 @@ There are ways to get around this (namely, stashing and commit amending) that we
 
 For now, let’s assume you’ve committed all your changes, so you can switch back to your master branch:
 
-```
-$ git checkout master
-Switched to branch 'master'
-```
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-03-merge-example.png)
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
@@ -88,15 +69,8 @@ It adds, removes, and modifies files automatically to make sure your working cop
 
 Next, you have a hotfix to make. Let’s create a hotfix branch on which to work until it’s completed:
 
-```
-$ git checkout -b hotfix
-# Switched to a new branch 'hotfix'
 
-# editing file index.html
-$ git commit -a -m 'fixed the broken email address'
-[hotfix 1fb7853] fixed the broken email address
- 1 file changed, 2 insertions(+)
-```
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-04-merge-example.png)
 
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
@@ -106,14 +80,8 @@ $ git commit -a -m 'fixed the broken email address'
 
  You do this with the git merge command:
 
-```
-$ git checkout master
-$ git merge hotfix
-Updating f42c576..3a0874c
-Fast-forward
- index.html | 2 ++
- 1 file changed, 2 insertions(+)
- ```
+ ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-05-merge-example.png)
+
 
 
  ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
@@ -131,24 +99,15 @@ After your super-important fix is deployed, you’re ready to switch back to the
 
 However, first, you’ll delete the hotfix branch, because you no longer need it — the master branch points at the same place. You can delete it with the **-d** option to **git branch**:
 
-```
-$ git branch -d hotfix
-Deleted branch hotfix (3a0874c).
-```
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-06-merge-example.png)
+
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
 Now you can switch back to your work-in-progress branch on issue **#53** and continue working on it.
 
-```
-$ git checkout feature/iss53
-# Switched to branch "feature/iss53"
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-07-merge-example.png)
 
-# editing file index.html
-$ git commit -a -m 'finished the new footer [issue 53]'
-[iss53 ad82d7a] finished the new footer [issue 53]
-1 file changed, 1 insertion(+)
-```
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
@@ -164,15 +123,8 @@ To do that, you’ll merge your **feature/iss53 branch** into **master**, much l
 
 All you have to do is check out the branch you wish to merge into and then run the `git merge` command:
 
-```
-$ git checkout master
-Switched to branch 'master'
-$ git merge feature/iss53
-Merge made by the 'recursive' strategy.
-index.html |    1 +
-1 file changed, 1 insertion(+)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-08-merge-example.png)
 
-```
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
@@ -193,9 +145,7 @@ Now that your work is merged in, you have no further need for the **feature/iss5
 
 You can close the ticket in your ticket-tracking system, and delete the branch:
 
-```
-$ git branch -d feature/iss53
-```
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-09-merge-example.png)
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/git-merge-default.png)
 
