@@ -4,7 +4,7 @@ title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
 
-
+https://www.atlassian.com/git/tutorials/comparing-workflows
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 
