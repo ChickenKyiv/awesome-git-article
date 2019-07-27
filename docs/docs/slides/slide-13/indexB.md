@@ -6,6 +6,16 @@ sidebar_label: Git Merge advanced example
 
 <!-- https://www.atlassian.com/git/tutorials/using-branches/git-merge -->
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/one.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/two.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/three.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/four.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/five.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/six.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/seven.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/eight.png)
+
+
 You’ve decided that you’re going to work on issue **#53** in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the **git checkout** command with the **-b** switch:
 
 ```
