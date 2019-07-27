@@ -16,6 +16,20 @@ sidebar_label: Git Merge advanced example
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/eight.png)
 
 
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-00-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-01-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-02-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-03-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-04-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-05-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-06-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-07-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-08-merge-example.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/advanced/b-09-merge-example.png)
+
+
+
 You’ve decided that you’re going to work on issue **#53** in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the **git checkout** command with the **-b** switch:
 
 ```
