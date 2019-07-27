@@ -1,4 +1,12 @@
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 #### Make changes and commit
 
 Once the repository is cloned locally, a developer can make changes using the standard Git commit process: edit, stage, and commit.

@@ -1,4 +1,12 @@
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 
 
 ﻿#### Comparing Workflows
@@ -43,6 +51,12 @@ There are several publicized Git workflows that may be a good fit for your team.
 
 
 
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
 
 #### Where to go from here
 
@@ -65,6 +79,12 @@ By dedicating an isolated branch to each feature, it’s possible to initiate in
 
 
 
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
 
 #### Other common workflows
 The Centralized Workflow is essentially a building block for other Git workflows.
@@ -84,6 +104,12 @@ These extended workflows offer more specialized patterns in regard to managing b
 
 
 
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 ## Feature branching
@@ -105,6 +131,12 @@ It also means the master branch should never contain broken code, which is a hug
 
 
 
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
 
 ## Gitflow Workflow
 
@@ -122,6 +154,12 @@ Instead, it assigns very specific roles to different branches and defines how an
 
 
 
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 ## Forking Workflow
@@ -144,6 +182,12 @@ The Forking Workflow is fundamentally different than the other workflows discuss
 
 
 
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 #### Guidelines
@@ -170,6 +214,12 @@ If your team is using task tracking project management software you may want to 
 
 
 
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 
@@ -204,6 +254,12 @@ If your release schedule is less frequent, you may want to consider using Git ta
 
 
 
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 #### Summary
