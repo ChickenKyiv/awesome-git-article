@@ -7,7 +7,7 @@ You need to understand the logic of future branching.
 #### Practice part(aka exam).
 - [ ] please delete everything from master branch. only readme file should be.
 - [ ] create a featured branch from master and call it `develop`.
-- [ ] put all your current code on this branch and commit it by using CLI(before you just drag-n-drop your code in browser)
+- [ ] put all your current code on this branch and commit it by using CLI
 - [ ] push changes into the repository so i can see your actual progress
 - [ ] create a featured branch from `develop` and name it understandable. at this branch, you'll install packages flow-bin and jest
 - [ ] create featured brach from `develop` and name it too. at this branch, you'll work on next code chapter, so name should show this.
