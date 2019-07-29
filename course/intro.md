@@ -1,6 +1,8 @@
 #### Course Description
-This course is for beginners software engineers. It will teach you the basics about coding workflow, that millions of developers using worldwide. Each day. It can be a good foundation that can help you to create a good software in future.
-You will learn about the history of code version system, how to use it, how to collaborate with other developers and how to prevent errors or intersections. and at the same time, developing code projects.
+This course is for beginners software engineers. It will teach you the basics about coding workflow, that millions of developers using worldwide.
+Each day. It can be a good foundation that can help you to create a good software in future.
+You will learn about the history of code version system, how to use it, how to collaborate with other developers and how to prevent errors or intersections.
+and at the same time, developing code projects.
 Hope you will enjoy it and in a few years you become a coding rock-star. Good luck!
 
 If you are a developer and you want to get started with Git and GitHub, then this course is made for you.
