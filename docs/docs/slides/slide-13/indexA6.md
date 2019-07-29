@@ -1,7 +1,7 @@
 ---
 id: slide13aaaxxxxxx
-title: Git flow simple example
-sidebar_label: Git flow simple example
+title: Additional materials about branching and merging
+sidebar_label: Additional materials about branching and merging
 ---
 
 - https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
