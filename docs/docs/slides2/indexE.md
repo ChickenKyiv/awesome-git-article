@@ -5,8 +5,8 @@ sidebar_label: Centralized Workflow Part2
 ---
 
 
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
+<!-- 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png) -->
 
 However, using Git to power your development workflow presents a few advantages over SVN.
 

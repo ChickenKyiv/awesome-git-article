@@ -5,15 +5,12 @@ sidebar_label: Centralized Workflow How it works
 ---
 
 
-<!--
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
-
-
-## How it works -->
 
 Developers start by cloning the central repository.
 
-In their own local copies of the project, they edit files and commit changes as they would with SVN; however, these new commits are stored locally - they’re completely isolated from the central repository.
+In their own local copies of the project, they edit files and commit changes as they would with SVN;
+
+however, these new commits are stored locally - they’re completely isolated from the central repository.
 
 This lets developers defer synchronizing upstream until they’re at a convenient break point.
 

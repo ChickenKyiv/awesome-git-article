@@ -5,13 +5,13 @@ sidebar_label: Centralized Workflow. Initialize the central repository
 ---
 
 
+<!--
 
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png) -->
 
 <!-- #### Initialize the central repository -->
 
-Git Workflow: Initialize Central Bare Repository
+<!-- Git Workflow: Initialize Central Bare Repository -->
 
 First, someone needs to create the central repository on a server.
 

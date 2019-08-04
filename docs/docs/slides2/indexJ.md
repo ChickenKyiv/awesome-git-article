@@ -5,12 +5,9 @@ sidebar_label: Push new commits to central repository
 ---
 
 
-<!--
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
-
-#### Push new commits to central repository -->
 
 Once the local repository has new changes committed.
+
  These change will need to be pushed to share with other developers on the project.
 
 `git push origin master`

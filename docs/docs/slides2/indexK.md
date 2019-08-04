@@ -5,11 +5,6 @@ sidebar_label: Centralized workflow. Managing conflicts
 ---
 
 
-<!--
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
-
-
-#### Managing conflicts -->
 
 The central repository represents the official project, so its commit history should be treated as sacred and immutable.
 
@@ -18,7 +13,9 @@ If a developer’s local commits diverge from the central repository, Git will r
 
 Before the developer can publish their feature, they need to fetch the updated central commits and rebase their changes on top of them.
 
-This is like saying, __I want to add my changes to what everyone else has already done.__ The result is a perfectly linear history, just like in traditional SVN workflows.
+This is like saying, __I want to add my changes to what everyone else has already done.__
+
+The result is a perfectly linear history, just like in traditional SVN workflows.
 
 If local changes directly conflict with upstream commits, Git will pause the rebasing process and give you a chance to manually resolve the conflicts.
 
