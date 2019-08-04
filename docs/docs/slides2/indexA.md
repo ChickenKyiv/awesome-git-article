@@ -1,5 +1,5 @@
 ---
-id: slide1
+id: s2slide1
 title: Comparing Workflows Part1
 sidebar_label: Comparing Workflows Part1
 ---
