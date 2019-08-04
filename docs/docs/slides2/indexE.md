@@ -1,7 +1,7 @@
 ---
 id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Centralized Workflow Part2
+sidebar_label: Centralized Workflow Part2
 ---
 
 

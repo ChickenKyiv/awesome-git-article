@@ -1,7 +1,7 @@
 ---
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+id: s2slide7
+title: Centralized Workflow. Initialize the central repository
+sidebar_label: Centralized Workflow. Initialize the central repository
 ---
 
 
@@ -9,7 +9,7 @@ sidebar_label: Git merge Part2
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 
-#### Initialize the central repository
+<!-- #### Initialize the central repository -->
 
 Git Workflow: Initialize Central Bare Repository
 

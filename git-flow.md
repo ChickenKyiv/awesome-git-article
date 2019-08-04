@@ -1,4 +1,4 @@
-#### Git Flow
+#### Git Workflows
 
 Sources:
 - ["A successful Git branching model" by Vincent Driessen"](https://nvie.com/posts/a-successful-git-branching-model/)
@@ -38,3 +38,13 @@ https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3
 - https://zellwk.com/blog/git-flow/
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+
+
+
+
+
+
+- https://www.toptal.com/software/trunk-based-development-git-flow
+
+- https://trunkbaseddevelopment.com/

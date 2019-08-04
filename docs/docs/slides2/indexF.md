@@ -1,15 +1,15 @@
 ---
 id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Centralized Workflow How it works
+sidebar_label: Centralized Workflow How it works
 ---
 
 
-
+<!--
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 
 
-## How it works
+## How it works -->
 
 Developers start by cloning the central repository.
 
@@ -19,4 +19,4 @@ This lets developers defer synchronizing upstream until they’re at a convenien
 
 To publish changes to the official project, developers "push" their local master branch to the central repository.
 
-This is the equivalent of svn commit, except that it adds all of the local commits that aren’t already in the central master branch.
+This is the equivalent of `svn commit`, except that it adds all of the local commits that aren’t already in the central master branch.
