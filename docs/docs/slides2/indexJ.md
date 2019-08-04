@@ -1,11 +1,11 @@
 ---
-id: s2slide13aa
+id: s2slide10
 title: Push new commits to central repository
 sidebar_label: Push new commits to central repository
 ---
 
 
-<!-- 
+<!--
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 
 #### Push new commits to central repository -->

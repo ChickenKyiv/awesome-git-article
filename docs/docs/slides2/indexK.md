@@ -1,5 +1,5 @@
 ---
-id: s2slide13aa
+id: s2slide11
 title: Centralized workflow. Managing conflicts
 sidebar_label: Centralized workflow. Managing conflicts
 ---
