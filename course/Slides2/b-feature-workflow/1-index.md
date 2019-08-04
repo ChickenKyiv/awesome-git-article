@@ -1,7 +1,16 @@
 https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 
-#### Git Feature Branch Workflow
 
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
+
+
+#### Git Feature Branch Workflow
 
 The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead of the master branch.
 
@@ -9,6 +18,13 @@ This encapsulation makes it easy for multiple developers to work on a particular
 
 It also means the master branch will never contain broken code, which is a huge advantage for continuous integration environments.
 
+
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 Encapsulating feature development also makes it possible to leverage pull requests, which are a way to initiate discussions around a branch.
@@ -50,6 +66,13 @@ We discussed other Git workflows on the Git workflow overview page.
 
 
 
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
+
 Git Feature Branch Workflow is branching model focused, meaning that it is a guiding framework for managing and creating branches.
 
 Other workflows are more repo focused.
@@ -61,6 +84,13 @@ The Gitflow, and Git Forking Workflows traditionally use a Git Feature Branch Wo
 
 
 
+
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 #### How it works
@@ -80,6 +110,13 @@ Git makes no technical distinction between the master branch and feature branche
 
 
 
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
+
 In addition, feature branches can (and should) be pushed to the central repository.
 
 This makes it possible to share a feature with other developers without touching any official code.
@@ -93,6 +130,13 @@ The following is a walk-through of the life-cycle of a feature branch.
 
 
 
+
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 #### Start with the master branch
@@ -111,6 +155,13 @@ This switches the repo to the master branch, pulls the latest commits and resets
 
 
 
+
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 
@@ -145,6 +196,13 @@ git commit
 
 
 
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
+
 
 #### Push feature branch to remote
 
@@ -168,6 +226,13 @@ From there, you can add reviewers and make sure everything is good to go before 
 
 
 
+
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 
@@ -207,6 +272,13 @@ This gives other developers an opportunity to review the changes before they bec
 
 
 
+
+
+---
+id: slide13aa
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 
 
