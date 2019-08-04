@@ -1,12 +1,12 @@
 ---
-id: slide13aa
-title: Git merge Part2
+id: s2slide13aa
+title: Hosted central repositories
 sidebar_label: Git merge Part2
 ---
 
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
+<!-- ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png) -->
 
 #### Hosted central repositories
 
@@ -17,7 +17,8 @@ The process of initializing a bare repository discussed above is handled for you
 The hosting service will then provide an address for the central repository to access from your local repository.
 
 #### Clone the central repository
-Next, each developer creates a local copy of the entire project. This is accomplished via the git clone command:
+
+Next, each developer creates a local copy of the entire project. This is accomplished via the `git clone` command:
 
 `git clone ssh://user@host/path/to/repo.git`
 
