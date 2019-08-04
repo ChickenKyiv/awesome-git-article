@@ -1,5 +1,6 @@
-####
-Git Feature Branch Workflow
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+
+#### Git Feature Branch Workflow
 
 
 The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead of the master branch.
@@ -56,6 +57,8 @@ Other workflows are more repo focused.
 The Git Feature Branch Workflow can be incorporated into other workflows.
 
 The Gitflow, and Git Forking Workflows traditionally use a Git Feature Branch Workflow in regards to their branching models.
+
+
 
 
 
