@@ -1,14 +1,14 @@
 ---
 id: s2slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Push new commits to central repository
+sidebar_label: Push new commits to central repository
 ---
 
 
-
+<!-- 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
 
-#### Push new commits to central repository
+#### Push new commits to central repository -->
 
 Once the local repository has new changes committed.
  These change will need to be pushed to share with other developers on the project.

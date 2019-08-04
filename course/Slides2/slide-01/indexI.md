@@ -1,13 +1,13 @@
 ---
 id: s2slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Make changes and commit to central repository
+sidebar_label: Make changes and commit to central repository
 ---
 
 
-
+<!--
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
-#### Make changes and commit
+#### Make changes and commit -->
 
 Once the repository is cloned locally, a developer can make changes using the standard Git commit process: edit, stage, and commit.
 
@@ -21,6 +21,6 @@ git add <some-file> # Stage a file
 git commit # Commit a file</some-file>
 ```
 
-Remember that since these commands create local commits, John can repeat this process as many times as he wants without worrying about what’s going on in the central repository.
+Remember that since these commands create local commits, Developer can repeat this process as many times as he wants without worrying about what’s going on in the central repository.
 
 This can be very useful for large features that need to be broken down into simpler, more atomic chunks.

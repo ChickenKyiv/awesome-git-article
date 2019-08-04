@@ -1,7 +1,7 @@
 ---
 id: s2slide13aa
-title: Hosted central repositories
-sidebar_label: Git merge Part2
+title: Central repositories
+sidebar_label: Central repositories
 ---
 
 
@@ -10,7 +10,7 @@ sidebar_label: Git merge Part2
 
 #### Hosted central repositories
 
-Central repositories are often created through 3rd party Git hosting services like Bitbucket Cloud or Bitbucket Server.
+Central repositories are often created through 3rd party Git hosting services like GitHub, Bitbucket, GitLab.
 
 The process of initializing a bare repository discussed above is handled for you by the hosting service.
 
