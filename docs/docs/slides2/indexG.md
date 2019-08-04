@@ -17,7 +17,7 @@ First, someone needs to create the central repository on a server.
 
 If it’s a new project, you can initialize an empty repository.
 
-Otherwise, you’ll need to import an existing Git or SVN repository.
+Otherwise, you’ll need to import an existing Git repository.
 
 Central repositories should always be bare repositories (they shouldn’t have a working directory), which can be created as follows:
 
