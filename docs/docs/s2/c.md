@@ -1,4 +1,3 @@
-
 ---
 id: s3
 title: Feature branching

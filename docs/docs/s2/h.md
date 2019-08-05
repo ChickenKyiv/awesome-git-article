@@ -1,5 +1,3 @@
-
-
 ---
 id: s8
 title: Summary

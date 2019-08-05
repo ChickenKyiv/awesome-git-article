@@ -1,5 +1,3 @@
-
-
 ---
 id: s4
 title:  Gitflow Workflow

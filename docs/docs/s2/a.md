@@ -1,4 +1,3 @@
-
 ---
 id: s1
 title: Where to go from here

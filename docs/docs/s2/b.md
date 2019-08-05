@@ -1,4 +1,3 @@
-
 ---
 id: s2
 title: Other common workflows

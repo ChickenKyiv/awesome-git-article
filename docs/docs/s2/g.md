@@ -1,8 +1,3 @@
-
-
-
-
-
 ---
 id: s7
 title: Guidelines Part2

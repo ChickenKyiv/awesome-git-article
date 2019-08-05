@@ -1,6 +1,3 @@
-
-
-
 ---
 id: s6
 title: Guidelines
