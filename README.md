@@ -6,6 +6,7 @@
 
 
 - https://github.com/ChickenKyiv/flexbox-course/blob/master/Videos-ALL.md
+
 - https://github.com/Multishifties/No-Nonsense-Github-Project
 - https://wethefoss.github.io/Git-Commands/?ref=producthunt
 - https://github.com/nnja/advanced-git/tree/master/exercises
@@ -15,6 +16,8 @@
 - https://www.atlassian.com/git/tutorials/source-code-management
 
 - https://hackernoon.com/enhancing-your-git-commit-messages-2a299295o
+
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true" alt="astronaut" width="200" /></p>
 
