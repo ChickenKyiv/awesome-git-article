@@ -1,9 +1,9 @@
 
 
 ---
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+id: s8
+title: Summary
+sidebar_label: Summary
 ---
 
 

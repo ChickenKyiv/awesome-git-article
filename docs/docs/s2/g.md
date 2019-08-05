@@ -4,9 +4,9 @@
 
 
 ---
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+id: s7
+title: Guidelines Part2
+sidebar_label: Guidelines Part2
 ---
 
 

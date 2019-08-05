@@ -1,12 +1,12 @@
 
 ---
-id: slide13aa
+id: s1
 title: Where to go from here
 sidebar_label: Where to go from here
 ---
 
 
-#### Where to go from here
+<!-- #### Where to go from here -->
 
 As you can see, it’s possible to replicate a traditional Subversion development environment using only a handful of Git commands.
 

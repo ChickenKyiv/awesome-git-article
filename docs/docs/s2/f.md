@@ -2,13 +2,13 @@
 
 
 ---
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+id: s6
+title: Guidelines
+sidebar_label: Guidelines
 ---
 
 
-#### Guidelines
+<!-- #### Guidelines -->
 
 There is no one size fits all Git workflow.
 

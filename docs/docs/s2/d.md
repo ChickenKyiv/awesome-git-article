@@ -1,13 +1,13 @@
 
 
 ---
-id: slide13aa
+id: s4
 title:  Gitflow Workflow
 sidebar_label:  Gitflow Workflow
 ---
 
 
-## Gitflow Workflow
+<!-- ## Gitflow Workflow -->
 
 The Gitflow Workflow was first published in a highly regarded 2010 blog post from Vincent Driessen at nvie.
 

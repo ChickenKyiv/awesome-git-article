@@ -1,12 +1,12 @@
 
 ---
-id: slide13aa
+id: s3
 title: Feature branching
 sidebar_label: Feature branching
 ---
 
 
-## Feature branching
+<!-- ## Feature branching -->
 
 Feature Branching is a logical extension of Centralized Workflow.
 
