@@ -1,12 +1,9 @@
 ---
 id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Summary
+sidebar_label: Summary
 ---
 
-
-
-Summary
 
 In this document, we discussed the Git Feature Branch Workflow. This workflow helps organize and track branches that are focused on business domain feature sets.
 
@@ -19,6 +16,6 @@ can be leveraged by other repo oriented workflows
 promotes collaboration with team members through pull requests and merge reviews
 
 
-Utilizing git rebase during the review and merge stages of a feature branch will create enforce a cohesive Git history of feature merges.
+Utilizing `git rebase` during the review and merge stages of a feature branch will create enforce a cohesive Git history of feature merges.
 
 A feature branching model is a great tool to promote collaboration within a team environment.
