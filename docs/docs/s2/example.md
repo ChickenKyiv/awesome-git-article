@@ -1,49 +1,48 @@
 ---
-id: s2slide13aa
+id: s9example
 title: Centralized workflow example
 sidebar_label: Centralized workflow example
 ---
 
-
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/1-John-works.png)
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/2-Mary-work.png)
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/3-John-push.png)
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/4-Mary.png)
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/5-Mary.png)
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/6-Mary.png)
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/7-Mary-push.png)
 
 #### Example
 Let’s take a general example at how a typical small team would collaborate using this workflow.
 
 We’ll see how two developers, John and Mary, can work on separate features and share their contributions via a centralized repository.
 
+
+---
+
+
 **John works on his feature**
 
-Git Workflows: Edit Stage Commit Feature Process
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/1-John-works.png)
+
+
 
 In his local repository, John can develop features using the standard Git commit process: edit, stage, and commit.
 
 Remember that since these commands create local commits, John can repeat this process as many times as he wants without worrying about what’s going on in the central repository.
 
-**Mary works on her feature**
 
-Git Workflows: Edit Stage Commit Feature
+---
+
+
+**Mary works on her feature**
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/2-Mary-work.png)
+
 
 Meanwhile, Mary is working on her own feature in her own local repository using the same edit/stage/commit process.
 Like John, she doesn’t care what’s going on in the central repository, and she really doesn’t care what John is doing in his local repository, since all local repositories are private.
 
 
+---
+
 
 **John publishes his feature**
-Git Workflows: Publish Feature
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/3-John-push.png)
+
+
 Once John finishes his feature, he should publish his local commits to the central repository so other team members can access it. He can do this with the git push command, like so:
 
 `git push origin master`
@@ -55,8 +54,13 @@ The master argument tells Git to try to make the origin’s master branch look l
 Since the central repository hasn’t been updated since John cloned it, this won’t result in any conflicts and the push will work as expected.
 
 
+---
+
+
 **Mary tries to publish her feature**
-Git Workflows: Push Command Error
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/4-Mary.png)
+
+
 Let’s see what happens if Mary tries to push her feature after John has successfully published his changes to the central repository. She can use the exact same push command:
 
 `git push origin master`
@@ -77,23 +81,28 @@ She needs to pull John’s updates into her repository, integrate them with her 
 
 
 
+---
+
 
 **Mary rebases on top of John’s commit(s)**
-Git Workflows: Git Pull Rebase
-Mary can use git pull to incorporate upstream changes into her repository. This command is sort of like svn update—it pulls the entire upstream commit history into Mary’s local repository and tries to integrate it with her local commits:
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/5-Mary.png)
+
+Mary can use `git pull` to incorporate upstream changes into her repository. This command is sort of like svn update—it pulls the entire upstream commit history into Mary’s local repository and tries to integrate it with her local commits:
 
 `git pull --rebase origin master`
 
 The **--rebase** option tells Git to move all of Mary’s commits to the tip of the master branch after synchronising it with the changes from the central repository, as shown below:
 
-Git workflows: Rebasing to Master
+
 
 The pull would still work if you forgot this option, but you would wind up with a superfluous “merge commit” every time someone needed to synchronize with the central repository. For this workflow, it’s always better to rebase instead of generating a merge commit.
 
 
-**Mary resolves a merge conflict**
+---
 
-Git Workflows: Rebasing on Commits
+**Mary resolves a merge conflict**
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/6-Mary.png)
+
 
 Rebasing works by transferring each local commit to the updated master branch one at a time.
 
@@ -107,7 +116,7 @@ But if it does, Git will pause the rebase at the current commit and output the f
 
 `CONFLICT (content): Merge conflict in <some-file>`
 
-Git workflows: Conflict Resolution
+
 
 The great thing about Git is that anyone can resolve their own merge conflicts.
 
@@ -134,9 +143,13 @@ If you get to this point and realize and you have no idea what’s going on, don
 
 `git rebase --abort`
 
+---
+
 **Mary successfully publishes her feature**
 
-Git Workflows: Synchronize Central Repo
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/7-Mary-push.png)
+
+
 After she’s done synchronizing with the central repository, Mary will be able to publish her changes successfully:
 
 `git push origin master`
