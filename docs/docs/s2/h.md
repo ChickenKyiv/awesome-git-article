@@ -5,7 +5,6 @@ sidebar_label: Summary
 ---
 
 
-#### Summary
 In this section we discussed Git workflows.
 
 We took an in-depth look at a Centralized Workflow with practical examples.

@@ -20,11 +20,11 @@ s3 https://www.loom.com/share/1a550d6333744fccb239b8cafd82fc10
 s4 https://www.loom.com/share/da903a2000774f2fb0f9dd356833bd13
 s5 https://www.loom.com/share/b6860afbb2824ed5b4c255927048f72c
 s6 https://www.loom.com/share/85814eebaee14fd79ed1f0f358845b52
-s7
-
+s7 https://www.loom.com/share/70504d3c95044912b1254ba2c6beb7bc
+s8 https://www.loom.com/share/8e7c81fe085f46deb261e192b75ea2ba
 ---
 ---
 
-central example :
+central example : https://www.loom.com/share/8a19c546c8f045b78cb8cb3629ce1531
 
-feature branch example: 
+feature branch example: https://www.loom.com/share/30dda249500d4d64a834b48f8c5ab066

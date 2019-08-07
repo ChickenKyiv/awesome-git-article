@@ -5,7 +5,6 @@ sidebar_label: Centralized workflow example
 ---
 
 
-#### Example
 Let’s take a general example at how a typical small team would collaborate using this workflow.
 
 We’ll see how two developers, John and Mary, can work on separate features and share their contributions via a centralized repository.
