@@ -1,10 +1,16 @@
 ---
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+id: sf2aa
+title: Feature Branch Workflow example
+sidebar_label: Feature Branch Workflow example
 ---
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/feature/1-Mary-goes-on-launch.png)
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/feature/2-Mary-done.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/feature/3-Mary-PR.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/feature/4-Mary.png)
 
 ## Example
 
