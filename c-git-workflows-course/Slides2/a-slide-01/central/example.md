@@ -1,12 +1,24 @@
 ---
 id: s2slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Centralized workflow example
+sidebar_label: Centralized workflow example
 ---
 
 
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/merge/simple-git-flow.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/1-John-works.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/2-Mary-work.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/3-John-push.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/4-Mary.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/5-Mary.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/6-Mary.png)
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/7-Mary-push.png)
 
 #### Example
 Let’s take a general example at how a typical small team would collaborate using this workflow.
