@@ -16,7 +16,7 @@ We’ll see how two developers, John and Mary, can work on separate features and
 
 **John works on his feature**
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/1-John-works.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/1-John-works.png)
 
 
 
@@ -29,7 +29,7 @@ Remember that since these commands create local commits, John can repeat this pr
 
 
 **Mary works on her feature**
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/2-Mary-work.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/2-Mary-work.png)
 
 
 Meanwhile, Mary is working on her own feature in her own local repository using the same edit/stage/commit process.
@@ -40,7 +40,7 @@ Like John, she doesn’t care what’s going on in the central repository, and s
 
 
 **John publishes his feature**
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/3-John-push.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/3-John-push.png)
 
 
 Once John finishes his feature, he should publish his local commits to the central repository so other team members can access it. He can do this with the git push command, like so:
@@ -58,7 +58,7 @@ Since the central repository hasn’t been updated since John cloned it, this wo
 
 
 **Mary tries to publish her feature**
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/4-Mary.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/4-Mary.png)
 
 
 Let’s see what happens if Mary tries to push her feature after John has successfully published his changes to the central repository. She can use the exact same push command:
@@ -85,7 +85,7 @@ She needs to pull John’s updates into her repository, integrate them with her 
 
 
 **Mary rebases on top of John’s commit(s)**
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/5-Mary.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/5-Mary.png)
 
 Mary can use `git pull` to incorporate upstream changes into her repository. This command is sort of like svn update—it pulls the entire upstream commit history into Mary’s local repository and tries to integrate it with her local commits:
 
@@ -101,7 +101,7 @@ The pull would still work if you forgot this option, but you would wind up with 
 ---
 
 **Mary resolves a merge conflict**
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/6-Mary.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/6-Mary.png)
 
 
 Rebasing works by transferring each local commit to the updated master branch one at a time.
@@ -147,7 +147,7 @@ If you get to this point and realize and you have no idea what’s going on, don
 
 **Mary successfully publishes her feature**
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/7-Mary-push.png)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/flows/central/7-Mary-push.png)
 
 
 After she’s done synchronizing with the central repository, Mary will be able to publish her changes successfully:
