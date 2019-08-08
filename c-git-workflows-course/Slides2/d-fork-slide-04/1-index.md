@@ -1,7 +1,7 @@
 https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
 
 ---
-id: s2d
+id: s2d1
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -16,7 +16,7 @@ This means that each contributor has not one, but two Git repositories: a privat
 The Forking Workflow is most often seen in public open source projects.
 
 ---
-id: s2d
+id: s2d2
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -27,10 +27,11 @@ This allows the maintainer to accept commits from any developer without giving t
 
 
 ---
-id: s2d
+id: s2d3
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
+
 The Forking Workflow typically follows a branching model based on the Gitflow Workflow.
 This means that complete feature branches will be purposed for merge into the original project maintainer's repository.
 The result is a distributed workflow that provides a flexible way for large, organic teams (including untrusted third-parties) to collaborate securely. This also makes it an ideal workflow for open source projects.
@@ -38,7 +39,7 @@ The result is a distributed workflow that provides a flexible way for large, org
 
 
 ---
-id: s2d
+id: s2d4
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -58,7 +59,7 @@ This serves as their private development environment, just like in the other wor
 
 
 ---
-id: s2d
+id: s2d5
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -91,7 +92,7 @@ The pull request gets approved for merge and is merged into the original server-
 
 
 ---
-id: s2d
+id: s2d6
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -109,7 +110,7 @@ In fact, the only thing that makes the official repository so official is that i
 
 
 ---
-id: s2d
+id: s2d7
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -125,7 +126,7 @@ A clone operation is essentially a copy of a repository and its history.
 
 
 ---
-id: s2d
+id: s2d8
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -138,7 +139,7 @@ The only difference is how those branches get shared. In the Forking Workflow, t
 
 
 ---
-id: s2d
+id: s2d9
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -152,7 +153,7 @@ Popular Git hosting services like GitHub, offer repo forking features that autom
 
 
 ---
-id: s2d
+id: s2d10
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -166,7 +167,7 @@ Assuming the use of GitHub to host these repositories, developers on a project s
 
 
 ---
-id: s2d
+id: s2d11
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -189,7 +190,7 @@ This requires users to supply a valid password before cloning or pulling from th
 
 
 ---
-id: s2d
+id: s2d12
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -211,7 +212,7 @@ Since developers should be working in a dedicated feature branch, this should ge
 
 
 ---
-id: s2d
+id: s2d13
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -232,7 +233,7 @@ GitHub provides a “pull request” button that leads to a form asking you to s
 Typically, you’ll want to integrate your feature branch into the upstream remote’s master branch.
 
 ---
-id: s2d
+id: s2d14
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -261,7 +262,7 @@ Using Bitbucket you open up a pull request for the new branch against the origin
 
 
 ---
-id: s2d
+id: s2d16
 title: Summary Part2
 sidebar_label: Summary Part2
 ---
