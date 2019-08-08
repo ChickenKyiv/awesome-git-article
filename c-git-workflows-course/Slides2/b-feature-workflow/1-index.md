@@ -2,210 +2,26 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workf
 
 
 
----
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
----
 
 
 
-#### Git Feature Branch Workflow
 
-The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead of the master branch.
 
-This encapsulation makes it easy for multiple developers to work on a particular feature without disturbing the main codebase.
 
-It also means the master branch will never contain broken code, which is a huge advantage for continuous integration environments.
 
 
 
----
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
----
 
 
-Encapsulating feature development also makes it possible to leverage pull requests, which are a way to initiate discussions around a branch.
 
-They give other developers the opportunity to sign off on a feature before it gets integrated into the official project.
 
-Or, if you get stuck in the middle of a feature, you can open a pull request asking for suggestions from your colleagues.
 
-The point is, pull requests make it incredibly easy for your team to comment on each other’s work.
 
 
 
 
 
-The Git Feature Branch Workflow is a composable workflow that can be leveraged by other high-level Git workflows.
 
-We discussed that other Git workflows at slides before.
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
----
-
-
-Git Feature Branch Workflow is branching model focused, meaning that it is a guiding framework for managing and creating branches.
-
-Other workflows are more repo focused.
-
-The Git Feature Branch Workflow can be incorporated into other workflows.
-
-The Gitflow, and Git Forking Workflows traditionally use a Git Feature Branch Workflow in regards to their branching models.
-
-
-
-
-
-
----
-id: slide13aa
-title: How it works
-sidebar_label: How it works
----
-
-
-The Feature Branch Workflow assumes a central repository, and master represents the official project history.
-
-Instead of committing directly on their local master branch, developers create a new branch every time they start work on a new feature.
-
-Feature branches should have descriptive names, like **animated-menu-items** or **issue-#1061**.
-
-The idea is to give a clear, highly-focused purpose to each branch.
-
-Git makes no technical distinction between the master branch and feature branches, so developers can edit, stage, and commit changes to a feature branch.
-
-
-
-
-
-
----
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
----
-
-
-In addition, feature branches can (and should) be pushed to the central repository.
-
-This makes it possible to share a feature with other developers without touching any official code.
-
-Since master is the only “special” branch, storing several feature branches on the central repository doesn’t pose any problems.
-
-Of course, this is also a convenient way to back up everybody’s local commits.
-
-The following is a walk-through of the life-cycle of a feature branch.
-
-
-
-
-
-
----
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
----
-
-
-#### Start with the master branch
-
-All feature branches are created off the latest code state of a project.
-
-This guide assumes this is maintained and updated in the master branch.
-
-```
-git checkout master
-git fetch origin
-git reset --hard origin/master
-```
-
-This switches the repo to the master branch, pulls the latest commits and resets the repo's local copy of master to match the latest version.
-
-Then you creating a new branch for working on separated issue/feature.
-
-
-
-
----
-id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
----
-
-
-
-#### Create a new-branch
-
-Use a separate branch for each feature or issue you work on.
- After creating a branch, check it out locally so that any changes you make will be on that branch.
-
-`git checkout -b new-feature`
-
-This checks out a branch called new-feature based on master, and the **-b** flag tells Git to create the branch if it doesn’t already exist.
-
-
-
-#### Update, add, commit, and push changes
-
-On this branch, edit, stage, and commit changes in the usual fashion, building up the feature with as many commits as necessary.
-
-Work on the feature and make commits like you would any time you use Git.
-
-When ready, push your commits, updating the feature branch on GitHub.
-
-```
-git status
-git add <some-file>
-git commit
-```
-
-
-
-
-
-
----
-id: slide13aa
-title: Push feature branch to remote
-sidebar_label: Push feature branch to remote
----
-
-
-
-
-
-It’s a good idea to push the feature branch up to the central repository.
-
-This serves as a convenient backup, when collaborating with other developers, this would give them access to view commits to the new branch.
-
-`git push -u origin new-feature`
-
-This command pushes new-feature to the central repository (origin), and the **-u** flag adds it as a remote tracking branch.
-
-After setting up the tracking branch, `git push` can be invoked without any parameters to automatically push the new-feature branch to the central repository.
-
-To get feedback on the new feature branch, create a pull request in a repository management solution like GitHub repositories.
-
-From there, you can add reviewers and make sure everything is good to go before merging.
 
 
 
