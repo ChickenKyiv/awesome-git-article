@@ -41,18 +41,7 @@ The point is, pull requests make it incredibly easy for your team to comment on 
 
 The Git Feature Branch Workflow is a composable workflow that can be leveraged by other high-level Git workflows.
 
-
-
-
-
-
-
-
-
-
-
-
-We discussed other Git workflows on the Git workflow overview page.
+We discussed that other Git workflows at slides before.
 
 
 
@@ -88,12 +77,10 @@ The Gitflow, and Git Forking Workflows traditionally use a Git Feature Branch Wo
 
 ---
 id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: How it works
+sidebar_label: How it works
 ---
 
-
-#### How it works
 
 The Feature Branch Workflow assumes a central repository, and master represents the official project history.
 
@@ -153,6 +140,7 @@ git reset --hard origin/master
 
 This switches the repo to the master branch, pulls the latest commits and resets the repo's local copy of master to match the latest version.
 
+Then you creating a new branch for working on separated issue/feature.
 
 
 
@@ -173,7 +161,6 @@ Use a separate branch for each feature or issue you work on.
 `git checkout -b new-feature`
 
 This checks out a branch called new-feature based on master, and the **-b** flag tells Git to create the branch if it doesn’t already exist.
-
 
 
 
@@ -198,13 +185,13 @@ git commit
 
 ---
 id: slide13aa
-title: Git merge Part2
-sidebar_label: Git merge Part2
+title: Push feature branch to remote
+sidebar_label: Push feature branch to remote
 ---
 
 
 
-#### Push feature branch to remote
+
 
 It’s a good idea to push the feature branch up to the central repository.
 
@@ -243,7 +230,6 @@ Now teammates comment and approve the pushed commits.
 Resolve their comments locally, commit, and push the suggested changes to GitHub.
 
 Your updates appear in the pull request.
-
 
 
 
@@ -297,4 +283,4 @@ Once a pull request is accepted, the actual act of publishing a feature is much 
 
 
 
-Pull requests can be facilitated by product repository management solutions like Bitbucket Cloud or Bitbucket Server. View the Bitbucket Server pull requests documentation for an example.
+Pull requests can be facilitated by product repository management solutions like GitHub Pull Requests.
