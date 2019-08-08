@@ -1,7 +1,7 @@
 https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
 
 ---
-id: slide13aa
+id: s2d
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -15,18 +15,33 @@ Instead of using a single server-side repository to act as the “central” cod
 This means that each contributor has not one, but two Git repositories: a private local one and a public server-side one.
 The Forking Workflow is most often seen in public open source projects.
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 The main advantage of the Forking Workflow is that contributions can be integrated without the need for everybody to push to a single central repository.
 Developers push to their own server-side repositories, and only the project maintainer can push to the official repository.
 This allows the maintainer to accept commits from any developer without giving them write access to the official codebase.
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 The Forking Workflow typically follows a branching model based on the Gitflow Workflow.
 This means that complete feature branches will be purposed for merge into the original project maintainer's repository.
 The result is a distributed workflow that provides a flexible way for large, organic teams (including untrusted third-parties) to collaborate securely. This also makes it an ideal workflow for open source projects.
 
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### How it works
 As in the other Git workflows, the Forking Workflow begins with an official public repository stored on a server.
@@ -38,6 +53,15 @@ This new copy serves as their personal public repository—no other developers a
 After they have created their server-side copy, the developer performs a git clone to get a copy of it onto their local machine.
 This serves as their private development environment, just like in the other workflows.
 
+
+
+
+
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 When they're ready to publish a local commit, they push the commit to their own public repository—not the official one.
 Then, they file a pull request with the main repository, which lets the project maintainer know that an update is ready to be integrated.
@@ -66,6 +90,11 @@ The pull request gets approved for merge and is merged into the original server-
 
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 To integrate the feature into the official codebase, the maintainer pulls the contributor’s changes into their local repository, checks to make sure it doesn’t break the project, merges it into their local master branch, then pushes the master branch to the official repository on the server.
 The contribution is now part of the project, and other developers should pull from the official repository to synchronize their local repositories.
@@ -79,6 +108,11 @@ In fact, the only thing that makes the official repository so official is that i
 
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### Forking vs cloning
 It's important to note that "forked" repositories and "forking" are not special operations.
@@ -90,6 +124,11 @@ A clone operation is essentially a copy of a repository and its history.
 
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### Branching in the Forking Workflow
 All of these personal public repositories are really just a convenient way to share branches with other developers.
@@ -98,6 +137,11 @@ Everybody should still be using branches to isolate individual features, just li
 The only difference is how those branches get shared. In the Forking Workflow, they are pulled into another developer’s local repository, while in the Feature Branch and Gitflow Workflows they are pushed to the official repository.
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### Fork a repository
 git fork workflow - fork a repositiory
@@ -107,7 +151,11 @@ It’s possible to do this by SSH’ing into the server and running `git clone` 
 Popular Git hosting services like GitHub, offer repo forking features that automate this step.
 
 
-
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 #### Clone your fork
 Next each developer needs to clone their own public forked repository.
 They can do this with the familiar `git clone` command.
@@ -116,6 +164,12 @@ Assuming the use of GitHub to host these repositories, developers on a project s
 
 `git clone https://user@host/user/repo.git`
 
+
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### Adding a remote
 
@@ -134,6 +188,12 @@ Note that if your upstream repository has authentication enabled (i.e., it's not
 This requires users to supply a valid password before cloning or pulling from the official codebase.
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
+
 Working in a branch: making & pushing changes
 In the developer's local copy of the forked repository they can edit code, commit changes, and create branches just like in other Git workflows:
 
@@ -150,6 +210,11 @@ And, if the official project has moved forward, they can access new commits with
 Since developers should be working in a dedicated feature branch, this should generally result in a fast-forward merge.
 
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### Making a Pull Request
 Git Fork Workflow - Making a pull request
@@ -166,6 +231,11 @@ Second, they need to notify the project maintainer that they want to merge their
 GitHub provides a “pull request” button that leads to a form asking you to specify which branch you want to merge into the official repository.
 Typically, you’ll want to integrate your feature branch into the upstream remote’s master branch.
 
+---
+id: s2d
+title: Git merge Part2
+sidebar_label: Git merge Part2
+---
 
 #### Summary
 
@@ -190,6 +260,11 @@ You then push the new feature branch to your remote forked repo
 Using Bitbucket you open up a pull request for the new branch against the original repo at bitbucket.org/userA/open-project
 
 
+---
+id: s2d
+title: Summary Part2
+sidebar_label: Summary Part2
+---
 
 The Forking Workflow helps a maintainer of a project open up the repository to contributions from any developer without having to manually manage authorization settings for each individual contributor.
 This gives the maintainer more of a "pull" style workflow.
