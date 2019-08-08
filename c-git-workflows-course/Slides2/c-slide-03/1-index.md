@@ -1,7 +1,7 @@
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ---
-id: slide13aa
+id: s2c1
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -10,15 +10,19 @@ sidebar_label: Git merge Part2
 Gitflow Workflow
 
 
-Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie. The Gitflow Workflow defines a strict branching model designed around the project release. This provides a robust framework for managing larger projects.  
+Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie.
+The Gitflow Workflow defines a strict branching model designed around the project release.
+This provides a robust framework for managing larger projects.  
 
 
 Gitflow is ideally suited for projects that have a scheduled release cycle.
-This workflow doesn’t add any new concepts or commands beyond what’s required for the Feature Branch Workflow. Instead, it assigns very specific roles to different branches and defines how and when they should interact. In addition to feature branches, it uses individual branches for preparing, maintaining, and recording releases. Of course, you also get to leverage all the benefits of the Feature Branch Workflow: pull requests, isolated experiments, and more efficient collaboration.
+This workflow doesn’t add any new concepts or commands beyond what’s required for the Feature Branch Workflow. Instead, it assigns very specific roles to different branches and defines how and when they should interact.
+In addition to feature branches, it uses individual branches for preparing, maintaining, and recording releases.
+Of course, you also get to leverage all the benefits of the Feature Branch Workflow: pull requests, isolated experiments, and more efficient collaboration.
 
 
 ---
-id: slide13aa
+id: s2c2
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -43,12 +47,12 @@ Gitflow is really just an abstract idea of a Git workflow.
  After installing git-flow you can use it in your project by executing git flow init.
 
  Git-flow is a wrapper around Git.
- The `git flow init` command is an extension of the default git init command and doesn't change anything in your repository other than creating branches for you.
+ The `git flow init` command is an extension of the default `git init` command and doesn't change anything in your repository other than creating branches for you.
 
 
 
 ---
-id: slide13aa
+id: s2c3
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -105,7 +109,7 @@ Version tag prefix? []
 
 
  ---
- id: slide13aa
+ id: s2c4
  title: Git merge Part2
  sidebar_label: Git merge Part2
  ---
@@ -133,11 +137,13 @@ Without the git-flow extensions:
 git checkout develop
 git checkout -b feature_branch
 ```
+
 When using the git-flow extension:
 
 ```
 git flow feature start feature_branch
 ```
+
 Continue your work and use Git like you normally would.
 
 
@@ -145,13 +151,13 @@ Continue your work and use Git like you normally would.
 
 
 ---
-id: slide13aa
+id: s2c5
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
 
 #### Finishing a feature branch
-When you’re done with the development work on the feature, the next step is to merge the feature_branch into develop.
+When you’re done with the development work on the feature, the next step is to merge the `feature_branch` into `develop`.
 
 
 Without the git-flow extensions:
@@ -168,7 +174,7 @@ git flow feature finish feature_branch
 
 
 ---
-id: slide13aa
+id: s2c6
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -189,7 +195,7 @@ In addition, it should be merged back into develop, which may have progressed si
 
 
 ---
-id: slide13aa
+id: s2c7
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
@@ -243,21 +249,25 @@ Git flow workflow - Hotfix Branches
 
 
 ---
-id: slide13aa
+id: s2c8
 title: Git merge Part2
 sidebar_label: Git merge Part2
 ---
 
 Maintenance or “hotfix” branches are used to quickly patch production releases.
+
 Hotfix branches are a lot like release branches and feature branches except they're based on master instead of develop.
 This is the only branch that should fork directly off of master.
+
 As soon as the fix is complete, it should be merged into both master and develop (or the current release branch), and master should be tagged with an updated version number.
 
 
 
 
 Having a dedicated line of development for bug fixes lets your team address issues without interrupting the rest of the workflow or waiting for the next release cycle.
+
 You can think of maintenance branches as ad hoc release branches that work directly with master.
+
 A hotfix branch can be created using the following methods:
 
 
