@@ -58,10 +58,16 @@ d9" https://www.loom.com/share/43aadbde1e144cfba22bcfaf686880eb
 d10 https://www.loom.com/share/b59634d7a2124670937c2db2398f5e17
 d11 https://www.loom.com/share/97d63fa55951425c97d3156e4d4be922
 d12 https://www.loom.com/share/7624e17f4cd147169f252f1902102955
-d13
-d14
-d15
+d13 https://www.loom.com/share/eb8ae9c136e9412aa8b0cfc1e7dd309b
+d14 https://www.loom.com/share/ff320d06929940429733acfbc3d04ea5
+d15 https://www.loom.com/share/a161365fc7d6476ba1b732e76f18554a
 
 ---
 ---
 gitflow
+c1 https://www.loom.com/share/43d238cee6b5417191b39a6ddb137ac3
+c2 https://www.loom.com/share/a57ee6b20ab1480eb2118378587ff70a
+c3 https://www.loom.com/share/ac7fb2fd38f34ce7bc5cd88739532840
+c4 https://www.loom.com/share/bd214c5082224cdeab51762b10c69437
+c5 https://www.loom.com/share/fdba8e9c1424494ea35a36066650eecd
+c6
