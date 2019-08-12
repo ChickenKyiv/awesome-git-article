@@ -19,3 +19,14 @@ How do you attach a new pull request to an existing issue on GitHub?
 ---
 
 https://dzone.com/articles/5-elements-of-a-perfect-pull-request
+
+images
+https://developers.sap.com/tutorials/webide-github-merge-pull-request.html
+
+
+simple
+https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request/
+
+https://hackernoon.com/how-to-handle-github-pull-requests-like-a-boss-8693f4c57974
+
+https://confluence.atlassian.com/bitbucket/create-a-pull-request-to-merge-your-change-774243413.html
