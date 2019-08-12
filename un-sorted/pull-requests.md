@@ -15,3 +15,7 @@
 
 How do you attach a new pull request to an existing issue on GitHub?
 - https://stackoverflow.com/questions/4528869/how-do-you-attach-a-new-pull-request-to-an-existing-issue-on-github
+
+---
+
+https://dzone.com/articles/5-elements-of-a-perfect-pull-request
