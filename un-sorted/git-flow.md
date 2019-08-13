@@ -48,3 +48,12 @@ https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3
 - https://www.toptal.com/software/trunk-based-development-git-flow
 
 - https://trunkbaseddevelopment.com/
+
+
+---
+
+https://www.slideshare.net/BartoszKosarzycki/gitflow-workflow-and-pullrequests
+
+
+Interesting
+https://blog.axosoft.com/pull-requests-gitflow/
