@@ -1,6 +1,7 @@
 #### Uncategorized
 
 - https://github.com/cjpatoilo/gitfit
+
 - https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 
 
@@ -13,3 +14,5 @@
 - https://github.com/Multishifties/No-Nonsense-Github-Project
 
 -----
+
+https://www.slideshare.net/insomniac.at.work/introduction-to-github-slideshare
