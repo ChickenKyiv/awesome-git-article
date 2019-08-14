@@ -5,10 +5,10 @@
 } */
 
 .post article {
-  margin-left: 150px;
+  margin-left: 170px;
 }
 .post .postHeaderTitle {
-  margin-left: 150px;
+  margin-left: 170px;
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
