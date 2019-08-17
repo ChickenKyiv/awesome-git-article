@@ -26,3 +26,8 @@ squash commits: https://gist.github.com/patik/b8a9dc5cd356f9f6f980
 
 
 https://yangsu.github.io/pull-request-tutorial/
+
+
+https://dev.to/acro5piano/merge-github-pull-requests-from-command-line-in-fish-shell-2ild
+
+https://gist.github.com/Chaser324/ce0505fbed06b947d962
