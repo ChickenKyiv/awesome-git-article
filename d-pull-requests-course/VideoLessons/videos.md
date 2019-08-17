@@ -26,15 +26,15 @@ a20: https://www.loom.com/share/447afce0883c487fbd86f685fcffff22
 
 
 
-a11:
 
 ---
-g1:
-g2:
-g3:
-g4:
-g5:
-g6:
+g1: https://www.loom.com/share/81a4dd5b5c3a446eb133fa927c8ebe3e
+g2: https://www.loom.com/share/58b9103b2abc424489f06dd4174fcc56
+g3: https://www.loom.com/share/42ff9228b7f3436f957a2b2ff8fbc530
+g4: https://www.loom.com/share/f0dc130da17040a1b8d3759baa379033
+g5: https://www.loom.com/share/ee1028efd5b64021823b4e8ae31d81aa
+g6: https://www.loom.com/share/308ae1f37fb54860b04a74181dd7a861
+
 g7:
 g8:
 g9:
