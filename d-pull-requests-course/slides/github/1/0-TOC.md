@@ -10,9 +10,3 @@ At this section of our course we'll dive deeper in Pull Requests and how use the
 - Pull Requests and Draft Pull Requests
 
 - Pull Requests Intro
-- About Pull Requests
-- Pull Requests as space for discussion
-- Merging a Pull Request
-- Required status checks
-- Closing issues using keywords
-- Pull Requests activity dashboard

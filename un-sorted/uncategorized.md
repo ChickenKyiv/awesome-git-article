@@ -22,3 +22,7 @@ https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
 
 
 squash commits: https://gist.github.com/patik/b8a9dc5cd356f9f6f980
+
+
+
+https://yangsu.github.io/pull-request-tutorial/
