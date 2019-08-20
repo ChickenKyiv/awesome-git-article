@@ -35,3 +35,5 @@ https://gist.github.com/Chaser324/ce0505fbed06b947d962
 
 
 https://medium.com/@i_AnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd5fa77
+
+https://medium.com/free-code-camp/how-to-use-git-efficiently-54320a236369
