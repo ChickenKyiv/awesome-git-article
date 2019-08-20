@@ -31,3 +31,7 @@ https://yangsu.github.io/pull-request-tutorial/
 https://dev.to/acro5piano/merge-github-pull-requests-from-command-line-in-fish-shell-2ild
 
 https://gist.github.com/Chaser324/ce0505fbed06b947d962
+
+
+
+https://medium.com/@i_AnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd5fa77
