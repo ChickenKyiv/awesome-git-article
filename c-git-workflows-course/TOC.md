@@ -1,4 +1,5 @@
-## "A beginner guide to Git" Course Resource Materials
+## "Git Workflows In Depth. Centralized workflow, Feature Branch workflow, Forking workflow, GitFlow workflow" Course Resource Materials
+
 
 This repository contains additional resources for the Git/GitHub basics course.
 

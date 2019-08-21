@@ -1,4 +1,4 @@
-## "A beginner guide to Git" Course Resource Materials
+## "Git/GitHub Pull Request Detailed. Centralized, " Course Resource Materials
 
 This repository contains additional resources for the Git/GitHub basics course.
 
