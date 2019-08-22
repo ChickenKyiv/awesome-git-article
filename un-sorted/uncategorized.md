@@ -39,3 +39,9 @@ https://medium.com/@i_AnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184c
 https://medium.com/free-code-camp/how-to-use-git-efficiently-54320a236369
 
 https://adityasridhar.com/posts/how-you-can-go-wrong-with-git
+
+https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/
+
+https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a
+
+---
