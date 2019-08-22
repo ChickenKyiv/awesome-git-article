@@ -51,7 +51,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 18: Guidelines - Part2](./video-17)
 - [Video 19: Summary](./video-17)
 
-
+---
 
 - [Video 20: Feature Branch Workflow Intro](./video-17)
 - [Video 21: Why to use Feature Branch Workflow](./video-17)
@@ -63,9 +63,46 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 26: Codebase changes](./video-17)
 - [Video 27: Push feature branch to remote repository](./video-17)
 
-- [Video 27: PR feedback and merge](./video-17)
-- [Video 27: PR Code review](./video-17)
+- [Video 28: PR feedback and merge](./video-17)
+- [Video 29: PR Code review](./video-17)
 
-- [Video 27: Feature Branch Workflow Example](./video-17)
+- [Video 30: Feature Branch Workflow Example](./video-17)
 
-- [Video 27: Summary](./video-17)
+- [Video 31: Summary](./video-17)
+
+---
+
+- [Video 31: Forking Workflow Intro](./video-17)
+- [Video 31: Forking Workflow Intro Part2](./video-17)
+- [Video 31: Forking Workflow Intro Part3](./video-17)
+- [Video 31: How it works](./video-17)
+- [Video 31: How it works - Part2](./video-17)
+- [Video 31: How it works - Part3](./video-17)
+- [Video 31: Forking vs cloning](./video-17)
+- [Video 31: Branching in the Forking Workflow](./video-17)
+- [Video 31: Fork a repository](./video-17)
+- [Video 31: Clone your fork](./video-17)
+- [Video 31: Adding a remote](./video-17)
+- [Video 31: Working in a branch making pushing changes](./video-17)
+- [Video 31: Making a Pull Request](./video-17)
+- [Video 31: Summary](./video-17)
+- [Video 31: Summary Part2](./video-17)
+
+---
+- [Video 31: Gitflow Workflow Intro](./video-17)
+- [Video 31: Getting Started](./video-17)
+
+- [Video 31: develop and master branches](./video-17)
+- [Video 31: Feature branches](./video-17)
+- [Video 31: Finishing a feature branch](./video-17)
+- [Video 31: Release branches](./video-17)
+- [Video 31: Release branches - Part2](./video-17)
+- [Video 31: Hotfix branches](./video-17)
+- [Video 31: Gitflow Workflow Example](./video-17)
+- [Video 31: Summary](./video-17)
+
+- [Video 31: End of our course](./video-17)
+
+--
+- [Video 31: ](./video-17)
+- [Video 31: ](./video-17)
