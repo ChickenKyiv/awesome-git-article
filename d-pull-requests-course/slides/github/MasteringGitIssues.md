@@ -69,6 +69,13 @@ https://help.github.com/en/articles/creating-issue-templates-for-your-repository
 
 https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612
 
+https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0
+
+https://github.com/ChickenKyiv/awesome-git-article/issues/3
+
+
+
+
 
 
 
