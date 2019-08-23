@@ -1,5 +1,7 @@
 #### Uncategorized
 
+Cool: https://www.rithmschool.com/courses/git/git-github-advanced-git-exercises
+
 - https://github.com/cjpatoilo/gitfit
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
