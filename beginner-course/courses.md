@@ -15,3 +15,5 @@ I can recommend to complete a
 [git-in-depth]() https://frontendmasters.com/courses/git-in-depth/
 
 [git-playlist]() https://github.com/iamshaunjp/git-playlist
+
+[an-intro-to-git-and-github-for-beginners](https://docsbay.net/an-intro-to-git-and-github-for-beginners)

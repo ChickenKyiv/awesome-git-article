@@ -47,3 +47,7 @@ https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits
 https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a
 
 ---
+
+https://www.freecodecamp.org/news/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747/
+
+https://www.freecodecamp.org/news/search/?query=git
