@@ -34,7 +34,7 @@ Example Part7
 
 ---
 
-Github 1
+~Github 1~
 
 Table of contents section #2
 About pull requests
