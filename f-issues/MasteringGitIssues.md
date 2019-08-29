@@ -1,3 +1,6 @@
+https://guides.github.com/features/issues/
+
+
 Intro
 Milestones, Labesl & Assignees
 
@@ -9,9 +12,9 @@ Other uses for Issues
 Can be a separated free course
 https://guides.github.com/features/issues/
 
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
-They’re kind of like email—except they can be shared and discussed with the rest of your team. 
-Most software projects have a bug tracker of some kind. 
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects.
+They’re kind of like email—except they can be shared and discussed with the rest of your team.
+Most software projects have a bug tracker of some kind.
 GitHub’s tracker is called **Issues**, and has its own section in every repository.
 
 navigation-highlight
@@ -28,7 +31,7 @@ example-issue
 
 - **Color-coded labels** help you categorize and filter your issues (just like labels in email).
 
-- A milestone acts like a container for issues. 
+- A milestone acts like a container for issues.
 This is useful for associating issues with specific features or project phases (e.g. **Weekly Sprint 9/5-9/16** or **Shipping 1.0**).
 
 - One assignee is responsible for working on the issue at any given time.
@@ -37,7 +40,7 @@ This is useful for associating issues with specific features or project phases (
 
 ## Milestones, Labels, and Assignees
 
-Once you’ve collected a lot of issues, you may find it hard to find the ones you care about. 
+Once you’ve collected a lot of issues, you may find it hard to find the ones you care about.
 **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
 labels
@@ -55,13 +58,13 @@ You can ask the repository owner to add you as a collaborator to get access.
 milestones
 Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples of milestones on GitHub include:
 
-- **Beta Launch** — File bugs that you need to fix before you can launch the beta of your project. 
+- **Beta Launch** — File bugs that you need to fix before you can launch the beta of your project.
 It’s a great way to make sure you aren’t missing anything.
 
-- **October Sprint** — File issues that you’d like to work on in October. 
+- **October Sprint** — File issues that you’d like to work on in October.
 A great way to focus your efforts when there’s a lot to do.
 
-- **Redesign** — File issues related to redesigning your project. 
+- **Redesign** — File issues related to redesigning your project.
 A great way to collect ideas on what to work on.
 
 https://www.youtube.com/watch?v=OIE_KXnSOXY
@@ -91,10 +94,3 @@ commit
 search
 
 pulse
-
-
-
-
-
-
-

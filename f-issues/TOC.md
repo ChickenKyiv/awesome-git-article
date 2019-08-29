@@ -9,6 +9,15 @@ This repository contains additional resources for the Git/GitHub basics course.
 Each folder includes a readme that outlines the topics covered in each video, along with any links that were maintained. Some folders also include the code used in that lesson.
 
 
+Intro
+Milestones, Labesl & Assignees
+
+Notifications, @mentions and references
+Search
+Overviews & Reports
+Other uses for Issues
+
+
 ---
 
 - [Video 0: ](./video-01)
