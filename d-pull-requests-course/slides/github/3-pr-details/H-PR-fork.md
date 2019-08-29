@@ -1,15 +1,17 @@
 Creating a pull request from a fork
+
 If you've forked a repository and made changes to the fork, you can ask that the upstream repository accept your changes by creating a pull request.
 
-You can open a pull request to the upstream repository from any branch or commit in your fork. 
+You can open a pull request to the upstream repository from any branch or commit in your fork.
+
 We recommend that you make changes in a topic branch, so that you can push followup commits if
-you receive feedback on your pull request. 
+you receive feedback on your pull request.
 
-You also have the option to give the upstream repository's maintainers the 
-ability to make commits on your topic branch to update your pull request. 
+You also have the option to give the upstream repository's maintainers the
+ability to make commits on your topic branch to update your pull request.
 
-If your pull request compares your topic branch with a branch in the upstream 
-repository as the base branch, then your topic branch is also called the compare branch of the pull request. 
+If your pull request compares your topic branch with a branch in the upstream
+repository as the base branch, then your topic branch is also called the compare branch of the pull request.
 
 
 
@@ -23,16 +25,19 @@ repository as the base branch, then your topic branch is also called the compare
 
 pull-request-start-review-button
 
+
 - On the Compare page, click compare across forks.
 
 compare-across-forks-link
 
-- Confirm that the `base fork` is the repository you'd like to merge changes into. 
+
+- Confirm that the `base fork` is the repository you'd like to merge changes into.
+
 Use the `base branch` drop-down menu to select the branch of the upstream repository you'd like to merge changes into.
 
 choose-base-fork-and-branch
 
-- Use the `head fork` drop-down menu to select your fork, then use the 
+- Use the `head fork` drop-down menu to select your fork, then use the
 `compare branch` drop-down menu to select the branch you made your changes in.
 
 choose-head-fork-compare-branch (1)
@@ -46,18 +51,19 @@ pullrequest-description
 
 allow-maintainers-to-make-edits (1)
 
-To create a pull request that is ready for review, click **Create Pull Request**. 
-To create a draft pull request, use the drop-down and select **Create Draft Pull Request**, then click **Draft Pull Request**. 
+
+To create a pull request that is ready for review, click **Create Pull Request**.
+
+To create a draft pull request, use the drop-down and select **Create Draft Pull Request**, then click **Draft Pull Request**.
 
 pullrequest-send
 
-<!-- 
+<!--
 "Working with forks"
 "Creating a pull request"
+
 "Allowing changes to a pull request branch created from a fork"
+
 "Committing changes to a pull request branch created from a fork"
---> 
 
-
-
-
+-->
