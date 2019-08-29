@@ -51,6 +51,14 @@ g96: https://www.loom.com/share/4eeec8dabc5842799251f43b172b5164
 
 ---
 
+
+s3g31: https://www.loom.com/share/b4e011435f3d4660972acd0162f0fd8f
+s3g32: https://www.loom.com/share/c07839e56e374bd8b69c9c54b8263232
+s3g33: https://www.loom.com/share/ec9b2f7b3900408988189870b2f727be
+s3g34: https://www.loom.com/share/47bd298ca71f486985ff21a4f0e74dfe
+s3g35: https://www.loom.com/share/3760861e0ffa4cf6ad04321fbe3b9a28
+
+
 g10:
 g11:
 g11:
