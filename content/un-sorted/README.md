@@ -47,3 +47,4 @@ Link to the issue number on GitHub within a commit message
 - https://try.github.io/
 
 ----
+https://marklodato.github.io/visual-git-guide/index-en.html
