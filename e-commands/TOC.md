@@ -1,5 +1,7 @@
 ## "Git/GitHub Pull Request Detailed. Centralized, " Course Resource Materials
 
+https://medium.com/datadriveninvestor/git-for-beginner-f438adfc3599
+
 This repository contains additional resources for the Git/GitHub basics course.
 
 
