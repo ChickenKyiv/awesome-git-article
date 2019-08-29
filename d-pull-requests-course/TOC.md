@@ -10,6 +10,51 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 
 ---
+#### Section1:
+Pull Requests Intro
+Git Workflows: Pull Request in GitHub
+Git Workflows: Activity inside a pull request
+Anatomy of a Pull Request
+Git Workflows: Pull Requests
+How it works
+Feature Branch Workflow With Pull Requests
+Pull Request: Feature Branch workflow
+Pull Request: Feature Branch workflow Part2
+Gitflow Workflow With Pull Requests
+Forking Workflow With Pull Requests
+Pull Requests: Forking workflow
+Pull Requests: Forking workflow
+Example Part1
+Example Part2
+Example Part3
+Example Part4
+Example Part5
+Example Part6
+Example Part7
+
+---
+
+Github 1
+
+Table of contents section #2
+About pull requests
+Pull Requests as space for discussion
+Merging a pull request.
+Required status checks
+Closing issues using keywords
+
+Squash commits at PR 1
+Squash commits at PR 2
+Squashing
+
+~draft~
+Draft pull requests 1
+Draft pull requests 2
+Draft pull requests 3
+Draft pull requests 4
+Draft pull requests 5
+
+---
 
 - [Video 0: ](./video-01)
 
