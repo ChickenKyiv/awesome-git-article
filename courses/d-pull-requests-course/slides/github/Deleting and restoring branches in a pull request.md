@@ -1,0 +1,61 @@
+https://help.github.com/en/articles/deleting-and-restoring-branches-in-a-pull-request
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/.png)
+
+## Deleting and restoring branches in a pull request
+
+### If you have write access in a repository, you can delete branches that are associated with closed or merged pull requests. You cannot delete branches that are associated with open pull requests.
+
+
+
+1. On GitHub, navigate to the main page of the repository.
+
+
+2. Under your repository name, click  `Pull requests`.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
+
+3. Click `Closed` to see a list of closed pull requests.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/branches-closed.png)
+
+4. In the list of pull requests, click the pull request that's associated with the branch that you want to delete.
+
+5. Near the bottom of the pull request, click `Delete branch`.
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/delete_branch_button.png)
+
+----
+
+
+
+
+
+
+
+
+## Restoring a deleted branch
+
+You can restore the head branch of a closed pull request.
+
+1. On GitHub, navigate to the main page of the repository.
+
+2. Under your repository name, click  `Pull requests`.
+
+repo-tabs-pull-requests (1)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
+
+3. Click `Closed` to see a list of closed pull requests.
+
+branches-closed (1)
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/branches-closed.png)
+
+4. In the list of pull requests, click the pull request that's associated with the branch that you want to restore.
+
+5. Near the bottom of the pull request, click `Restore branch`.
+
+branches-restore-deleted
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/branches-restore-deleted.png)
