@@ -1,14 +1,40 @@
+-----------
 
   - https://gist.github.com/spences10/5c492e197e95158809a83650ff97fc3a#useful-git-commands
+
+https://github.com/k88hudson/git-flight-rules
+
+--------
+
+
   - https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+
   - https://github.com/github/training-kit
 
 
 - https://github.com/ChickenKyiv/flexbox-course/blob/master/Videos-ALL.md
 
+
 - https://github.com/Multishifties/No-Nonsense-Github-Project
+
+CREATE SOMETHING LIKE THAT HERE...
+
 - https://wethefoss.github.io/Git-Commands/?ref=producthunt
+
+
 - https://github.com/nnja/advanced-git/tree/master/exercises
+https://matthieu-moy.fr/cours/formation-git/advanced-git-slides.pdf
+
+https://thoughtbot.com/upcase/mastering-git
+http://rkd.zgib.net/scicomp/git-advanced/git-advanced.html
+
+http://gitimmersion.com/lab_01.html
+
+
+game: https://github.com/Gazler/githug/blob/master/README.md
+
+excercise
+https://people.cs.umass.edu/~brun/class/2018Fall/CS520/in-class1.pdf
 
 - https://www.atlassian.com/git/tutorials/comparing-workflows
 
