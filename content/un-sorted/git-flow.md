@@ -29,6 +29,8 @@ https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3
 
 - https://medium.com/@rafavinnce/gitflow-branch-guide-8a523360c053
 
+
+
 - https://github.com/eadz/Git-Flow-Example
 
 - https://blog.axosoft.com/gitflow/
@@ -100,35 +102,21 @@ https://vitalflux.com/gitflow-workflow-best-practices-quiz-questions/
 
 ---
 
-Travis ci
-https://codeburst.io/ci-cd-with-github-travis-ci-and-heroku-e088a24f32ef
-https://github.com/mizool/travis-ci-maven-gitflow
-https://blog.travis-ci.com/2012-08-13-build-workflow-around-pull-requests
-https://reflectoring.io/fully-automated-open-source-release-chain/
-https://stackoverflow.com/questions/42230713/travis-gitflow-java-maven-workflow
-
-https://forum.shakacode.com/t/git-flow-vs-feature-branches/169
-
-https://thibmaek.com/post/checking-for-feature-branches-in-travis-ci
-https://dev.to/alex_barashkov/tips-and-tricks-for-scalable-cicd-flow--49b7
-
-https://softwareengineering.stackexchange.com/questions/255404/how-to-use-github-branches-and-automatic-releases-for-version-management
-
-https://guseyn.com/posts/travis-control-quality
-
-Hotfix: http://www.recursion.org/2017/8/8/hotfix-releases-with-travis-ci
-
-https://code.tutsplus.com/courses/continuous-integration-workflow/lessons/what-is-continuous-integration
-https://www.atlassian.com/continuous-delivery/continuous-integration/git-hooks
 
 ---
 PR
 https://community.atlassian.com/t5/Bitbucket-questions/git-flow-feature-finish-and-pull-request/qaq-p/347877
+
 https://stackoverflow.com/questions/55706856/proper-way-to-use-gitflow-with-pull-requests
+
 https://stackoverflow.com/questions/43205716/workflow-for-handling-pull-requests-in-a-gitflow-workflow-with-infrequent-relea
+
 https://stackoverflow.com/questions/24418711/git-flow-github-pull-request-isnt-working-as-expected
+
 https://stackoverflow.com/questions/31135212/git-flow-with-bitbucket-pull-requests
+
 https://softwareengineering.stackexchange.com/questions/187723/code-review-with-git-flow-and-github
+
 https://datasift.github.io/gitflow/GitFlowForGitHub.html
 
 https://softwareengineering.stackexchange.com/questions/390536/git-flow-pull-requests-multi-destination-branches-and-conflicts-how-is-it-sup
@@ -165,7 +153,9 @@ https://medium.com/tensult/version-controlling-using-git-flow-tags-57b34c1d6a71
 
 
 https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac
+
 ---
+
 gitflow release branch naming
 
 https://community.atlassian.com/t5/Git-questions/What-branch-name-conventions-do-you-use/qaq-p/510537
@@ -199,10 +189,15 @@ https://www.allinmobile.co/know-how/git-basic-hygiene-of-working-with-repository
 
 gitflow release candidate
 https://stackoverflow.com/questions/38917083/git-flow-workflow-for-making-release-candidates-qa-web-artifacts
+
 https://stackoverflow.com/questions/39328064/in-which-branch-should-a-beta-release-be-tagged
+
 https://stackoverflow.com/questions/17436024/adapting-the-git-flow-model-for-pre-production-environments
+
 https://stackoverflow.com/questions/55075895/git-flow-clarification-for-the-existence-of-both-hotfix-and-rc
+
 https://stackoverflow.com/questions/41739985/maven-and-git-flow-version-strategy-for-release-candidates
+
 https://gitversion.readthedocs.io/en/latest/git-branching-strategies/gitflow/#release-candidates
 
 https://medium.com/empathyco/git-flow-applied-to-a-real-project-c08037e28f88
@@ -224,8 +219,11 @@ https://sweetcode.io/everything-need-know-gitflow/
 https://www.quora.com/What-are-the-benefits-of-Git-Flow
 
 https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-Git
+
 https://www.addwebsolution.com/blog/git-flow-commands-advantages
+
 https://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow
+
 https://dev.to/alexkolson/comment/a9c
 
 https://medium.com/ryoshiga/git-flow-for-agile-teams-is-a-no-no-4c202647ac09
@@ -234,9 +232,14 @@ https://www.mudbath.com.au/blogs/gitflow-and-the-case-against-the-develop-branch
 
 https://news.ycombinator.com/item?id=9744059
 
+---
+
 disadvantages
+
 https://stxnext.com/blog/2018/02/28/escape-merge-hell-why-i-prefer-trunk-based-development-over-feature-branching-and-gitflow/
+
 https://team-coder.com/from-git-flow-to-trunk-based-development/
+
 http://www.elidedbranches.com/2013/02/branching-is-easy-so.html
 
 https://dev.to/rbukovansky/comment/6k3g
@@ -244,9 +247,11 @@ https://dev.to/rbukovansky/comment/6k3g
 https://softwareengineering.stackexchange.com/questions/312022/the-trend-of-the-develop-branch-going-away
 
 ---
+
 gitflow advanced
 
 https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
+
 https://hackernoon.com/how-the-creators-of-git-do-branches-e6fcc57270fb
 
 https://gist.github.com/4251497
@@ -268,4 +273,5 @@ https://www.aarixa.be/opleidingen/advanced-git-devops/
 https://www.oreilly.com/videos/conquering-git-advanced/9781788833042
 
 https://www.udemy.com/course/devops-with-git-jenkins-artifactory-and-elk-stack/
+
 https://softwareengineering.stackexchange.com/questions/351607/what-can-i-do-for-developers-who-cant-learn-git/351618

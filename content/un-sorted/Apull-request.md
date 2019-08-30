@@ -19,12 +19,3 @@ You will learn
 - Resolve conflict on new branch
 
 - Master merge to feature branch Or it's a separated entity?
-
-
-
-https://www.atlassian.com/git/tutorials/making-a-pull-request
-
-
-https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
-https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow

@@ -23,3 +23,24 @@
 - https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=WZ0mETE1J94
 - https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=V_1f1CpyreE
 - https://www.youtube.com/watch?list=PL6nth5sRD25itbyNVUULAebzL-VLrLfkK&v=0fQuew5y_nA
+
+
+------
+
+Merge youtube
+
+https://www.youtube.com/watch?v=FdZecVxzJbk
+
+https://www.youtube.com/watch?v=JtIX3HJKwfo
+
+https://www.youtube.com/watch?v=f1wnYdLEpgI
+
+https://www.youtube.com/watch?v=to6tIdy5rNc
+
+
+
+! https://www.youtube.com/watch?v=ZgCCnv9LxzA
+
+https://www.youtube.com/watch?v=0SJCYPsef54
+
+https://www.youtube.com/watch?v=e9K1gHYIE2c

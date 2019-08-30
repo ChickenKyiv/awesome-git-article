@@ -17,10 +17,13 @@ https://github.com/k88hudson/git-flight-rules
 
 - https://github.com/Multishifties/No-Nonsense-Github-Project
 
+---
+
 CREATE SOMETHING LIKE THAT HERE...
 
 - https://wethefoss.github.io/Git-Commands/?ref=producthunt
 
+---
 
 - https://github.com/nnja/advanced-git/tree/master/exercises
 https://matthieu-moy.fr/cours/formation-git/advanced-git-slides.pdf
@@ -45,12 +48,6 @@ https://people.cs.umass.edu/~brun/class/2018Fall/CS520/in-class1.pdf
 
 
 
-#### Mastering Issues + good old blog post
-- https://guides.github.com/features/issues/
-- https://blog.github.com/2011-04-09-issues-2-0-the-next-generation/
-
-Link to the issue number on GitHub within a commit message
-- https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
 
 
 
