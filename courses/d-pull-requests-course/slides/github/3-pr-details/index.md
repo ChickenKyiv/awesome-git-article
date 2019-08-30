@@ -20,32 +20,3 @@ pullrequest-description (1)
 
 pullrequest-send (1)
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/CreatePR/pullrequest-send.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://help.github.com/en/articles/merging-a-pull-request
-
----
-
-
-
-
-"Changing the base branch of a pull request" https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request
-
-
-?
-
-
-
-
-"Adding issues and pull requests to a project board from the sidebar" https://help.github.com/en/articles/adding-issues-and-pull-requests-to-a-project-board/#adding-issues-and-pull-requests-to-a-project-board-from-the-sidebar
