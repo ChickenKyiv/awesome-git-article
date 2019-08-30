@@ -6,6 +6,7 @@
 
 
 #### Adding your changes to other contributors pull request
+
 - https://help.github.com/en/articles/checking-out-pull-requests-locally
 
 - https://www.burntfen.com/2015-10-30/how-to-amend-a-commit-on-a-github-pull-request
