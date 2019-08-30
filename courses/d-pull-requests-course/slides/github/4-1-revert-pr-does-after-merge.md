@@ -1,0 +1,39 @@
+---
+id: s
+title: Reverting a pull request
+sidebar_label: Reverting a pull request
+---
+
+Reverting a pull request
+
+#### You can revert a pull request after it's been merged to the upstream branch.
+
+Reverting a pull request on GitHub creates a new pull request that contains one revert of the merge commit from the original merged pull request.
+
+Note: You may need to use Git to manually revert the individual commits if:
+
+- Reverting the pull request causes merge conflicts
+- The original pull request **was not** originally merged on GitHub (for example, using a fast-forward merge on the command line)
+
+
+1. Under your repository name, click  `Pull requests`.
+
+<!-- [IMG]
+repo-tabs-pull-requests (1) -->
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
+
+2. In the "Pull Requests" list, click the pull request you'd like to revert.
+
+3. Near the bottom of the pull request, click `Revert`.
+
+<!-- [IMG]
+repo-tabs-pull-requests (1) -->
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
+
+4. Merge the resulting pull request.
+
+
+
+https://help.github.com/en/articles/reverting-a-pull-request

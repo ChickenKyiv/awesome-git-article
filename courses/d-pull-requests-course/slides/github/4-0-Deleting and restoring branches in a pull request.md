@@ -1,6 +1,10 @@
-https://help.github.com/en/articles/deleting-and-restoring-branches-in-a-pull-request
+---
+id: s
+title: Deleting and restoring branches in a pull request
+sidebar_label: Deleting and restoring branches in a pull request
+---
 
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/.png)
+
 
 ## Deleting and restoring branches in a pull request
 
@@ -32,12 +36,12 @@ https://help.github.com/en/articles/deleting-and-restoring-branches-in-a-pull-re
 
 
 
+---
+id: s
+title: Restoring a deleted branch
+sidebar_label: Restoring a deleted branch
+---
 
-
-
-
-
-## Restoring a deleted branch
 
 You can restore the head branch of a closed pull request.
 
@@ -45,17 +49,24 @@ You can restore the head branch of a closed pull request.
 
 2. Under your repository name, click  `Pull requests`.
 
-repo-tabs-pull-requests (1)
+
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
 
 3. Click `Closed` to see a list of closed pull requests.
 
-branches-closed (1)
+
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/branches-closed.png)
 
 4. In the list of pull requests, click the pull request that's associated with the branch that you want to restore.
 
 5. Near the bottom of the pull request, click `Restore branch`.
 
-branches-restore-deleted
+
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/branches-restore-deleted.png)
+
+====
+====
+
+https://help.github.com/en/articles/deleting-and-restoring-branches-in-a-pull-request
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/.png)

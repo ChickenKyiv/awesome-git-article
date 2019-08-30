@@ -1,16 +1,3 @@
-
-
-"Changing the base branch of a pull request"
-https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request
-
-
-PR/base-branch/
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/base-branch/.png)
-
-===============
-===============
-
 ---
 id: s
 title: Changing the base branch of a pull request
@@ -18,7 +5,7 @@ sidebar_label: Changing the base branch of a pull request
 ---
 
 
-###  Creating a pull request from a fork
+<!-- ###  Creating a pull request from a fork -->
 
 ! **Warning: When you change the base branch of your pull request, some commits may be removed from the timeline.
 
@@ -58,3 +45,18 @@ Step-by-step guide:
 
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/base-branch/pull-request-base-branch-confirm.png)
+
+
+
+
+===============
+===============
+
+
+"Changing the base branch of a pull request"
+https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request
+
+
+PR/base-branch/
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/base-branch/.png)
