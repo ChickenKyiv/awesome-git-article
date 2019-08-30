@@ -4,7 +4,7 @@ title: Reverting a pull request
 sidebar_label: Reverting a pull request
 ---
 
-Reverting a pull request
+<!-- Reverting a pull request -->
 
 #### You can revert a pull request after it's been merged to the upstream branch.
 
