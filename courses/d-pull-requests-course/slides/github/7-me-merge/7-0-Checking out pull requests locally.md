@@ -3,7 +3,11 @@
 https://help.github.com/en/articles/checking-out-pull-requests-locally#modifying-an-active-pull-request-locally
 
 
-
+---
+id: s
+title: Deleting branches in a pull request
+sidebar_label: Deleting branches in a pull request
+---
 
 Checking out pull requests locally
 
