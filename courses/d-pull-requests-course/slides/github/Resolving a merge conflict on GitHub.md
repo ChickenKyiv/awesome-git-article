@@ -17,8 +17,8 @@ Make sure you really want to commit to this branch.**
 
 1. Under your repository name, click  `Pull requests`.
 
-repo-tabs-pull-requests (1)
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- repo-tabs-pull-requests (1) -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/repo-tabs-pull-requests.png)
 
 ---
 
@@ -30,8 +30,8 @@ repo-tabs-pull-requests (1)
 
 3. Near the bottom of your pull request, click `Resolve conflicts`.
 
-resolve-merge-conflicts-button
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- resolve-merge-conflicts-button -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/resolve-merge-conflicts-button.png)
 
 **Tip: If the `Resolve conflicts` button is deactivated, your pull request's merge conflict is too complex to resolve on GitHub.
 
@@ -44,8 +44,9 @@ You must resolve the merge conflict using another Git client like Atom's Git int
 
 Delete the conflict markers `<<<<<<<`, `=======`, `>>>>>>>` and make the changes you want in the final merge.
 
-view-merge-conflict-with-markers
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- view-merge-conflict-with-markers -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/view-merge-conflict-with-markers.png)
+
 ---
 
 
@@ -56,33 +57,37 @@ view-merge-conflict-with-markers
 
 6. Once you've resolved all the conflicts in the file, click `Mark as resolved`.
 
-mark-as-resolved-button
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- mark-as-resolved-button -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/mark-as-resolved-button.png)
+
 ---
 
 
 7. If you have more than one file with a conflict, select the next file you want to edit on the left side of the page under "conflicting files" and repeat steps four through seven until you've resolved all of your pull request's merge conflicts.
 
-resolve-merge-conflict-select-conflicting-file
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- resolve-merge-conflict-select-conflicting-file -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/resolve-merge-conflict-select-conflicting-file.png)
+
 ---
 
 
 8. Once you've resolved all your merge conflicts, click Commit merge. This merges the entire base branch into your head branch.
 
-merge-conflict-commit-changes
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- merge-conflict-commit-changes -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/merge-conflict-commit-changes.png)
+
 ---
 
 
 9. If prompted, review the branch that you are committing to. If you want to commit to this branch, click `I understand, update BRANCH` button.  
 
-merge-conflict-confirmation
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/compare-across-forks-link.png)
+<!-- merge-conflict-confirmation -->
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/commands/merge-conflict-confirmation.png)
+
 ---
 
 
 10. To merge your pull request, click Merge pull request.
 
 
-https://help.github.com/en/articles/resolving-a-merge-conflict-on-github
+<!-- https://help.github.com/en/articles/resolving-a-merge-conflict-on-github -->
