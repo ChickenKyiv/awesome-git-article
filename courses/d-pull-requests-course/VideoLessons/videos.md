@@ -59,6 +59,18 @@ s3g34: https://www.loom.com/share/47bd298ca71f486985ff21a4f0e74dfe
 s3g35: https://www.loom.com/share/3760861e0ffa4cf6ad04321fbe3b9a28
 
 
+
+s3fork1: https://www.loom.com/share/da00a012cb1b479c8ed8a6d7a349544f
+s3fork2: https://www.loom.com/share/c3f85d1b1df64fc493c7504d07a3d3fa
+s3fork3: https://www.loom.com/share/f987660d02bd4ab8864826fa33d30861
+s3fork4: https://www.loom.com/share/a46d657687b643b6b37529feb6656b3c
+s3fork5:https://www.loom.com/share/cac660b37631454d89cb415e200b9177
+s3fork6: https://www.loom.com/share/bd7cd390404d42f886c353f6bc1be540
+s3fork7: https://www.loom.com/share/feb29bde4be64f9380c857c1eec72479
+s3fork8: https://www.loom.com/share/45ffcce6942d424d94e3bc155cdc0c18
+
+
+
 g10:
 g11:
 g11:
