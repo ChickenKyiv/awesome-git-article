@@ -55,3 +55,9 @@ https://www.freecodecamp.org/news/an-intro-to-git-aliases-a-faster-way-of-workin
 
 
 https://www.freecodecamp.org/news/search/?query=git
+
+
+PR templates.
+https://blog.axosoft.com/enhancing-pull-request-descriptions-templates/
+
+https://blog.axosoft.com/pull-requests-gitflow/
