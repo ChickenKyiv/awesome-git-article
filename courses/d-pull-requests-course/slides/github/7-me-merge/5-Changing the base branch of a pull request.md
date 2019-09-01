@@ -45,18 +45,3 @@ Step-by-step guide:
 
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/base-branch/pull-request-base-branch-confirm.png)
-
-
-
-
-===============
-===============
-
-
-"Changing the base branch of a pull request"
-https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request
-
-
-PR/base-branch/
-
-![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/base-branch/.png)

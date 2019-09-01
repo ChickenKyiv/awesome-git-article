@@ -19,12 +19,21 @@ This can be handy if the changes proposed in the branch are no longer needed, or
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
 
+---
+
+
 2. In the "Pull Requests" list, click the pull request you'd like to close.
+
+---
+
 
 3. At the bottom of the pull request, below the comment box, click `Close pull request`.
 
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/pullrequest-closebutton.png)
+
+---
+
 
 Optionally, delete the branch.
 

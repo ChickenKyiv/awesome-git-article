@@ -23,7 +23,13 @@ repo-tabs-pull-requests (1) -->
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
 
+---
+
+
 2. In the "Pull Requests" list, click the pull request you'd like to revert.
+
+---
+
 
 3. Near the bottom of the pull request, click `Revert`.
 
@@ -31,6 +37,9 @@ repo-tabs-pull-requests (1) -->
 repo-tabs-pull-requests (1) -->
 
 ![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/repo-tabs-pull-requests.png)
+
+---
+
 
 4. Merge the resulting pull request.
 

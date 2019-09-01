@@ -1,8 +1,3 @@
-
-
-https://help.github.com/en/articles/checking-out-pull-requests-locally#modifying-an-active-pull-request-locally
-
-
 ---
 id: s
 title: Deleting branches in a pull request
@@ -19,3 +14,5 @@ Checking out pull requests locally
 A. Modifying an active pull request locally
 B. Modifying an inactive pull request locally
 C. Error: Failed to push some refs
+
+https://help.github.com/en/articles/checking-out-pull-requests-locally#modifying-an-active-pull-request-locally
