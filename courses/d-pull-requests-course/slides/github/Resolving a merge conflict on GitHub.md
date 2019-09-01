@@ -1,0 +1,54 @@
+https://help.github.com/en/articles/resolving-a-merge-conflict-on-github
+
+Resolving a merge conflict on GitHub
+
+**You can resolve simple merge conflicts that involve competing line changes on GitHub, using the conflict editor.**
+
+You can only resolve merge conflicts on GitHub that are caused by competing line changes, such as when people make different changes to the same line of the same file on different branches in your Git repository.
+
+For all other types of merge conflicts, you must resolve the conflict locally on the command line
+
+
+**Warning: When you resolve a merge conflict on GitHub, the entire base branch of your pull request is merged into the head branch, even if the head branch is the default branch of your repository, like master, or a protected branch.
+
+Make sure you really want to commit to this branch.**
+
+1. Under your repository name, click  `Pull requests`.
+
+repo-tabs-pull-requests (1)
+
+2. In the "Pull Requests" list, click the pull request with a merge conflict that you'd like to resolve.
+
+3. Near the bottom of your pull request, click `Resolve conflicts`.
+
+resolve-merge-conflicts-button
+
+**Tip: If the `Resolve conflicts` button is deactivated, your pull request's merge conflict is too complex to resolve on GitHub.
+
+You must resolve the merge conflict using another Git client like Atom's Git integration or the command line.**
+
+4. Decide if you want to keep only your branch's changes, keep only the other branch's changes, or make a brand new change, which may incorporate changes from both branches.
+
+Delete the conflict markers `<<<<<<<`, `=======`, `>>>>>>>` and make the changes you want in the final merge.
+
+view-merge-conflict-with-markers
+
+5. If you have more than one merge conflict in your file, scroll down to the next set of conflict markers and repeat steps four and five to resolve your merge conflict.
+
+6. Once you've resolved all the conflicts in the file, click `Mark as resolved`.
+
+mark-as-resolved-button
+
+7. If you have more than one file with a conflict, select the next file you want to edit on the left side of the page under "conflicting files" and repeat steps four through seven until you've resolved all of your pull request's merge conflicts.
+
+resolve-merge-conflict-select-conflicting-file
+
+8. Once you've resolved all your merge conflicts, click Commit merge. This merges the entire base branch into your head branch.
+
+merge-conflict-commit-changes
+
+8. If prompted, review the branch that you are committing to. If you want to commit to this branch, click `I understand, update BRANCH` button.  
+
+merge-conflict-confirmation
+
+10. To merge your pull request, click Merge pull request.
