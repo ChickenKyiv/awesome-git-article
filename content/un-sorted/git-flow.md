@@ -275,3 +275,6 @@ https://www.oreilly.com/videos/conquering-git-advanced/9781788833042
 https://www.udemy.com/course/devops-with-git-jenkins-artifactory-and-elk-stack/
 
 https://softwareengineering.stackexchange.com/questions/351607/what-can-i-do-for-developers-who-cant-learn-git/351618
+
+
+https://blog.axosoft.com/pull-requests-gitflow/
