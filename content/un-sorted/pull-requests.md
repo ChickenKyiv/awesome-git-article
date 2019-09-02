@@ -33,3 +33,24 @@ https://thenewstack.io/getting-legit-with-git-and-github-your-first-pull-request
 https://hackernoon.com/how-to-handle-github-pull-requests-like-a-boss-8693f4c57974
 
 https://confluence.atlassian.com/bitbucket/create-a-pull-request-to-merge-your-change-774243413.html
+
+
+https://bocoup.com/blog/git-workflow-walkthrough-reviewing-pull-requests
+
+https://confluence.atlassian.com/bitbucketserver/review-and-discuss-a-pull-request-808488540.html
+
+https://github.community/t5/Support-Protips/Best-practices-for-pull-requests/ba-p/4104
+
+https://www.freecodecamp.org/news/how-to-automate-code-reviews-on-github-41be46250712/
+
+https://deliveroo.engineering/2017/09/06/play-pull-request-roulette.html
+
+https://devguide.python.org/pullrequest/
+
+https://github.blog/2019-04-15-easily-review-comments-in-atom/
+
+https://haacked.com/archive/2019/06/03/suggested-changes/
+
+https://watirmelon.blog/2018/07/11/avoiding-lgtm-pr-cultures/
+
+https://bettercloud.tech/code-without-review-is-a-waste-of-money-5a168243ae13
