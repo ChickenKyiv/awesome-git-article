@@ -19,3 +19,13 @@ You will learn
 - Resolve conflict on new branch
 
 - Master merge to feature branch Or it's a separated entity?
+
+
+
+https://help.github.com/en/articles/approving-a-pull-request-with-required-reviews
+
+https://help.github.com/en/articles/reviewing-changes-in-pull-requests
+
+https://dev.to/ben/whats-your-typical-process-for-reviewing-a-pull-request-in-github-3klk
+
+https://bocoup.com/blog/git-workflow-walkthrough-reviewing-pull-requests-local
