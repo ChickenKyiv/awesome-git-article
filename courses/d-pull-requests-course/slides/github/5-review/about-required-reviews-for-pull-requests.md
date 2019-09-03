@@ -1,0 +1,34 @@
+https://help.github.com/en/articles/about-required-reviews-for-pull-requests
+
+About required reviews for pull requests
+
+Protected branches are available in public and private repositories on GitHub
+
+#### Required reviews ensure that pull requests have a specific number of approving reviews before collaborators can make changes to a protected branch.
+
+If you've enforced branch protections in your repository, you can set up required reviews. It can be done at repository settings. Usually it's a choice of Team Leader that want to have more clear coding workflow inside of the team.
+
+Repository administrators can require that all pull requests receive a specific number of approving reviews from people with `write` or `admin` permissions in the repository or from a designated code owner before they're merged into a protected branch.
+
+When required reviews are enabled, anyone with access to the repository can approve changes in a pull request. However, you won't be able to merge your pull request until the required number of reviewers with `write` or `admin` permissions in the repository approve your pull request's changes in their review.
+
+If review is required from a designated code owner and the pull request affects code that has a designated owner, approval from that owner is required.
+
+If a person with admin permissions chooses the Request changes option in a review, then that person must approve the pull request before it can be merged. If a reviewer who requests changes on a pull request isn't available, anyone with `admin` or `write` permission for the repository can dismiss the blocking review.
+
+**Note: Repository admins can restrict the ability to dismiss pull request reviews to specific people or teams.**
+
+If you push a code-modifying commit to the branch of an approved pull request, the approval may be dismissed if repository admins have set up `stale review dismissals`. This doesn't apply if you push non-code-modifying commits, like merging the `base branch` into your pull request's branch.
+
+Unless required reviews have been set up to include repository admins, people with `admin` permissions can merge a pull request regardless of reviews from other admins.
+
+
+After all required reviewers have approved a pull request, you won't be able to merge it if there are other open pull requests with pending or rejected reviews and those pull requests have a head branch pointing to the same commit. Someone with `write` or `admin` permissions will need to approve or dismiss the blocking review on the other pull requests before you can merge.
+
+You can't merge a pull request into a protected branch until someone with `write` or `admin` permissions approves it. If there are pending or rejected reviews, you'll receive an error message:
+
+```
+remote: error: GH006: Protected branch update failed for refs/heads/master.
+
+remote: error: Changes have been requested.
+```
