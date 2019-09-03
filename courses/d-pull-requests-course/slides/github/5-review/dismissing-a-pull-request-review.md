@@ -1,11 +1,11 @@
 ---
 id: s3review10
-title: Submitting your review
-sidebar_label: Submitting your review
+title: Dismissing a pull request review
+sidebar_label: Dismissing a pull request review
 ---
 
 
-Dismissing a pull request review
+
 
 #### If your repository requires reviews, you can dismiss pull request reviews that are
 ## no longer valid or are unable to be approved by the reviewer.
@@ -20,6 +20,9 @@ Your comment will be added to the pull request conversation.
 
 You can find a pull request where you or a team you're a member of is requested for
 review with the search qualifier `review-requested:[USERNAME]` or `team-review-requested:[TEAMNAME]`.
+
+
+
 
 
 ## How to dismiss a PR
