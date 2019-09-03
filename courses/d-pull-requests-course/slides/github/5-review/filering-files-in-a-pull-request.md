@@ -1,3 +1,9 @@
+---
+id: s3review10
+title: Submitting your review
+sidebar_label: Submitting your review
+---
+
 Filtering files in a pull request
 
 #### To help you quickly review changes in a large pull request, you can filter changed files.
@@ -11,20 +17,33 @@ such as .html or .js, no extension, code ownership, or dotfiles.
 
 1. Under your repository name, click  `Pull requests`.
 
+---
+
 2. In the list of pull requests, click the pull request you'd like to filter.
 
+---
+
 3. On the pull request, click  `Files changed`.
+
+---
 
 4. Use the File filter drop-down menu, and select, unselect, or click the desired filters.
 
 
-file-filter-option.png
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/file-filter-option.png)
+
+---
 
 5. Optionally, to clear the filter selection, under the `Files changed` tab, click `Clear`.
 
-clear-file-filter.png
 
 
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/clear-file-filter.png)
+
+
+---
 
 
 https://help.github.com/en/articles/filtering-files-in-a-pull-request
