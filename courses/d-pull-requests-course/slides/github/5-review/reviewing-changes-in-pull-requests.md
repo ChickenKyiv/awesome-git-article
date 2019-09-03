@@ -1,10 +1,10 @@
 ---
-id: s3review10
-title: Submitting your review
-sidebar_label: Submitting your review
+id: s3review0000
+title: Reviewing changes in pull requests - topics
+sidebar_label: Reviewing changes in pull requests - topics
 ---
 
-Reviewing changes in pull requests
+
 
 After a pull request has been opened, you can review and discuss the set of proposed changes.
 
