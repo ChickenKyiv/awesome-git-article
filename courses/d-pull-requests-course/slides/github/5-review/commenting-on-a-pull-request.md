@@ -15,13 +15,19 @@ In this section we'll talk about:
 - Adding line comments to a pull request
 - Resolving conversations
 
+----------
+----------
+----------
+
 
 ## About pull request comments
 
 
 You can comment on a pull request's `Conversation` tab to leave general comments, questions, or props.
 
-conversation.png
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/conversation.png)
 
 You can also comment on specific sections of a file on a pull request's Files changed tab in the form of individual line comments or as part of a pull request review. Adding line comments is a
 great way to discuss questions about implementation or provide feedback to the author.
@@ -54,13 +60,18 @@ such as @mentions, emoji, and references.
 We talked about it in previous slides.
 I think you remember this image. You can add line comments as part of reviewing process
 
-hover-comment-icon.gif
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/hover-comment-icon.gif)
 
 
 **Note: Anyone watching the pull request or repository will receive a notification of your comment.**
 
 
 ----------
+---------
+----------
+
 
 ## Resolving conversations
 
@@ -69,12 +80,16 @@ You can resolve a conversation in a pull request if you opened the pull request 
 
 To indicate that a conversation on the `Files changed` tab is complete, click `Resolve conversation`.
 
-conversation-with-resolve-button.png
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/conversation-with-resolve-button.png)
 
 The entire conversation will be collapsed and marked as resolved,
 making it easier to find conversations that still need to be addressed.
 
-resolved-conversation.png
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/resolved-conversation.png)
 
 
 Tips:

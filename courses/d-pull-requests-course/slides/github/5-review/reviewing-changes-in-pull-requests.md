@@ -1,0 +1,77 @@
+Reviewing changes in pull requests
+
+After a pull request has been opened, you can review and discuss the set of proposed changes.
+
+
+
+A. About pull request reviews
+
+Reviews allow collaborators to comment on the changes proposed in pull requests, approve the changes, or request further changes before the pull request is merged. Repository administrators can require that all pull requests are approved before being merged.
+
+---
+
+B. Reviewing proposed changes in a pull request
+
+In a pull request, you can review and discuss commits, changed files, and the differences (or "diff") between the files in the base and compare branches.
+
+---
+
+C. Filtering files in a pull request
+
+To help you quickly review changes in a large pull request, you can filter changed files.
+
+---
+
+D. Finding changed methods and functions in a pull request
+
+You can quickly find proposed changes to a method or
+function in a pull request in .go, .js, .ts, .py, .php, and .rb files.
+
+---
+
+E. Commenting on a pull request
+After you open a pull request in a repository, collaborators or team members can comment on the comparison of files between the two specified branches, or leave general comments on the project as a whole.
+
+
+---
+
+F. Viewing a pull request review
+You can view all of the comments made in a single pull request review.
+
+
+
+---
+
+G. Incorporating feedback in your pull request
+
+If reviewers give you feedback on a pull request, you can incorporate it manually and accept suggested changes automatically.
+
+
+---
+
+H. Approving a pull request with required reviews
+
+If your repository requires reviews,
+pull requests must have a specific number of approving
+reviews from people with write or admin permissions in the repository before they can be merged.
+
+
+
+---
+
+K.  Dismissing a pull request review
+
+If your repository requires reviews, you can dismiss
+pull request reviews that are no longer valid or are
+unable to be approved by the reviewer.
+
+
+---
+
+L. Checking out pull requests locally
+
+When someone sends you a pull request from a fork or branch of your repository,
+you may want to merge it locally to resolve a merge
+conflict or to test and verify the changes on your local computer before merging on GitHub.
+
+---
