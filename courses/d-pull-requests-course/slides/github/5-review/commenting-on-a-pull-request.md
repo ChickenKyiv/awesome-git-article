@@ -5,4 +5,4 @@ Tips:
 
 
 
-<!-- **For more shortcuts, see "Keyboard shortcuts."** -->
+https://help.github.com/en/articles/commenting-on-a-pull-request
