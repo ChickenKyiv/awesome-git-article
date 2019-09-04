@@ -61,3 +61,6 @@ PR templates.
 https://blog.axosoft.com/enhancing-pull-request-descriptions-templates/
 
 https://blog.axosoft.com/pull-requests-gitflow/
+
+
+beg: https://medium.com/free-code-camp/the-google-doc-of-coding-git-github-ec103e87926d
