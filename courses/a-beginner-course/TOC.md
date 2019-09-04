@@ -1,4 +1,6 @@
-## "A beginner guide to Git" Course Resource Materials
+## "Git Basics. Commits, code merges, GitHub repository" Course Resource Materials
+
+#### Learn git commands on practice
 
 This repository contains additional resources for the Git/GitHub basics course.
 
@@ -10,6 +12,8 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 
 ---
+## Introduction to Git
+#### What is Git and Version Control Systems
 
 - [Video 0: What is Git & History of Git](./video-01)
 
