@@ -25,6 +25,10 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 - [Video 4: Create GitHub account](./video-06)
 
+
+Installation. Create first GitHub repository
+How to use GitHub.com website
+
 - [Video 5: Create clean code repository on Github](./video-07)
 
 - [Video 6: Git install locally for different OS](./video-08)
@@ -34,6 +38,10 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 8: Check-out and Check-In processes](.//video-09)
 - [Video 9: Staging environment](.//video-09)
 
+
+Working with your repository
+Basic workflow with git repositories
+
 - [Video 10: Create a good coverage for your repository](./video-12)
 
 - [Video 11: Create Readme file locally](./video-13)
@@ -42,9 +50,12 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 - [Video 13: Useful commands for Git](./video-15)
 
-
-
 - [Video 14: Practice. Check-out process](./video-16)
+
+
+Git Merge
+Git branching, merge process, merge conflicts resolving  
+
 - [Video 15: Branching workflow.](./video-17)
 
 - [Video 16: Git Merge Part1](./video-17)
@@ -60,3 +71,10 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 25: Git merge advanced example](./video-17)
 - [Video 26: Additional materials about branching and merging](./video-17)
 - [Video 27: Git CheatSheets](./video-17)
+- [Video 27: Congratulations!](./video-17)
+
+Welcome
+Welcome to this course! Hope you'll enjoy it! Good luck!
+
+Closing
+Thank you for your time. I hope you like it
