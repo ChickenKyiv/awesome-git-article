@@ -1,0 +1,24 @@
+
+## Resolving conversations
+
+
+You can resolve a conversation in a pull request if you opened the pull request or if you have write access to the repository where the pull request was opened.
+
+To indicate that a conversation on the `Files changed` tab is complete, click `Resolve conversation`.
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/conversation-with-resolve-button.png)
+
+The entire conversation will be collapsed and marked as resolved,
+making it easier to find conversations that still need to be addressed.
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/resolved-conversation.png)
+
+
+Tips:
+
+**To toggle between collapsing and expanding all outdated review comments in a**
+**pull request, hold down `alt` and click Show outdated or Hide outdated.**

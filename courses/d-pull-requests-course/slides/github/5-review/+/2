@@ -1,0 +1,13 @@
+
+## Adding line comments to a pull request
+
+
+We talked about it in previous slides.
+I think you remember this image. You can add line comments as part of reviewing process
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/hover-comment-icon.gif)
+
+
+**Note: Anyone watching the pull request or repository will receive a notification of your comment.**

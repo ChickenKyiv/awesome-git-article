@@ -1,0 +1,29 @@
+
+## About pull request comments
+
+
+You can comment on a pull request's `Conversation` tab to leave general comments, questions, or props.
+
+
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/PR/review/conversation.png)
+
+You can also comment on specific sections of a file on a pull request's Files changed tab in the form of individual line comments or as part of a pull request review. Adding line comments is a
+great way to discuss questions about implementation or provide feedback to the author.
+
+We talked about it before, when I explain to you a reviewing process.
+
+
+**Note: If you reply to a pull request via email, your comment will be added on the Conversation tab and will not be part of a pull request review.**
+
+To reply to an existing line comment, you'll need to navigate to the comment on either the `Conversation` tab
+or `Files changed` tab and add an additional line comment below it.
+
+
+**Tips:**
+
+```
+- Pull request comments support the same formatting as regular comments on GitHub,
+such as @mentions, emoji, and references.
+- You can add reactions to comments in pull requests in the Files changed tab.
+```

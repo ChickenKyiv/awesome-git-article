@@ -1,0 +1,16 @@
+---
+id: s3review10
+title: Commenting on a pull request
+sidebar_label: Commenting on a pull request
+---
+
+
+#### After you open a pull request in a repository, collaborators or team members can comment on the comparison of files
+#### between the two specified branches, or leave general comments on the project as a whole.
+
+
+In this section we'll talk about:
+
+- About pull request comments
+- Adding line comments to a pull request
+- Resolving conversations
