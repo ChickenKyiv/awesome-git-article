@@ -10,8 +10,14 @@ This repository contains additional resources for the Git/GitHub basics course.
 
 Each folder includes a readme that outlines the topics covered in each video, along with any links that were maintained. Some folders also include the code used in that lesson.
 
+#### sections
+- Introduction to Git
+- Installation. Create first GitHub repository.
+- Working with your repository
+- Git Merge Section
 
 ---
+
 ## Introduction to Git
 #### What is Git and Version Control Systems
 
@@ -26,8 +32,8 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 4: Create GitHub account](./video-06)
 
 
-Installation. Create first GitHub repository
-How to use GitHub.com website
+- Installation. Create first GitHub repository
+- How to use GitHub.com website
 
 - [Video 5: Create clean code repository on Github](./video-07)
 
@@ -39,8 +45,8 @@ How to use GitHub.com website
 - [Video 9: Staging environment](.//video-09)
 
 
-Working with your repository
-Basic workflow with git repositories
+- Working with your repository
+- Basic workflow with git repositories
 
 - [Video 10: Create a good coverage for your repository](./video-12)
 
@@ -53,8 +59,8 @@ Basic workflow with git repositories
 - [Video 14: Practice. Check-out process](./video-16)
 
 
-Git Merge
-Git branching, merge process, merge conflicts resolving  
+- Git Merge
+- Git branching, merge process, merge conflicts resolving  
 
 - [Video 15: Branching workflow.](./video-17)
 
@@ -73,8 +79,8 @@ Git branching, merge process, merge conflicts resolving
 - [Video 27: Git CheatSheets](./video-17)
 - [Video 27: Congratulations!](./video-17)
 
-Welcome
+#### Welcome
 Welcome to this course! Hope you'll enjoy it! Good luck!
 
-Closing
+#### Closing
 Thank you for your time. I hope you like it
