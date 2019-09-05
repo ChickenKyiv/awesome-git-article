@@ -2,6 +2,7 @@
 
 This repository contains additional resources for the Git/GitHub basics course.
 
+## Start to use GitHub pull requests like a master
 
 
 ### Table of Contents
@@ -11,6 +12,10 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 ---
 #### Section1:
+
+Pull Requests - Theoretical part
+To learn the structure of pull request and why to use them
+
 - Pull Requests Intro
 - Git Workflows: Pull Request in GitHub
 - Git Workflows: Activity inside a pull request
@@ -37,6 +42,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 #### Section 2:
 
 ~Github 1~
+To learn what you can do with pull requests
 
 - Table of contents section #2
 - About pull requests
@@ -45,25 +51,33 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - Required status checks
 - Closing issues using keywords
 
+Squashing commits
+Basics of squashing commits at pull requests
+
 - Squash commits at PR 1
 - Squash commits at PR 2
 - Squashing
 
 ~draft~
+Understand the reason of creating draft pull requests
+
 - Draft pull requests 1
 - Draft pull requests 2
 - Draft pull requests 3
 - Draft pull requests 4
 - Draft pull requests 5
 
-~Fork & PR~
+~Create PR~
+Learn basics of creating pull requests
 - Creating a pull request
 - Base and compare branches for Pull Request
 - Changing the branch range and destination repository
 - Pull Request editing branches
 - How to create a PR
 
-~Create PR~
+~Fork & PR~
+Learn differences for forked repositories
+
 - Creating a pull request from a fork
 - Forking workflow with Pull Requests
 - How to create a PR from fork
@@ -74,6 +88,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - How to commit changes to PR branch created from fork
 
 ~Reviews~
+Learn about pull requests from repository maintainer side
 - Reviewing changes
 - Requesting a pull request review
 - Requesting a PR review
