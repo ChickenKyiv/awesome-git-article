@@ -12,9 +12,13 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 #### sections
 - Introduction to Git
+ -- What is Git and Version Control Systems
 - Installation. Create first GitHub repository.
+ -- How to use GitHub.com website
 - Working with your repository
-- Git Merge Section
+ -- Basic workflow with git repositories
+- Git Merge
+ -- Git branching, merge process, merge conflicts resolving
 
 ---
 
