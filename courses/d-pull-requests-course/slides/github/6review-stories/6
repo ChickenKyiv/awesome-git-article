@@ -1,0 +1,8 @@
+
+My day to day job requires PR to be reviewed by my teammates and typically what the procedure is like is
+
+Look through the PR file changes and go ahead and pull the branch to test the feature is working correctly.
+
+Also make use of GitHub's tool for suggesting changes and adding comments to individual lines of code
+
+pr-compare-tool
