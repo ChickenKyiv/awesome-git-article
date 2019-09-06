@@ -93,6 +93,16 @@ Examples PR
 - https://www.loom.com/share/5f13654e5d924b59b9aac9133fe079a2
 
 
+
+PAPKA LOH
+Dismissing PR https://www.loom.com/share/f41e89ee053849b0990ff826597b1002
+How to dimiss PR https://www.loom.com/share/36a55b2fe62f4dd88bd21759936febf5
+Incorporating feedback at PR: https://www.loom.com/share/ca3abba80eb14d5a9ff459fb7241b19a
+Finding changed methods: https://www.loom.com/share/ec3ff45acd11466f81745a8679033267
+
+
+
+
 g10:
 g11:
 g11:
