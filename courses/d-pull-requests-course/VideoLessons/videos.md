@@ -119,3 +119,10 @@ s3/github/5/MIE/11/s3review100: https://www.loom.com/share/435c4f7e6d7e43ad81097
 5/MIE/11/s3review101: https://www.loom.com/share/c236f6c9e3fe4c4f8ad881050738dca9
 
 5/MIE/11/s3review102: https://www.loom.com/share/8cf1bad6c59641b8b196c99350332229
+5/MIE/11/s3review103 https://www.loom.com/share/e472beb967924119ad2c574a87000f6e
+
+github/5/MIE/s3review667: https://www.loom.com/share/a64e6197baff4c8fae4f2e2396707dd5
+
+docs/s3/github/5/MIE/s3review668: https://www.loom.com/share/71eec4432ef247d7bc9cd006c2875e97
+
+github/5/MIE/s3review669 https://www.loom.com/share/c001c65c9f414b71a063b29c6a36acd8
