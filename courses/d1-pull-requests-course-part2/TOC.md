@@ -10,44 +10,12 @@ This repository contains additional resources for the Git/GitHub basics course.
 Each folder includes a readme that outlines the topics covered in each video, along with any links that were maintained. Some folders also include the code used in that lesson.
 
 
----
-#### Section1:
-
-Pull Requests - Theoretical part
-To learn the structure of pull request and why to use them
-
-- Pull Requests Intro
-- Git Workflows: Pull Request in GitHub
-- Git Workflows: Activity inside a pull request
-- Anatomy of a Pull Request
-- Git Workflows: Pull Requests
-- How it works
-
-Learn how pull requests with forking workflow, feature branch workflow, gitflow workflow
-
-
-- Feature Branch Workflow With Pull Requests
-- Pull Request: Feature Branch workflow
-- Pull Request: Feature Branch workflow Part2
-- Gitflow Workflow With Pull Requests
-- Forking Workflow With Pull Requests
-- Pull Requests: Forking workflow
-- Pull Requests: Forking workflow
-
-
-- Example Part1
-- Example Part2
-- Example Part3
-- Example Part4
-- Example Part5
-- Example Part6
-- Example Part7
 
 ---
 
-#### Section 2:
+####
 
-~Github 1~
+#### ~Github 1~
 To learn what you can do with pull requests
 
 - Table of contents section #2
@@ -57,14 +25,14 @@ To learn what you can do with pull requests
 - Required status checks
 - Closing issues using keywords
 
-Squashing commits
+#### Squashing commits
 Basics of squashing commits at pull requests
 
 - Squash commits at PR 1
 - Squash commits at PR 2
 - Squashing
 
-~draft~
+#### ~draft~
 Understand the reason of creating draft pull requests
 
 - Draft pull requests 1
@@ -73,7 +41,7 @@ Understand the reason of creating draft pull requests
 - Draft pull requests 4
 - Draft pull requests 5
 
-~Create PR~
+#### ~Create PR~
 Learn basics of creating pull requests
 - Creating a pull request
 - Base and compare branches for Pull Request
@@ -81,7 +49,7 @@ Learn basics of creating pull requests
 - Pull Request editing branches
 - How to create a PR
 
-~Fork & PR~
+#### ~Fork & PR~
 Learn differences for forked repositories
 
 - Creating a pull request from a fork
@@ -93,7 +61,7 @@ Learn differences for forked repositories
 - Allowing changes to a pull request branch created from a fork
 - How to commit changes to PR branch created from fork
 
-~Reviews~
+#### ~Reviews~
 Learn about pull requests from repository maintainer side
 - Reviewing changes
 - Requesting a pull request review
@@ -106,6 +74,39 @@ Learn about pull requests from repository maintainer side
 - Marking a file as viewed
 - Submitting your review
 - Closing notes
+
+#### Reviews stories
+Set of stories from managers or repository mainainers, that spend a lot of times, reviewing pull requests at daily basics
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+####
+-
+-
+-
+--
+--
+-
+-
+-
+-
+-
+
+
 ---
 
 - [Video 0: ](./video-01)
