@@ -127,16 +127,17 @@ PR reviews stories
 --------
 -------
 
-PR templates
-1:
-2:
-3:
-4:
-5:
+#### PR templates
+
+1: https://www.loom.com/share/cca6d6f101ff460db98fdfd12fce3d51
+2: https://www.loom.com/share/0706e9ea4b384829a746e76deb3d04d3
+3: https://www.loom.com/share/89e5a6081dff4750a699c4b8b45ebe88
+4: https://www.loom.com/share/27ea1d2f8623415d8997c81be4aa235c
+5: https://www.loom.com/share/8f8ba2bcd9714b5eab4c962f7b3a2adb
 6:
 7:
 8:
-9:
-10:
+9: https://www.loom.com/share/f13222c5564041008d80a92279538a53
+10: https://www.loom.com/share/0a3cad041183462890217eb7e762ee82
 11:
 12:
