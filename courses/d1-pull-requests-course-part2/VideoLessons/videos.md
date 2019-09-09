@@ -122,3 +122,21 @@ PR reviews stories
 10: https://www.loom.com/share/1c1d163e0cb645dd8e50f5204888d0e7
 11: https://www.loom.com/share/27aae753496246ed9b775e5fec3c3736
 12: https://www.loom.com/share/1da5124efd67494abead4cbd1ea52eac
+
+
+--------
+-------
+
+PR templates
+1:
+2:
+3:
+4:
+5:
+6:
+7:
+8:
+9:
+10:
+11:
+12:
