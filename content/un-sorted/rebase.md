@@ -1,1 +1,0 @@
-- https://blog.algolia.com/master-git-rebase/
