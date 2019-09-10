@@ -78,33 +78,39 @@ Learn about pull requests from repository maintainer side
 #### Reviews stories
 Set of stories from managers or repository mainainers, that spend a lot of times, reviewing pull requests at daily basics
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+
+- 01 What's your typical process for reviewing a pull request in GitHub
+- 02 Story 1
+- 03 Story 2
+- 04 Story 3
+- 05 Story 4
+- 06 Story 5
+- 07 Story 6
+- 08 Story 7
+- 09 Story 8
+- 10 Story 9
+- 11 Story 10
+- 12 Closing notes
 
 
-####
--
--
--
---
---
--
--
--
--
--
+#### Pull request templates
+Learn reasons why to use templates. Learn how templates can improve collaboration workflow for software developers
+
+
+- S4_7_H01 Pull request templates intro
+- S4_7_H02 Images with examples of PR templates
+- S4_7_H03 templates helping to create a better software
+- S4_7_H04 What Role Does a Description Play in a Pull Request
+- S4_7_H05 Description Checklist
+- S4_7_H06 What is a Pull Request Template
+- S4_7_H07 templates format
+- S4_7_H08 How to Create a Single Pull Request Template in GitHub
+- S4_7_H09 How to Create Multiple Pull Request Templates in GitHub part1
+- S4_7_H10 How to Create Multiple Pull Request Templates in GitHub part2
+- s4_7_h11 Multiple PR templates
+- s4_7_h12 Closing notes
+
+
 
 
 ---
