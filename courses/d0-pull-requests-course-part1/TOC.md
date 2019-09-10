@@ -23,6 +23,7 @@ To learn the structure of pull request and why to use them
 - Git Workflows: Pull Requests
 - How it works
 
+#### Section2:
 Learn how pull requests with forking workflow, feature branch workflow, gitflow workflow
 
 
@@ -34,7 +35,7 @@ Learn how pull requests with forking workflow, feature branch workflow, gitflow 
 - Pull Requests: Forking workflow
 - Pull Requests: Forking workflow
 
-
+#### Section3:
 - Example Part1
 - Example Part2
 - Example Part3
