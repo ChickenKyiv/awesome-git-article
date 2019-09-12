@@ -10,6 +10,9 @@ It previous lesson we have one line that I want to explore here in more details
 
 `$ git fetch origin pull/ID/head:BRANCHNAME`
 
+or
+
+`git fetch origin pull/1234/head:pr-1234`
 
 
 Let me break that command down a bit:
