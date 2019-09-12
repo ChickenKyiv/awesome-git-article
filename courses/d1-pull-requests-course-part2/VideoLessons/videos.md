@@ -173,9 +173,16 @@ s4s8m16
 
 s4s8m17
 s4s8m18 https://www.loom.com/share/69031d0f3b7e414a86cf994cf88925c9
-s4s8m19 https://www.loom.com/share/75265e85b2824c76b915a07161730376 
+s4s8m19 https://www.loom.com/share/75265e85b2824c76b915a07161730376
 s4s8m20 https://www.loom.com/share/b4869392c4c04138a5a571cbb3455c81
 s4s8m21 https://www.loom.com/share/53c22b03b8074883ac60b418d537c7d3
-s4s8m22 
-s4s8m23
-s4s8m24
+s4s8m22 https://www.loom.com/share/8c9b7ab355814e26bbc3556e2f71655c
+s4s8m23 https://www.loom.com/share/3d872f0c6555488e97e1b9062cd4e234
+s4s8m24 https://www.loom.com/share/c579eda787f143059c9fa2b4856bcebc
+s4s8m25 https://www.loom.com/share/dfc5afb58da047ee9a87748eb85343a1
+s4s8m26 https://www.loom.com/share/edabce8556c448049b0525f9b532ec88
+s4s8m27
+s4s8m28 https://www.loom.com/share/060458de372a47b3b4d5f4a646ddc7de
+s4s8m29 https://www.loom.com/share/1b1ab7ccd87d472fb49369e96571c43a
+
+30 https://www.loom.com/share/254f27268036414fa17eb68031033277
