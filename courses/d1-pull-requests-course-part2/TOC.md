@@ -61,6 +61,8 @@ Learn differences for forked repositories
 - Allowing changes to a pull request branch created from a fork
 - How to commit changes to PR branch created from fork
 
+
+
 #### ~Reviews~
 Learn about pull requests from repository maintainer side
 - Reviewing changes
@@ -74,6 +76,21 @@ Learn about pull requests from repository maintainer side
 - Marking a file as viewed
 - Submitting your review
 - Closing notes
+
+
+- Practice 1 - csv PR
+- Practice 2 - Example PR fetch
+- Practice 3 - Example generator PR
+
+
+
+- 01- Dismissing a pull request review
+- 02- How to dismiss a PR
+- 03- Incorporating feedback in your pull request
+- 04- Finding changed methods and functions in a pull request
+
+
+
 
 #### Reviews stories
 Set of stories from managers or repository mainainers, that spend a lot of times, reviewing pull requests at daily basics
@@ -109,6 +126,8 @@ Learn reasons why to use templates. Learn how templates can improve collaboratio
 - S4_7_H10 How to Create Multiple Pull Request Templates in GitHub part2
 - s4_7_h11 Multiple PR templates
 - s4_7_h12 Closing notes
+
+
 
 
 #### Merging a pull request and misc
