@@ -1,17 +1,6 @@
----
-id: s3a0
-title:  Intro
-sidebar_label:  Intro
----
-
 Welcome to course, where you'll learn about Pull Requests - an awesome collaboration concept for software developers.
 
-When I prepared most slides, related to pull requests - I find out that this course is huge and I have a lot of information that I want to share with my students.
-
-So I decide to split it into 2 parts.
-This course is a first part.
 I'll talk about theory and basic terms, related to pull requests.
-
 
 You will learn the structure of the pull request and why to use them.
 
