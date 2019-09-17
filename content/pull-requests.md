@@ -54,3 +54,9 @@ https://haacked.com/archive/2019/06/03/suggested-changes/
 https://watirmelon.blog/2018/07/11/avoiding-lgtm-pr-cultures/
 
 https://bettercloud.tech/code-without-review-is-a-waste-of-money-5a168243ae13
+
+
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+http://oss-watch.ac.uk/resources/pullrequest

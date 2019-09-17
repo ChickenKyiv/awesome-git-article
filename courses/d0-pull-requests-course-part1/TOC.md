@@ -43,5 +43,6 @@ Learn how pull requests with forking workflow, feature branch workflow, gitflow 
 - Example Part5
 - Example Part6
 - Example Part7
+- End of course. Congratulations!
 
 ---
