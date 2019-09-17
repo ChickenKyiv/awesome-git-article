@@ -78,6 +78,8 @@ Learn about pull requests from repository maintainer side
 - Closing notes
 
 
+----
+
 - Practice 1 - csv PR
 - Practice 2 - Example PR fetch
 - Practice 3 - Example generator PR
@@ -90,7 +92,7 @@ Learn about pull requests from repository maintainer side
 - 04- Finding changed methods and functions in a pull request
 
 
-
+-----
 
 #### Reviews stories
 Set of stories from managers or repository mainainers, that spend a lot of times, reviewing pull requests at daily basics
