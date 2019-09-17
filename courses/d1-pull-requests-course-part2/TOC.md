@@ -111,9 +111,48 @@ Learn reasons why to use templates. Learn how templates can improve collaboratio
 - s4_7_h12 Closing notes
 
 
+#### Merging a pull request and misc
+
+Learn how pull request merge works.
+Get more information about existing advanced cases.
+
+- s4s8m01 Merging a pull request section
+- s4s8m02 About pull request merges
+- s4s8m03 Squash and merge your pull request commits
+- s4s8m04 Squash and merge your pull request commits
+- s4s8m05 Rebase and merge your pull request commits
+- s4s8m06 Cannot perform rebase problem
+
+- s4s8m07 Basics of merge conflicts
+- s4s8m08 Merge Conflicts - sections
+- s4s8m09 About merge conflicts
+- s4s8m10 About merge conflicts
+- s4s8m11 Resolving merge conflicts
+- s4s8m12 Resolving a merge conflict on GitHub
+- s4s8m13 How to use GitHub conflict editor
+- s4s8m14 Resolving merge conflicts using CLI
+- s4s8m15 Resolving merge conflicts using CLI
+- s4s8m16 Removed file merge conflicts
+- s4s8m17 Resolving merge conflicts - Atom editor
+- s4s8m18 Resolving merge conflicts - Atom editor
+- s4s8m19 Resolving merge conflicts simple workflow
+- s4s8m20 Deleting branches in a pull request
+- s4s8m21 Restoring a deleted branch
+- s4s8m22 Reverting a pull request
+- s4s8m23 Changing the base branch of a pull request
+- s4s8m24 Closing a pull request
+- s4s8m25 Checking out pull requests locally
+- s4s8m26 A. Modifying an active pull request locally
+- s4s8m27 B. Modifying an inactive pull request locally
+- s4s8m28 B. How to update an inactive PR
+- s4s8m29 C. Error_ Failed to push some refs
+- s4s8m30 Checking pull request at local PC
 
 
+End of course. Congratulations!
 ---
+
+
 
 - [Video 0: ](./video-01)
 
