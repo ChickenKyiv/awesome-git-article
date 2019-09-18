@@ -94,14 +94,23 @@ Learn about pull requests from repository maintainer side
 
 
 - 0 github_5_s3review13 Approving a pull request with required reviews
+
 - 1 s3_github_5_s3review16 About required reviews for pull requests
+
+
+
 - 2 s3_github_5_MIE_11_s3review100 Commenting on a pull request
 - 3 5_MIE_11_s3review101 About pull request comments
 - 4 5_MIE_11_s3review102 Adding line comments to a pull request
 - 5 5_MIE_11_s3review103 Resolving conversations
-- 6 github_5_MIE_s3review667 Viewing a pull request review
+
+
+
+- 6 github_5_MIE_s3review667 Viewing a pull request
+
 - 7 docs_s3_github_5_MIE_s3review668 Reviewing changes in pull requests - topics
-- 8 github_5_MIE_s3review669 Filtering files in a pull request 
+
+- 8 github_5_MIE_s3review669 Filtering files in a pull request
 -----
 
 #### Reviews stories
