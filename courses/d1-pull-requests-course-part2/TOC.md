@@ -65,6 +65,7 @@ Learn differences for forked repositories
 
 #### ~Reviews~
 Learn about pull requests from repository maintainer side
+
 - Reviewing changes
 - Requesting a pull request review
 - Requesting a PR review
@@ -80,18 +81,8 @@ Learn about pull requests from repository maintainer side
 
 ----
 
-- Practice 1 - csv PR
-- Practice 2 - Example PR fetch
-- Practice 3 - Example generator PR
-
-
-
-- 01- Dismissing a pull request review
-- 02- How to dismiss a PR
-- 03- Incorporating feedback in your pull request
-- 04- Finding changed methods and functions in a pull request
-
-
+#### Reviews Part2.
+Learn about additional functionality related to reviewing process
 
 - 0 github_5_s3review13 Approving a pull request with required reviews
 
@@ -111,6 +102,19 @@ Learn about pull requests from repository maintainer side
 - 7 docs_s3_github_5_MIE_s3review668 Reviewing changes in pull requests - topics
 
 - 8 github_5_MIE_s3review669 Filtering files in a pull request
+
+
+- 01- Dismissing a pull request review
+- 02- How to dismiss a PR
+- 03- Incorporating feedback in your pull request
+- 04- Finding changed methods and functions in a pull request
+
+
+- Practice 1 - csv PR
+- Practice 2 - Example PR fetch
+- Practice 3 - Example generator PR
+
+
 -----
 
 #### Reviews stories
