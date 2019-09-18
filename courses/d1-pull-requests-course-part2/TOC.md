@@ -84,30 +84,30 @@ Learn about pull requests from repository maintainer side
 #### Reviews Part2
 Learn about additional functionality related to reviewing process
 
-- 0 github_5_s3review13 s4s6e01 Approving a pull request with required reviews
+- s4s6e01 Approving a pull request with required reviews
 
-- 1 s3_github_5_s3review16  s4s6e02 About required reviews for pull requests
-
-
-
-- 2 s3_github_5_MIE_11_s3review100 s4s6e03 Commenting on a pull request
-- 3 5_MIE_11_s3review101 s4s6e04 About pull request comments
-- 4 5_MIE_11_s3review102 s4s6e05 Adding line comments to a pull request
-- 5 5_MIE_11_s3review103 s4s6e06 Resolving conversations
+- s4s6e02 About required reviews for pull requests
 
 
 
-- 6 github_5_MIE_s3review667 s4s6e07 Viewing a pull request
+- s4s6e03 Commenting on a pull request
+- s4s6e04 About pull request comments
+- s4s6e05 Adding line comments to a pull request
+- s4s6e06 Resolving conversations
 
-- 7 docs_s3_github_5_MIE_s3review668 s4s6e08 Reviewing changes in pull requests - topics
-
-- 8 github_5_MIE_s3review669 s4s6e09 Filtering files in a pull request
 
 
-- 01- s4s6e10 Dismissing a pull request review
-- 02- s4s6e11 How to dismiss a PR
-- 03- s4s6e12 Incorporating feedback in your pull request
-- 04- s4s6e13 Finding changed methods and functions in a pull request
+- s4s6e07 Viewing a pull request
+
+- s4s6e08 Reviewing changes in pull requests - topics
+
+- s4s6e09 Filtering files in a pull request
+
+
+- s4s6e10 Dismissing a pull request review
+- s4s6e11 How to dismiss a PR
+- s4s6e12 Incorporating feedback in your pull request
+- s4s6e13 Finding changed methods and functions in a pull request
 
 
 - s4s6e14 Practical Example 1 - csv PR
@@ -192,8 +192,9 @@ Get more information about existing advanced cases.
 - s4s8m29 C. Error_ Failed to push some refs
 - s4s8m30 Checking pull request at local PC
 
+- s4s8m31 Repository permission levels for an organization
 
-End of course. Congratulations!
+- s4s8m32 End of course. Congratulations!
 ---
 
 
