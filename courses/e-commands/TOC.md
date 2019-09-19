@@ -13,9 +13,6 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 ---
 
-Introduction
-First message
-
 
 
 
