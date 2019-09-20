@@ -43,15 +43,15 @@ https://github.com/k88hudson/git-flight-rules#i-want-to-find-by-authorcommitter
 https://github.com/k88hudson/git-flight-rules#i-want-to-list-commits-containing-specific-files
 
 
-stash
-https://github.com/k88hudson/git-flight-rules#i-want-to-stage-my-unstaged-edits-and-unstage-my-staged-edits
+V = stash
+
 https://github.com/k88hudson/git-flight-rules#i-want-to-discard-specific-unstaged-changes
 
 
 checkout
 https://github.com/k88hudson/git-flight-rules#i-want-to-checkout-to-a-remote-branch-that-someone-else-is-working-on
-https://github.com/k88hudson/git-flight-rules#i-want-to-discard-my-local-uncommitted-changes-staged-and-unstaged
-https://github.com/k88hudson/git-flight-rules#i-want-to-discard-specific-unstaged-changes
+! https://github.com/k88hudson/git-flight-rules#i-want-to-discard-my-local-uncommitted-changes-staged-and-unstaged !
+AT STASH https://github.com/k88hudson/git-flight-rules#i-want-to-discard-specific-unstaged-changes
 
 commit
 https://github.com/k88hudson/git-flight-rules#i-need-to-change-the-content-of-a-commit-which-is-not-my-last
