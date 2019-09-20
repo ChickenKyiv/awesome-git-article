@@ -23,14 +23,17 @@ https://github.com/k88hudson/git-flight-rules#i-want-to-discard-my-local-uncommi
 
 https://github.com/k88hudson/git-flight-rules#i-want-to-discard-all-of-my-untracked-files
 
+
 rm
 https://github.com/k88hudson/git-flight-rules#remove-a-submodule
 https://github.com/k88hudson/git-flight-rules#i-want-to-remove-a-file-from-git-but-keep-the-file
+
 
 branch
 https://github.com/k88hudson/git-flight-rules#i-want-to-list-all-branches
 
 https://github.com/k88hudson/git-flight-rules#i-pulled-frominto-the-wrong-branch
+
 
 log
 https://github.com/k88hudson/git-flight-rules#what-did-i-just-commit
@@ -39,9 +42,11 @@ https://github.com/k88hudson/git-flight-rules#i-want-to-find-a-string-in-any-com
 https://github.com/k88hudson/git-flight-rules#i-want-to-find-by-authorcommitter
 https://github.com/k88hudson/git-flight-rules#i-want-to-list-commits-containing-specific-files
 
+
 stash
 https://github.com/k88hudson/git-flight-rules#i-want-to-stage-my-unstaged-edits-and-unstage-my-staged-edits
 https://github.com/k88hudson/git-flight-rules#i-want-to-discard-specific-unstaged-changes
+
 
 checkout
 https://github.com/k88hudson/git-flight-rules#i-want-to-checkout-to-a-remote-branch-that-someone-else-is-working-on
@@ -62,6 +67,5 @@ cherry-pick
 https://github.com/k88hudson/git-flight-rules#i-made-several-commits-on-a-single-branch-that-should-be-on-different-branches
 
 
+
 https://www.joinef.com/
-
-
