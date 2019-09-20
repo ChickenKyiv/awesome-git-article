@@ -1,4 +1,4 @@
-## "Git/GitHub Pull Request Detailed. Centralized, " Course Resource Materials
+## "" Course Resource Materials
 
 
 
