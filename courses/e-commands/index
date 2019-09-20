@@ -58,12 +58,14 @@ https://github.com/k88hudson/git-flight-rules#i-need-to-change-the-content-of-a-
 
 https://github.com/k88hudson/git-flight-rules#i-wrote-the-wrong-thing-in-a-commit-message
 
-reset
+V = reset
 https://github.com/k88hudson/git-flight-rules#i-want-to-delete-or-remove-my-last-commit
 https://github.com/k88hudson/git-flight-rules#i-accidentally-did-a-hard-reset-and-i-want-my-changes-back
 https://github.com/k88hudson/git-flight-rules#i-staged-too-many-edits-and-i-want-to-break-them-out-into-a-separate-commit
 
-cherry-pick
+
+
+V = cherry-pick
 https://github.com/k88hudson/git-flight-rules#i-made-several-commits-on-a-single-branch-that-should-be-on-different-branches
 
 
