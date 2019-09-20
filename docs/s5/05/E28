@@ -1,0 +1,15 @@
+
+
+#### Comparing files from two branches
+To compare a specific file across branches, pass in the path of the file as the third argument to git diff
+
+`git diff master new_branch ./diff_test.txt`
+
+----
+Summary: git diff command can be useful for these cases :
+- Show local changes
+- Show difference between stagged and remote repo
+- Show difference between two commits
+- Show difference between two files
+- Show difference between two branches
+- Show difference between two tags
