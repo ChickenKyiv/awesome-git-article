@@ -1,8 +1,19 @@
 ## "" Course Resource Materials
 
 
+"Custom cases for git usage."
 
-This repository contains additional resources for the Git/GitHub basics course.
+"Basic git commands, that can improve your coding workflow"
+
+"Improve your coding workflow with this git commands"
+
+"Git commands. Advanced scenarios for daily uses"
+
+
+
+
+
+This repository contains additional resources for the Git course.
 
 
 
