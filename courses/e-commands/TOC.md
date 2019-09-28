@@ -61,18 +61,28 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 7: Scenario with stash](.//video-09)
 
 - [Video 8: Scenario with checkout](.//video-09)
+- Checkout command, more cases
+
 - [Video 9: Scenario with commit](.//video-09)
+- Commit command, more cases
+- Commit command, more cases, part 2
 
 - [Video 10: Scenario with reset](./video-12)
+- Reset command, more cases, part 1
+- Reset command, more cases, part 2
+- Reset command, more cases, part 3
 
 - [Video 11: Scenario with revert](./video-13)
 
 - [Video 12: Scenario with cherry-pick](./video-14)
+- Cherry-pick. More cases
+- Cherry-pick. More cases, part 2
 
 
-
-- [Video 13: ](./video-15)
-
+- [Video 13: Scenario with diff](./video-15)
+- Git Diff, more cases
+- Git Diff, more cases, part 2
+- Git Diff, more cases, part 3
 
 
 - [Video 14: ](./video-16)
