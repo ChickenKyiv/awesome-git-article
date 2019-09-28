@@ -13,6 +13,7 @@
 
 
 
+
 This repository contains additional resources for the Git course.
 
 
@@ -40,13 +41,16 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 1: First message](./video-03)
 
 - [Video 2: Scenario with add](./video-04)
+- Add command, more cases
 
 - [Video 3: Scenario with clean](./video-05)
+- Clean command, more cases
 
 - [Video 4: Scenario with rm](./video-06)
+- rm command, other cases
 
 - [Video 5: Scenario with branch](./video-07)
-
+- branch command
 - [Video 6: Scenario with log](./video-08)
 
 - [Video 7: Scenario with stash](.//video-09)
