@@ -50,8 +50,13 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - rm command, other cases
 
 - [Video 5: Scenario with branch](./video-07)
-- branch command
+- branch command,
+
 - [Video 6: Scenario with log](./video-08)
+- Log command, more cases
+- Log command, more cases, part 2
+- Log command, more cases, part 3
+- Log command, more cases, part 4
 
 - [Video 7: Scenario with stash](.//video-09)
 
