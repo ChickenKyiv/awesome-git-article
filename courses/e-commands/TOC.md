@@ -59,6 +59,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - Log command, more cases, part 4
 
 - [Video 7: Scenario with stash](.//video-09)
+-
 
 - [Video 8: Scenario with checkout](.//video-09)
 - Checkout command, more cases
@@ -73,6 +74,11 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - Reset command, more cases, part 3
 
 - [Video 11: Scenario with revert](./video-13)
+- Revert command, more cases
+- Revert command, more cases, part 2
+- Revert command, more cases, part 3
+- Revert command, more cases, part 4
+
 
 - [Video 12: Scenario with cherry-pick](./video-14)
 - Cherry-pick. More cases
@@ -89,15 +95,3 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - [Video 15: ](./video-17)
 
 - [Video 16: ](./video-17)
-- [Video 17: ](./video-17)
-- [Video 18: ](./video-17)
-- [Video 19: ](./video-17)
-- [Video 20: ](./video-17)
-- [Video 21: ](./video-17)
-- [Video 22: ](./video-17)
-
-- [Video 23: ](./video-17)
-- [Video 24: ](./video-17)
-- [Video 25: ](./video-17)
-- [Video 26: ](./video-17)
-- [Video 27: ](./video-17)
