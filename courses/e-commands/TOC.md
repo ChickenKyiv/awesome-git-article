@@ -59,7 +59,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - Log command, more cases, part 4
 
 - [Video 7: Scenario with stash](.//video-09)
--
+- Stash command, more cases
 
 - [Video 8: Scenario with checkout](.//video-09)
 - Checkout command, more cases
@@ -72,6 +72,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 - Reset command, more cases, part 1
 - Reset command, more cases, part 2
 - Reset command, more cases, part 3
+- Reset command, more cases, part 4
 
 - [Video 11: Scenario with revert](./video-13)
 - Revert command, more cases
