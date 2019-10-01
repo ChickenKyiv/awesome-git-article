@@ -3,24 +3,27 @@ Welcome to course, where you will learn about advanced usages of basic git comma
 For this course, I tried to pack a lot of different cases-situations-scenarios that can become a reality in your daily work.
 
 Cases like that are pretty common:
+
 - "I forget what was done?"
+
 - "I want to revert changes that generate a bug."
+
 - "I staged too many edits, and I want to break them out into a separate commit?"
 
-All of the situations that were covered in this course looks pretty simple and straight-forward, but when situation appear - you should know what to do.
+All of the situations that were covered in this course look pretty simple and straight-forward, but when the situation appears - you should know what to do.
 
 This course is about learning how to apply basic commands like, commit, checkout, log, diff, stash and use them for troubleshooting.
 
 You will learn about more than 30 cases, that can be useful for software developers.
 
+We don't touching here merge scenarios at all because this topic is huge and it better to be talked separately.
 
-We don't touching here merge scenario at all, because this topic is huge and it better to be talked separately.
 
 
 ---
 
 
-
+I'm very glad that you decide to join my course.
 This course will guide you through different real-life situations, that can be solved by using Gitcommands.
 
 
@@ -45,8 +48,8 @@ Hope you will enjoy this course! Good luck.
 
 
 
-Welcome to the ZIZO design and product ideation course. This is an opportunity for entrepreneurs, startups founders and product managers to learn a new and proven way to build product ideas from scratch and improve existing product features by zooming in and zooming out the different design layers. The course teaches how to use the three design layers (Flow, Interface, and Action) and build your startup product ideas from both high level and strategic perspective and the most detailed level of user action design.
+<!-- Welcome to the ZIZO design and product ideation course. This is an opportunity for entrepreneurs, startups founders and product managers to learn a new and proven way to build product ideas from scratch and improve existing product features by zooming in and zooming out the different design layers. The course teaches how to use the three design layers (Flow, Interface, and Action) and build your startup product ideas from both high level and strategic perspective and the most detailed level of user action design.
 
 I am working with startups in diverse fields from AI to medical devices, and guide their teams to ideate iterate and zoom in and zoom out constantly to align the team and optimize their products. I have been working with startups from top programs such as Singularity University, WeWork Labs and Zinc.VCs.
 
-This course was created because of the feedback and great demand I saw in startup founders after consultation sessions and workshops. Now it's available for everyone!
+This course was created because of the feedback and great demand I saw in startup founders after consultation sessions and workshops. Now it's available for everyone! -->

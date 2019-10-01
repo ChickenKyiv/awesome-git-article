@@ -5,7 +5,7 @@
 
 "Basic git commands, that can improve your coding workflow"
 
-"Improve your coding workflow with this git commands"
+"Improve your coding workflow by learning different cases of using git commands"
 
 "Git commands. Advanced scenarios for daily uses"
 
@@ -18,7 +18,7 @@ This repository contains additional resources for the Git course.
 
 
 
-"You know the basic of git workflow and familiar with some basic commands like add, commit, push, pull then maybe this post is for you. This post is mainly focused on daily git use improvement, fixing some common mistakes and a step towards advance git learner."
+"You know the basic of git workflow and familiar with some basic commands like add, commit, push, pull then maybe this post is for you. This course is mainly focused on daily git use improvement, fixing some common mistakes and a step towards advance git learner."
 
 
 
