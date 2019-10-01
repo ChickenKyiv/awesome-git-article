@@ -15,8 +15,14 @@ You will learn about more than 30 cases, that can be useful for software develop
 
 ---
 
+
+
 This course will guide you through different real-life situations, that can be solved by using Gitcommands.
+
+
 It will give you a better understanding of how to do stuff and can help you to be a better developer and you will be able to avoid some major problems in the future of your coding career.
+
+
 
 
 <!--

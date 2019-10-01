@@ -18,6 +18,12 @@ This repository contains additional resources for the Git course.
 
 
 
+"You know the basic of git workflow and familiar with some basic commands like add, commit, push, pull then maybe this post is for you. This post is mainly focused on daily git use improvement, fixing some common mistakes and a step towards advance git learner."
+
+
+
+
+
 ### Table of Contents
 
 Each folder includes a readme that outlines the topics covered in each video, along with any links that were maintained. Some folders also include the code used in that lesson.
