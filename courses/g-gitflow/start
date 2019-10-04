@@ -1,0 +1,26 @@
+Welcome to the course, where you will learn about the GitFlow workflow.
+At this moment GitFlow is one of the most popular workflows.
+
+GitFlow is used by a lot of big names????
+
+Imagine that GitFlow can easily handle 100 developers, that working on the same project and they don't get mad about changes that can break other's developed features.
+
+It gives you a great set of features:
+it supports parallel development
+- collaboration with gitflow is a key
+- giving a clear understanding of the Releases staging process and it helps when you have some kind of emergency that requires quick fixes.
+it works well with GitHub, which is the most popular code and development platform.
+
+The development process with gitflow is very easy, you isolating new development from finished work.
+Everybody knows that interrupting developers is a bad thing, but it's life, and there is a lot of situations when one person is working on a few tasks simultaneously.
+
+So jumping between those tasks is necessary. Start to use GitFlow and it wouldn't be a problem.
+
+It also connects to your task management and can give a lot of information for the management team and help to understand what the real picture of code development is.
+Some branches also connected to the testing cycle, so it removing a gap between developers of features and QA engineers that helping with code quality.
+
+And that cycle s really useful.
+Deploy- >test->fix->redeploy->retest helping to prevent complex old bugs, that nobody likes, right?
+
+With releases approach you can introduce new features quickly and not being worried if your lates change making other parts breaking and instead of moving back the whole team. It's moving a product forward.
+And it's our goal, right? To create good looking and working code and ship great products that have a good foundation and support quick evolution.
