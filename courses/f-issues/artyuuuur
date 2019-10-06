@@ -1,0 +1,40 @@
+2013 was the first time I used a “Task tracker”.
+
+ Till then my team lead used Mantis(bug tracker).
+Clients sent me bugs/feature requests via email. Sometimes they sent a document with screenshots attached, which was awesome.
+This is why I learnt how to manage my work myself.
+
+In my previous company, we started to use Trello boards.
+1 board = 1 project.
+Rules, styles, kanban — we never had them.
+
+
+I just stored data that was useful for me.
+Then we used Redmine.
+We started with HostedReadmine(because it was free and online) — but they lacked a screenshot uploader.
+So we installed a local version.
+
+It worked only in the office — and was not cool.
+In few months it was crashed and paralyzed our work for a few weeks(i had a lot of open tabs in my browser — so I created screenshots and replicated it from scratch)
+And we started to use JIRA.
+
+I love JIRA. I saw how elegant experienced project managers can use it, and it’s a corporate standard to use its software development.
+It’s cool — when project manager existed in the
+team and he had “straight hands”.
+But without spending time on preparation work — using tools like JIRA is obsolete. It’s like shooting bird with M16.
+You can use a stone instead.
+
+I also used Confluence — she is great for inside company documentation. You can talk with client inside — discuss progress, finance, etc.
+Initially JIRA did not have an
+awesome git and google docs integration. It wasn’t even cheap.
+
+
+And all features, like Hipchat integration(alternative to Skype/Slack) — demanded additional costs.
+When our money went off — I started hunting for free alternatives.
+I made an export from JIRA — but how to use it? What could I do if I did not use Atlassian products?
+Nothing ;) It just consumed space on my HDD.
+
+I chose Asana because I did not want to continue with Trello. Asana was simple, I understood its functioning.
+But in some time I quit. I don’t know why…
+
+Right now I use Slack and Github every day, and open Asana each time too in a separate tab… I don’t want to open a lot of other tabs. I am addicted to chrome tabs…

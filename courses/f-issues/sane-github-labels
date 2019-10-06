@@ -1,0 +1,42 @@
+https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63
+If you work for a company that manages any part of their codebase using GitHub, or if you work in some open-source repositories with at least a few contributors, then I’m sure you’re aware of how wonderful labels can be at organizing everyone’s work. Maybe you never touch them, maybe your team already has an extensive label system in place, but regardless of how your team uses them, I think we can all agree that those seven default labels GitHub provides us with are kinda weak:
+
+1_OgvdAqfvgAFnPEwf8Dm6hw
+
+So obviously they had some good ideas here, such as flagging issues with question if there is a question related to how the code works. But the main issue with these labels is that they offer us no context about the status of an issue, only what type of issue it is, such as an enhancement or a bug.
+This may be totally fine if you’re the only contributor, or are only working with a small team of developers. But if you are a team lead/similar role, it is much more helpful to see the status and type of all issues at a glance.
+Let’s step into a repo and delete all of the existing default GitHub labels. We are going to follow a simple approach to a more rational labelling system.
+
+#### Sane Labelling Scheme
+
+We’re going to introduce three different types of labels to this particular repo. Those three types are status labels, type labels and priority labels. We prefix the name of each label with what type of label it is, so something like “Status: <Name of Label>”. Let’s begin with our status labels:
+
+1_iCz5zMkf6qiDy2FMQOKd1g
+
+These new status labels cover a broad range of states that an issue may be in during different stages of development. The idea is that only one status label will be applied to any particular issue; for instance a new feature can’t both be “In Progress” and “Abandoned” because that doesn’t really make a lot of sense. Or maybe it does, who knows how you’re running your projects.
+So this list is fairly opinionated and may seem extraneous for your smaller projects. If on your team, for instance, “completing” an issue means that it is also “accepted” for release, then you may be able to do away with one of those labels, or perhaps add more if needed. These are just a general guideline, the important bit here is that they are all status labels.
+Now we can tell, at a glance, what the progress of each issue is. It would also be helpful to see what type of issue it is that we are dealing with, which is where these handy type labels come in:
+
+1_4i-FjpeiTnru7hpok74Z5A
+
+Here we see a lot of concepts recycled from GitHub’s default labels, such as the question label. Note that, again, we’ve prefixed these label names, this time with “Type:” followed by the type of issue it is. You project may have more different types of issues — again, the important part is the prefix.
+There are other types of sane labels you can add beyond just status and type labels. For instance, a lot of teams like to add priority labels so that everyone knows what issues are most critical. Personally, I find that as soon as priority labels are introduced to a project, every issue suddenly becomes “absolutely-mission-critical-fix-now-or-the-business-will-fail”. Here’s what some might look like though if you’re interested:
+
+1_vfFjm0vTauO0Ffd16VRmUw
+
+Using this sane system for labelling, we can categorize and track issues a lot better than we could before. Here’s what our issues board might look like now that we’ve applied our sane labels:
+
+1_U1py1d6XqoKysn_f-QhejA
+
+Even by just glancing at the labels, we can learn so much about each issue. In this repo there are only four issues, but in larger repositories the benefits of a sane labelling scheme really shine. Instead of a wall of 92 issues marked with wontfix, you’d be greeted with clarity and sanity.
+
+Some issues necessitate a table-flipping or two…
+1_RA4iumw8lX1V26CSAOYAOA
+
+GitHub has a mechanism for filtering by labels; so if, for example you wanted to see all of the bugs that are currently being worked on, you could add the following to the little filter/search bar at the top:
+
+`label:”Type: Bug” label:”Status: In Progress”``
+
+The biggest issue with GitHub’s labelling system is that it requires a lot of tedious clicking and typing inside of the GitHub UI to set up a system like this. You don’t want to be wasting precious time at the start of a project setting up labels, which is why there is an easier way to accomplish this task.
+
+#### Automate Label Creation

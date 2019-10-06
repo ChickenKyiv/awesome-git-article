@@ -1,0 +1,8 @@
+#### labels that we’re using
+**enhancement** — some tasks have this label — it’s a low priority for most cases, can be done later, but it’s a good update of our codebase
+**discuss-in-comments** — a lot of tasks was not completed. So i want to start a discussion with a team member inside this task — where we’ll chat about how this task will be done.
+**logic** — related to server side only. this can be method inside our models, or actions(method of our controllers)
+**front** — related to frontend. But before starting you should be careful — better to ask me about this task. It can be outdated and finished in separated repository related to React app.
+**help wanted** — this is an official GitHub label, that you can put on your tasks, so any new contributor can find how they can help. I use this label as mark — “intern can grab that task and start it without any big(maybe) troubles”
+**i dont want to do it!** — this is my most loved label, but i don’t see it on this repository. will add it later.
+other labels are not important or self-explanatory.
