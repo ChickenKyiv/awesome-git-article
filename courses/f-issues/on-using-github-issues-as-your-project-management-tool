@@ -1,0 +1,84 @@
+https://medium.com/@fdefreitas/on-using-github-issues-as-your-project-management-tool-ea2165562f13
+
+As well as having the issue follow the team’s internal workflow, like assigning the right labels to the issue (i.e. to-do, in-progress for status, Bug, Feature, Choreand the like for type, and so on for severity, release version, etc). Most of these things need to be done manually most of the time, unlike in Jira for example. Anyway, let’s go to the chase.
+
+
+> Github Issues looks like a simple tool and it’s there where its power resides
+
+
+First of all, it’s powered by Github Flavoured Markdown which, among other things, provides checklists (or tasks lists as they call them) and syntax highlighting for code blocks, on top of vanilla Markdown.
+https://help.github.com/articles/basic-writing-and-formatting-syntax/?source=post_page-----ea2165562f13----------------------
+
+The most important features it provides revolves around commit hashes, pull requests and cross-referencing issues. Even issues from different accounts and repos! Let’s take a look at some of the things you can do with it.
+
+## Referencing Issues and Pull Requests
+
+PRs and Issues are the same for Github, as in, they share the same auto-incremental Id, i.e. You can’t have an issue with the same Id as a PR, if you don’t believe me go ahead and try it on one of your repos, I’ll wait.
+
+#### Referencing Issues and PRs from another repo
+
+Ok, you’re back, right.
+So, referencing Issues and PRs are also not repository
+ or even organization-restricted,
+ you can easily reference issues from other
+ repos and organizations on Github.
+Let’s try an example:
+You have a dependency in your project which has just been updated,
+ let’s say that dependency is `Typescript` repository.  https://github.com/Microsoft/TypeScript
+
+ Also let’s say that `Typescript` had PR ``#21503` just merged, this PR fixes issue ``#21427`.
+
+ Now, you want to create a PR in your project to update
+ Typescript to the latest version because it fixes a bug
+ in your codebase. You could reference PR ``#21503` or issue ``#21427` on your PR or the issues
+  related to it to provide more contextual information
+  to other members in your team.
+This is really useful for devs and non-devs members of your team,
+ since it allows to have better spec’d Issues, provides more context for PR reviewers and, depending on how you merge PRs into master, could be reflected in subsequent build and release notes that originate from your PR.
+
+ #### How to insert references
+Github will automatically recognize the following formats:
+Complete URL for repo issue: ``#21618`
+Complete URL for external issue: `Microsoft/Typescript#21618`
+“username/repo#issue-pr-number”: `Microsoft/Typescript#21618`
+“#issue-pr-number”: ``#21618`. This will work only within the same repo
+
+#### Referencing commits
+In some cases PRs and Issues are too broad or generic and you need to make a reference to specific commits, this is also supported and it works basically the same way as for Issues and PRs.
+Complete URL: `https://github.com/Microsoft/TypeScript/commit/3ef1b56ee9afc7ceba7e3d5f25081ca09882131a` will be rendered as `3ef1b56`
+“sha”: `3ef1b56ee9afc7ceba7e3d5f25081ca09882131a` will be rendered as 3ef1b56
+“username/repo@sha”: `Microsoft/TypeScript@3ef1b56ee9afc7ceba7e3d5f25081ca09882131a will be rendered as `Microsoft/Typescript@3ef1b56`
+“username@sha”: `Microsoft@3ef1b56ee9afc7ceba7e3d5f25081ca09882131a will be rendered as Microsoft@3ef1b56`
+*The abbreviated commit hash could be longer, usually 7 is more than enough, unless it’s the linux kernel project, which is almost reaching 12
+
+#### Basic URL support
+Github provides support for basic URLs without having to use the classic [Link title](link-url) format Markdown formatting
+
+For more information on autolinks and references please visit:
+
+https://help.github.com/articles/autolinked-references-and-urls/?source=post_page-----ea2165562f13----------------------
+
+
+Closing issues using keywords on PRs and commits
+You can close issues in a PR title and description or in a commit message by using certain keywords, like fixes, closes, resolves followed by the issue number. A full list of keywords can be found here
+
+https://help.github.com/articles/closing-issues-using-keywords/?source=post_page-----ea2165562f13----------------------
+
+This can be done for multiple issues,
+you just need to repeat the keyword before each issue number,
+ i.e. `fixes #23 fixes #24 fixes #25`.
+ And also has support for closing issues in separate
+ repositories using the format specified
+ before: `username/repo#issue-pr-number`,
+ which is useful when you use a separate repository
+ for centralized documentation and issue management.
+
+
+#### Issue and Pull Request templates
+To keep things DRY it’s always a good idea to have templates. Git has had support for commit message templates for a while now, and Github extends that to issues and PRs as well. Although these templates have a bit more of a kick, since they’re powered by Markdown.
+Setting up an issue or a PR template is easy, you just need to create a file called ISSUE_TEMPLATE.MD or PULL_REQUEST_TEMPLATE.MD in your repo’s .github/ folder (It’s safe to create it if it doesn’t exist) and then set up the structure of your template.
+Here’s where Markdown comes handy, you can make use of different headings, those sweet checklists only Github flavoured Markdown has and even mentions to the relevant people. It’s also worth mentioning you can have bits of the template commented out, to be uncommented in case certain conditions are met.
+In regards to the content of your template, it depends mainly on the usage you give to the issues feature in your repo. Templates can be very different depending on whether you use an Issue as a User Story, Bug Report, Support Ticket, etc. In most cases, a good starting point is to add the “Expected Behaviour” and “Current Behaviour” sections.
+
+
+https://medium.com/@ZenHub/taking-github-issues-from-good-to-great-96431311ccf7?source=post_page-----ea2165562f13----------------------

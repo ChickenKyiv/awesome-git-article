@@ -10,7 +10,7 @@ Each folder includes a readme that outlines the topics covered in each video, al
 
 
 Intro
-Milestones, Labesl & Assignees
+Milestones, Labels & Assignees
 
 Notifications, @mentions and references
 Search

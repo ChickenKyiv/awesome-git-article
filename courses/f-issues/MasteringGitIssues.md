@@ -1,31 +1,33 @@
 https://guides.github.com/features/issues/
 
 
-Intro
-Milestones, Labesl & Assignees
+- Intro
+- Milestones, Labels & Assignees
 
-Notifications, @mentions and references
-Search
-Overviews & Reports
-Other uses for Issues
+- Notifications, @mentions and references
+- Search
+- Overviews & Reports
+- Other uses for Issues
 
-Can be a separated free course
-https://guides.github.com/features/issues/
+
 
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects.
 They’re kind of like email—except they can be shared and discussed with the rest of your team.
 Most software projects have a bug tracker of some kind.
 GitHub’s tracker is called **Issues**, and has its own section in every repository.
 
-navigation-highlight
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/navigation-highlight.png)
 
 For example, let’s take a look at Bootstrap’s Issues section:
 
-listing-screen
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/listing-screen.png)
 
 GitHub’s issue tracking is special because of our focus on collaboration, references, and excellent text formatting. A typical issue on GitHub looks a bit like this:
 
-example-issue
+
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/example-issue.png)
 
 - A **title** and **description** describe what the issue is all about.
 
@@ -44,7 +46,7 @@ Once you’ve collected a lot of issues, you may find it hard to find the ones y
 **Milestones**, **labels**, and **assignees** are great features to filter and categorize issues.
 
 labels
-
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/labels.png)
 
 You can change or add a milestone, an assignee, and labels by clicking their corresponding gears in the sidebar on the right.
 
@@ -56,6 +58,8 @@ You can ask the repository owner to add you as a collaborator to get access.
 
 #### Milestones
 milestones
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/milestones.png)
+
 Milestones are groups of issues that correspond to a project, feature, or time period. People use them in many different ways in software development. Some examples of milestones on GitHub include:
 
 - **Beta Launch** — File bugs that you need to fix before you can launch the beta of your project.
@@ -67,30 +71,31 @@ A great way to focus your efforts when there’s a lot to do.
 - **Redesign** — File issues related to redesigning your project.
 A great way to collect ideas on what to work on.
 
-https://www.youtube.com/watch?v=OIE_KXnSOXY
-https://help.github.com/en/articles/creating-issue-templates-for-your-repository
 
-https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612
-
-https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0
-
-https://github.com/ChickenKyiv/awesome-git-article/issues/3
 
 ---
 
-Continue here
+Continues here
 
 labels-listing
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/labels-listing.png)
 
 markdown-example
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/markdown-example.png)
 
 notifications
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/notifications.png)
 
 notification
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/notification.png)
 
 reference
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/reference.png)
 
 commit
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/commit.png)
 search
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/search.png)
 
 pulse
+![xxx](https://raw.githubusercontent.com/ChickenKyiv/awesome-git-article/master/img/issues/pulse.png)
