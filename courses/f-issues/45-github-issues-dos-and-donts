@@ -1,0 +1,104 @@
+https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612
+
+Many open source projects use Github Issues as the main medium of communication and tool for task management. Its openness and availability is one of their greatest strengths. But some quick tips will make you a much more responsible participant, especially in large projects.
+
+#### Reporting Issues
+
+Do open one Issue for one issue.
+
+Do open two Issues for two issues.
+
+Do not tack on “Oh by the way here’s another problem I noticed” to an unrelated Issue.
+
+Do keep facts and opinions separate, ideally facts first and opinions at the end. Facts include platform details, reproduction steps, and what you have tried. Opinions include speculations about root causes you have not investigated.
+
+Do be specific, especially in reproduction steps. Instead of the instruction: “type some text,” be unambiguously specific with the instruction: “Type ‘Test’”. The bug might have to do with the shift key and it will not be reproduced by others repeatedly banging adsfasdfadsfasd. This is not a theoretical occurrence — underspecification remains one of the most common reasons valid issues get closed as not reproducible.
+
+Do reduce your reproduction steps to the minimal necessary to demonstrate your issue. It makes it easier for others to help you, and the culling often reveals relevant interactions.
+
+Do specify the platform or environment, usually the browser and operating system. This matters a lot more than one would think.
+
+Do not include platforms that you have not tested on. It is enough to be a legitimate bug if only one supported platform is affected. False positives will only invite dismissal if others cannot reproduce on a platform you did not test on, yet included in the bug report.
+
+Do try to consistently reproduce your issue — in a clean environment. Start with the consistent part.
+
+Do report a recurring issue even without reproduction steps if you are unable to identify them, after an earnest effort. This is sometimes okay with enough details about the environment and context, for others to be able to help fill in the gaps.
+
+Do make use of bullets, colons, even incomplete clauses when appropriate. “Platform: Chrome/OSX, untested elsewhere” conveys just as much information as its grammatically correct equivalent.
+
+Do spend extra time writing a good title. It should be short, yet descriptive — similar to the approach of writing a good commit message. Contributors often view Issues in list view where only titles are shown and Issues with bad titles will get ignored.
+
+Do try to resolve or work around the issue, and provide details with what you tried, even if it did not work.
+
+Do answer other people’s questions if you know the answer. Responding to questions is not a privilege reserved for just maintainers. Earnestly helping others is what open source is about!
+
+Do not guess if you do not know the answer to someone’s question. Signals are helpful, not noise, wherever either comes from.
+
+Do follow the issue template if one is provided.
+
+
+#### Requesting Features
+
+Do be specific in describing what you want to be added and how it would solve a problem you are facing.
+
+Do not open an Issue with just “make X better” or “improve X”.
+
+Do open an issue for a feature request with “Make X better by adding Y because Z”.
+
+Do propose an API spec, even if it has obvious shortcomings. This starts the conversation with concrete details, and progress can be made from there.
+
+Do not confuse feature size with project fit. Fit is determined first, then implementation. Some fitting features will take a long time to implement because they are large. But no unfit features should be implemented no matter how easy.
+
+Do not open hypothetical feature requests. If you do not personally need the feature or have the use case, you are not qualified to recommend the solution.
+
+Do use the reaction feature, instead of commenting “+1” in 2016. A large group of open source maintainers almost rage quit over this and Github finally built it. Now use it!
+
+Do close feature requests you no longer need. If someone else has the same request, they can open a separate issue more focused on their needs.
+
+
+#### Pull Requests
+
+Do submit one pull request to address one issue.
+
+Do submit two pull request to address two issues.
+
+Do not tack on a minor whitespace or semicolon changes in unrelated commits or Pull Requests, even if the minor change is correct. Make a dedicated commit or Pull Request instead.
+
+Do read the contributing.md guideline if one is linked.
+
+Do submit pull requests for typo fixes in documentation or comments. This is the easiest and most welcome way to get your name added to the contributor list.
+
+Do not submit a large surprise Pull Request. Discuss the need for it and the merits of your approach first, probably in a Github Issue or the project discussion forum or mailing list.
+
+Do not be surprised or get upset when you ignore the above and your Pull Request gets closed.
+
+Do not expect all Pull Requests to lead to being merged.
+
+Do not expect others to coach you through your Pull Request. It happens when time permits but expecting it is misguided entitlement. Pick an easier way to contribute if you get stuck.
+
+Do include tests with your Pull Request.
+
+Do follow the style guide if one is provided. If none is, use the existing codebase as a guideline.
+
+Do not confuse implementation cost with maintenance cost. The latter is far more expensive and healthy projects take long term considerations seriously.
+
+
+#### Being a Decent Human Being
+
+Do search through existing issues to see if yours has already been reported. It might even have already been resolved!
+
+Do flag other Issues as a duplicate. Sometimes it is hard to find the right search terms in Github Issues and duplicates get created despite best intentions.
+
+Do keep comments short, concise and on topic. High information density is essential for effective communication over a distributed and diverse landscape that is open source.
+
+Do read the documentation. No one wants to have to show their ugly side on a bad day. Also known as RTFM™.
+
+Do email the maintainers if you work for a giant company with an annoying legal department and will abandon using the project without private assistance.
+
+Do not email the maintainers to draw attention to an issue you reported.
+
+Do enjoy the benefits of permissive open source software “free of charge… without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software…” guaranteed by the license.
+
+Do not ignore the all caps part: “THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED…” Open source is largely a volunteer effort. Any additional help that volunteer contributors provide is additional.
+
+Do be charitable with your interpretation of others’ words. For example, reasonable interpretations of “What do you not understand?” include a condescending insult or hurried clarification attempt. But the most charitable interpretation is that it is an open ended invitation to be a data point used to improve the documentation. With global diversity of personalities and cultures participating in open source and the low emotional density of written text, always default to the most charitable interpretation of others’ words.

@@ -1,0 +1,55 @@
+https://www.quora.com/Whats-a-good-way-to-use-GitHub-Issues-for-project-management
+
+
+
+The best way to approach using GitHub Issues for project management is to first adapt your development workflow to GitHub Flow. Sounds like a bigger task than what you asked for, but the change would allow you to leverage the functionality behind automatic closing of issues and the features of GitHub Issues in a very powerful way for project management.
+
+My experience
+We have used GitHub Flow for the development of Waffle.io from the beginning. Waffle as a project management tool for GitHub (partly because it's powered by GitHub Issues) also works best for teams who have adopted GitHub Flow.
+
+We use GitHub Issues + Waffle's board view to plan, track, and ship our work in a visual, organized way. We use Codeship for continuous integration and deployment. We deploy to production multiple times a day, as needed. We are able to make our "issues only" development board public (see http://waffle.io/waffleio/waffle.io) to show our users what's planned, what's currently being worked on, what's currently being reviewed, and what recently shipped. When users see issues in the "Done" column, they can expect to see those changes in production in a matter of minutes.
+
+
+Resources on Getting Started
+GitHub has a great guide on GitHub Flow here: Understanding the GitHub Flow. Scott Chacon digs in to the topic and how they've used it at GitHub here: GitHub Flow - Scott Chacon
+http://scottchacon.com/2011/08/31/github-flow.html
+
+
+How it Works
+Using GitHub flow, your master branch should always be deployable. Branches are created for any single enhancement, feature, or bug fix. Every new branch is created directly from the latest version of master.
+
+When the fix/enhancement/addition is code complete, a pull request is created comparing the branch to master. A peer reviews the pull request, verifies the changes, and merges the pull request into master. At the time the change is merged into master, the issue is closed AND code complete AND (recommended to be) live in production.
+
+Using resolves/fixes/closes keywords alongside issue numbers works perfectly in this scenario. Your issue is closed as soon as it is merged into the master branch, which can be theoretically be immediately deployed to production.
+
+This workflow assumes you'll be able to deploy changes the changes you've made to master regularly. Of course you'll need to use a continuous integration service to do this the right way (we love Codeship!), but your app will be better for it.
+
+A Few Advantages Over Other Workflows
+GitHub Flow is simple and easy to understand. There's not much to learn! CI & CD are important pieces, but worthy of the investment if you want to simplify your overall workflow.
+
+I've worked on dev teams where 'hot fixes' were a huge risk -- with GitHub flow, there's essentially no difference between a hot fix and a small feature, and the deployment of one or the other can happen in roughly the same cycle time. This continuous workflow encourages developers to break down work into the smallest possible chunk on branches (our team tries to do a 1 issue per branch model when possible), making code easier to peer review and minimizing the number of potential merge conflicts (hugely!).
+
+I highly recommend it. But I'd also love to know: if this workflow would not work for your team, why?
+
+
+===========
+
+
+I suggest an Agile workflow using sprints to timebox your work.
+
+In order to do that you need a few things:
+
+Sprints, or some other way to define which issues you’d like to get done
+A prioritized backlog of tasks
+A way to indicate that an issue is currently being worked on
+A way to indicate that an issue is finished
+
+https://zube.io/blog/agile-project-management-workflow-for-github-issues/
+
+That’s the minimal structure you need. We wrote a blog post on a basic Agile workflow that can be done on GitHub without the use of any external tools, which I believe is the intent of your question. That said, you will be more productive if you use a project management tool that is built around Agile principles.
+
+Now, here’s a shameless plug for our product:
+
+Zube has a kanban board like many other tools, but Zube also has a Sprint Board that lets you easily create and manage your sprints. No setup necessary. Just link your GitHub repository and you get an Agile workflow out of the box. You can use story points to estimate the complexity of your tasks and make sure your team is succeeding by seeing your progress on a burndown chart.
+
+Zube is free for all public repositories, open source projects, and teams up to 4 people!
