@@ -1,0 +1,17 @@
+https://help.github.com/en/articles/filtering-issues-and-pull-requests-by-assignees
+
+after assigning an issue
+
+Once you've assigned an issue or pull request to someone, you can find items based on who's working on them.
+
+1. On GitHub, navigate to the main page of the repository.
+
+2. Under your repository name, click  Issues or  Pull requests.
+
+repo-settings-issues-pull-requests
+
+3. In the upper-right corner, select the Assignee drop-down menu.
+
+4. The Assignee drop-down menu lists everyone who has write access to your repository. Click the name of the person whose assigned items you want to see, or click Assigned to nobody to see which issues are unassigned.
+
+issues_assignee_dropdown

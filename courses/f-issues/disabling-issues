@@ -1,0 +1,17 @@
+https://help.github.com/en/articles/disabling-issues
+
+Disabling issues
+
+You may wish to turn issues off for your repository if you do not accept contributions or bug reports.
+
+1. On GitHub, navigate to the main page of the repository.
+
+2. Under your repository name, click  **Settings**.
+
+repo-actions-settings
+
+3. Under Features, unselect the Issues checkbox.
+
+issues_settings_remove_from_repo
+
+If you decide to enable issues again in the future, any issues that were previously added will be available.

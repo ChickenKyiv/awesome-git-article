@@ -1,0 +1,8 @@
+## Sharing filters
+#### When you filter or sort issues and pull requests, your browser's URL is automatically updated to match the new view.
+
+You can send the URL that issues generates to any user, and they'll be able to see the same filter view that you see.
+
+For example, if you filter on issues assigned to Hubot, and sort on the oldest open issues, your URL would update to something like the following:
+
+`/issues?q=state:open+type:issue+assignee:hubot+sort:created-asc`
