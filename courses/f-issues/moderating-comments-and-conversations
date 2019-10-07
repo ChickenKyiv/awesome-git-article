@@ -100,6 +100,7 @@ comment-menu (2)
 3. Optionally, write a comment noting that you deleted a comment and why.
 
 ---
+---
 
 ## Tracking changes in a comment
 #### Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can delete sensitive information from a comment's edit history.
@@ -116,3 +117,27 @@ comment-menu (2)
 
 
 choose-comment-edit-to-expand
+
+--
+
+## Deleting sensitive information from a comment's history
+#### When you delete sensitive information from the comment's edit history, the person who made the edit and when they made the edit is still visible in the comment history but the content of the edit is no longer available.
+
+1. Navigate to the comment where you would like to delete sensitive information from the edit history.
+
+2. At the top of the comment, click **edited** to open the edit history.
+
+**Note**: If you don't see the edited option, then the comment doesn't have an edit history.
+
+3. To view the details of a specific change, select it from the list of edits.
+
+choose-comment-edit-to-expand (1)
+
+4. In the top right of the edit history window, click **Options**.
+ Then click **Delete revision from history** to delete the diff that shows the content being added.
+
+ delete-comment-edit-details
+
+ 5. To confirm deletion, click **OK**.
+
+ 
