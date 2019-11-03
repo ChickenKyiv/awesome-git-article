@@ -8,6 +8,11 @@
 
 
 
+https://hackernoon.com/19-tips-for-everyday-git-use-fcc1413f39f5
+https://blog.axosoft.com/feedback-loops-agile-development/
+
+
+
 This repository contains important resources for mastering Git.
 
 
